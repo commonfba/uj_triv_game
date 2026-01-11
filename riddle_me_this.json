@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "What has keys but can't open a single lock?",
+    "Option 1": "A Map",
+    "Option 2": "A Piano",
+    "Option 3": "A Skeleton",
+    "Option 4": "A Prison",
+    "Correct Answer": "A Piano",
+    "Interesting Fact": "Most modern pianos have eighty-eight keys that produce a wide range of musical notes."
+  },
+  {
+    "Question": "What has to be broken before you can use it?",
+    "Option 1": "A Promise",
+    "Option 2": "An Egg",
+    "Option 3": "A Silence",
+    "Option 4": "A Record",
+    "Correct Answer": "An Egg",
+    "Interesting Fact": "You must crack the hard outer shell to reach the yolk and white inside."
+  },
+  {
+    "Question": "What gets wetter the more it dries?",
+    "Option 1": "A Raincoat",
+    "Option 2": "A Towel",
+    "Option 3": "A Sponge",
+    "Option 4": "A Wave",
+    "Correct Answer": "A Towel",
+    "Interesting Fact": "Towels absorb liquid from your body, making the fabric damp as you get dry."
+  },
+  {
+    "Question": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+    "Option 1": "A Tree",
+    "Option 2": "A Candle",
+    "Option 3": "A Human",
+    "Option 4": "A Mountain",
+    "Correct Answer": "A Candle",
+    "Interesting Fact": "As the wax melts and the wick burns, the candle gradually decreases in height."
+  },
+  {
+    "Question": "What has many teeth but cannot bite?",
+    "Option 1": "A Zipper",
+    "Option 2": "A Shark",
+    "Option 3": "A Comb",
+    "Option 4": "A Saw",
+    "Correct Answer": "A Comb",
+    "Interesting Fact": "The narrow plastic or metal teeth are designed to smooth and untangle your hair."
+  },
+  {
+    "Question": "What has a thumb and four fingers, but is not alive?",
+    "Option 1": "A Hand",
+    "Option 2": "A Glove",
+    "Option 3": "A Shadow",
+    "Option 4": "A Clock",
+    "Correct Answer": "A Glove",
+    "Interesting Fact": "Gloves are designed to mimic the shape of a human hand for warmth and protection."
+  },
+  {
+    "Question": "What has one eye but cannot see?",
+    "Option 1": "A Storm",
+    "Option 2": "A Needle",
+    "Option 3": "A Potato",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Needles, storms, and potatoes all possess \"eyes,\" though none of them have any vision."
+  },
+  {
+    "Question": "What has a neck but no head?",
+    "Option 1": "A Bottle",
+    "Option 2": "A Shirt",
+    "Option 3": "A Guitar",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Each of these objects has a narrow part called a neck but no face."
+  },
+  {
+    "Question": "What goes up but never comes back down?",
+    "Option 1": "A Balloon",
+    "Option 2": "Your Age",
+    "Option 3": "A Plane",
+    "Option 4": "A Bird",
+    "Correct Answer": "Your Age",
+    "Interesting Fact": "Time only moves forward, so the number of years you have lived always increases."
+  },
+  {
+    "Question": "What belongs to you, but others use it more than you do?",
+    "Option 1": "Your Phone",
+    "Option 2": "Your Name",
+    "Option 3": "Your Money",
+    "Option 4": "Your Car",
+    "Correct Answer": "Your Name",
+    "Interesting Fact": "Although it is your identity, other people use your name to get your attention."
+  },
+  {
+    "Question": "What has a face and two hands but no arms or legs?",
+    "Option 1": "A Ghost",
+    "Option 2": "A Clock",
+    "Option 3": "A Mirror",
+    "Option 4": "A Doll",
+    "Correct Answer": "A Clock",
+    "Interesting Fact": "The \"face\" displays the numbers while the \"hands\" rotate to show the current time."
+  },
+  {
+    "Question": "What is easy to get into but hard to get out of?",
+    "Option 1": "A Bed",
+    "Option 2": "Trouble",
+    "Option 3": "A Car",
+    "Option 4": "A Room",
+    "Correct Answer": "Trouble",
+    "Interesting Fact": "Making a bad choice is simple, but fixing the resulting consequences is often difficult."
+  },
+  {
+    "Question": "What begins with T, ends with T, and has T in it?",
+    "Option 1": "Taunt",
+    "Option 2": "Teapot",
+    "Option 3": "Ticket",
+    "Option 4": "Toast",
+    "Correct Answer": "Teapot",
+    "Interesting Fact": "This clever wordplay refers to the fact that a teapot actually contains hot tea."
+  },
+  {
+    "Question": "What building has the most stories?",
+    "Option 1": "A Library",
+    "Option 2": "A Skyscraper",
+    "Option 3": "A Hospital",
+    "Option 4": "A School",
+    "Correct Answer": "A Library",
+    "Interesting Fact": "This is a pun because libraries contain thousands of books filled with fictional stories."
+  },
+  {
+    "Question": "What has many holes but still holds water?",
+    "Option 1": "A Net",
+    "Option 2": "A Sponge",
+    "Option 3": "A Sieve",
+    "Option 4": "A Colander",
+    "Correct Answer": "A Sponge",
+    "Interesting Fact": "The porous material allows the sponge to absorb and retain a large volume of liquid."
+  },
+  {
+    "Question": "If you drop a yellow hat in the Blue Sea, what does it become?",
+    "Option 1": "Green",
+    "Option 2": "Wet",
+    "Option 3": "Heavy",
+    "Option 4": "Invisible",
+    "Correct Answer": "Wet",
+    "Interesting Fact": "Regardless of the color of the water, an object will simply become very wet."
+  },
+  {
+    "Question": "What can you catch but not throw?",
+    "Option 1": "A Cold",
+    "Option 2": "A Ball",
+    "Option 3": "A Secret",
+    "Option 4": "A Shadow",
+    "Correct Answer": "A Cold",
+    "Interesting Fact": "You can \"catch\" a virus from someone else, but you cannot physically throw it."
+  },
+  {
+    "Question": "What has a bottom at the top?",
+    "Option 1": "A Mountain",
+    "Option 2": "Your Legs",
+    "Option 3": "A Bottle",
+    "Option 4": "A Hat",
+    "Correct Answer": "Your Legs",
+    "Interesting Fact": "Your legs are attached to your bottom, which sits at the top of them."
+  },
+  {
+    "Question": "What travels around the world but stays in one corner?",
+    "Option 1": "A Plane",
+    "Option 2": "A Stamp",
+    "Option 3": "A Letter",
+    "Option 4": "A Bird",
+    "Correct Answer": "A Stamp",
+    "Interesting Fact": "A postage stamp stays stuck to the corner of an envelope as it travels."
+  },
+  {
+    "Question": "What has words, but never speaks?",
+    "Option 1": "A Book",
+    "Option 2": "A Radio",
+    "Option 3": "A Teacher",
+    "Option 4": "A Parrot",
+    "Correct Answer": "A Book",
+    "Interesting Fact": "Books contain written language that tells a story without making any actual spoken sounds."
+  },
+  {
+    "Question": "What is black and white and read all over?",
+    "Option 1": "A Zebra",
+    "Option 2": "A Newspaper",
+    "Option 3": "A Penguin",
+    "Option 4": "A Soccer Ball",
+    "Correct Answer": "A Newspaper",
+    "Interesting Fact": "This classic riddle uses a pun on the word \"read\" and the color \"red.\""
+  },
+  {
+    "Question": "What can you break, even if you never pick it up or touch it?",
+    "Option 1": "A Window",
+    "Option 2": "A Promise",
+    "Option 3": "A Mirror",
+    "Option 4": "A Heart",
+    "Correct Answer": "A Promise",
+    "Interesting Fact": "To break a promise means you failed to do what you said you would."
+  },
+  {
+    "Question": "I follow you all day long, but when the sun sets, I disappear. What am I?",
+    "Option 1": "Your Dog",
+    "Option 2": "Your Shadow",
+    "Option 3": "Your Breath",
+    "Option 4": "Your Hat",
+    "Correct Answer": "Your Shadow",
+    "Interesting Fact": "Shadows require a light source to exist and will vanish once the light is gone."
+  },
+  {
+    "Question": "What has a head and a tail but no body?",
+    "Option 1": "A Snake",
+    "Option 2": "A Coin",
+    "Option 3": "A Comet",
+    "Option 4": "A Ghost",
+    "Correct Answer": "A Coin",
+    "Interesting Fact": "Most currency features a \"head\" on one side and a different design on the other."
+  },
+  {
+    "Question": "What can run but never walks, and has a mouth but never talks?",
+    "Option 1": "A River",
+    "Option 2": "A Track Star",
+    "Option 3": "A Car",
+    "Option 4": "A Clock",
+    "Correct Answer": "A River",
+    "Interesting Fact": "Rivers flow quickly and have an opening called a mouth where they meet the sea."
+  },
+  {
+    "Question": "What is full of holes but can still hold a lot of weight?",
+    "Option 1": "A Net",
+    "Option 2": "A Bridge",
+    "Option 3": "A Ship",
+    "Option 4": "A Cloud",
+    "Correct Answer": "A Net",
+    "Interesting Fact": "Fishing nets are made of many holes but are strong enough to carry heavy loads."
+  },
+  {
+    "Question": "What kind of room has no doors or windows?",
+    "Option 1": "A Kitchen",
+    "Option 2": "A Mushroom",
+    "Option 3": "A Basement",
+    "Option 4": "A Cellar",
+    "Correct Answer": "A Mushroom",
+    "Interesting Fact": "This is a play on the word \"room\" found within the name of the fungus."
+  },
+  {
+    "Question": "What starts with P, ends with E, and has thousands of letters?",
+    "Option 1": "Postman",
+    "Option 2": "Post Office",
+    "Option 3": "Envelope",
+    "Option 4": "Package",
+    "Correct Answer": "Post Office",
+    "Interesting Fact": "This riddle refers to the thousands of physical letters delivered by the postal service daily."
+  },
+  {
+    "Question": "What is so fragile that saying its name breaks it?",
+    "Option 1": "Glass",
+    "Option 2": "Silence",
+    "Option 3": "Secret",
+    "Option 4": "Bubble",
+    "Correct Answer": "Silence",
+    "Interesting Fact": "As soon as you speak, the quiet state of silence is immediately gone or broken."
+  },
+  {
+    "Question": "What tree can you carry in your hand?",
+    "Option 1": "A Bonsai",
+    "Option 2": "A Palm",
+    "Option 3": "A Pine",
+    "Option 4": "An Oak",
+    "Correct Answer": "A Palm",
+    "Interesting Fact": "This riddle uses the word \"palm\" to refer to the inner part of your hand."
+  },
+  {
+    "Question": "What goes through cities and over hills, but never moves?",
+    "Option 1": "A Car",
+    "Option 2": "A Road",
+    "Option 3": "A River",
+    "Option 4": "A Cloud",
+    "Correct Answer": "A Road",
+    "Interesting Fact": "Roads are permanent structures that connect places without ever changing their physical location."
+  },
+  {
+    "Question": "What is always in front of you but can’t be seen?",
+    "Option 1": "The Air",
+    "Option 2": "The Future",
+    "Option 3": "The Sun",
+    "Option 4": "Your Nose",
+    "Correct Answer": "The Future",
+    "Interesting Fact": "The future is ahead of us in time, but it cannot be visually observed yet."
+  },
+  {
+    "Question": "What has four legs but can't walk?",
+    "Option 1": "A Dog",
+    "Option 2": "A Table",
+    "Option 3": "A Baby",
+    "Option 4": "A Spider",
+    "Correct Answer": "A Table",
+    "Interesting Fact": "Furniture pieces like tables have legs for support but lack the ability to move themselves."
+  },
+  {
+    "Question": "What has to be \"answered\" but never asks a question?",
+    "Option 1": "A Teacher",
+    "Option 2": "A Phone",
+    "Option 3": "A Letter",
+    "Option 4": "A Riddle",
+    "Correct Answer": "A Phone",
+    "Interesting Fact": "When a phone rings, you must answer the call to speak with the other person."
+  },
+  {
+    "Question": "What gets sharper the more you use it?",
+    "Option 1": "A Knife",
+    "Option 2": "Your Brain",
+    "Option 3": "A Pencil",
+    "Option 4": "A Saw",
+    "Correct Answer": "Your Brain",
+    "Interesting Fact": "Learning and practicing mental exercises helps keep your mind quick and very sharp."
+  },
+  {
+    "Question": "What can you give away but still keep?",
+    "Option 1": "A Gift",
+    "Option 2": "Your Word",
+    "Option 3": "Your Money",
+    "Option 4": "A Secret",
+    "Correct Answer": "Your Word",
+    "Interesting Fact": "Giving someone your word means making a promise that you must still personally keep."
+  },
+  {
+    "Question": "What has many keys but can’t open a single door?",
+    "Option 1": "A Piano",
+    "Option 2": "A Map",
+    "Option 3": "A Computer",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Maps have legends (keys), and pianos and computers both have boards full of keys."
+  },
+  {
+    "Question": "What is bought by the yard but worn by the foot?",
+    "Option 1": "Fabric",
+    "Option 2": "A Carpet",
+    "Option 3": "A Shoe",
+    "Option 4": "Grass",
+    "Correct Answer": "A Carpet",
+    "Interesting Fact": "Carpets are sold by measurement, but people walk all over them with their feet."
+  },
+  {
+    "Question": "I have cities, but no houses. I have mountains, but no trees. What am I?",
+    "Option 1": "A Map",
+    "Option 2": "A Painting",
+    "Option 3": "A Dream",
+    "Option 4": "A Globe",
+    "Correct Answer": "A Map",
+    "Interesting Fact": "Maps represent geography and locations using symbols rather than building actual physical structures."
+  },
+  {
+    "Question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "Option 1": "The Letter M",
+    "Option 2": "A Second",
+    "Option 3": "A Breath",
+    "Option 4": "A Memory",
+    "Correct Answer": "The Letter M",
+    "Interesting Fact": "This is a spelling riddle based on how many times the letter \"M\" appears."
+  },
+  {
+    "Question": "What is the end of everything?",
+    "Option 1": "Death",
+    "Option 2": "The Letter G",
+    "Option 3": "A Wall",
+    "Option 4": "Space",
+    "Correct Answer": "The Letter G",
+    "Interesting Fact": "This is a literal riddle about the last letter in the word \"everything.\""
+  },
+  {
+    "Question": "What stays hot even if it is put in the refrigerator?",
+    "Option 1": "Soup",
+    "Option 2": "A Pepper",
+    "Option 3": "Coffee",
+    "Option 4": "A Battery",
+    "Correct Answer": "A Pepper",
+    "Interesting Fact": "Chili peppers are \"hot\" due to spice, which does not change based on their temperature."
+  },
+  {
+    "Question": "What has a bark but no bite?",
+    "Option 1": "A Puppy",
+    "Option 2": "A Tree",
+    "Option 3": "A Seal",
+    "Option 4": "A Log",
+    "Correct Answer": "A Tree",
+    "Interesting Fact": "The outer protective layer of a tree trunk is known as the bark."
+  },
+  {
+    "Question": "What can you hold in your left hand but not in your right?",
+    "Option 1": "A Pen",
+    "Option 2": "Your Right Elbow",
+    "Option 3": "A Ball",
+    "Option 4": "Your Phone",
+    "Correct Answer": "Your Right Elbow",
+    "Interesting Fact": "It is physically impossible to touch your right elbow with your right hand."
+  },
+  {
+    "Question": "What is light as a feather, but even the strongest man can’t hold it for long?",
+    "Option 1": "A Leaf",
+    "Option 2": "Your Breath",
+    "Option 3": "A Secret",
+    "Option 4": "A Cloud",
+    "Correct Answer": "Your Breath",
+    "Interesting Fact": "You eventually have to exhale after holding your breath for a short period of time."
+  },
+  {
+    "Question": "What has a thumb but no fingers?",
+    "Option 1": "A Mitten",
+    "Option 2": "A Glove",
+    "Option 3": "A Sock",
+    "Option 4": "A Boot",
+    "Correct Answer": "A Mitten",
+    "Interesting Fact": "Unlike gloves, mittens keep fingers together in one pouch and the thumb in another."
+  },
+  {
+    "Question": "What kind of coat is best put on wet?",
+    "Option 1": "A Raincoat",
+    "Option 2": "A Coat of Paint",
+    "Option 3": "A Fur Coat",
+    "Option 4": "A Winter Coat",
+    "Correct Answer": "A Coat of Paint",
+    "Interesting Fact": "Paint must be applied while wet so that it can dry and cover the surface."
+  },
+  {
+    "Question": "What has 13 hearts but no other organs?",
+    "Option 1": "A Human",
+    "Option 2": "A Deck of Cards",
+    "Option 3": "A Hospital",
+    "Option 4": "A Valentine",
+    "Correct Answer": "A Deck of Cards",
+    "Interesting Fact": "A standard deck contains thirteen cards in the \"hearts\" suit, from Ace to King."
+  },
+  {
+    "Question": "What kind of cup doesn't hold water?",
+    "Option 1": "A Teacup",
+    "Option 2": "A Cupcake",
+    "Option 3": "A Measuring Cup",
+    "Option 4": "A Trophy",
+    "Correct Answer": "A Cupcake",
+    "Interesting Fact": "A cupcake is a small cake baked in a cup-shaped container made of paper."
+  },
+  {
+    "Question": "What can you break without picking it up?",
+    "Option 1": "A Promise",
+    "Option 2": "A Silence",
+    "Option 3": "A Record",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Promises, silence, and world records can all be broken through actions rather than touch."
+  },
+  {
+    "Question": "What has a ring but no finger?",
+    "Option 1": "A Telephone",
+    "Option 2": "A Tree",
+    "Option 3": "A Box",
+    "Option 4": "A Ghost",
+    "Correct Answer": "A Telephone",
+    "Interesting Fact": "Old telephones used a physical bell to alert people of an incoming call."
+  },
+  {
+    "Question": "What gets bigger the more you take away?",
+    "Option 1": "A Hole",
+    "Option 2": "A Shadow",
+    "Option 3": "A Debt",
+    "Option 4": "A Secret",
+    "Correct Answer": "A Hole",
+    "Interesting Fact": "Removing dirt or material from the ground naturally increases the size of the hole."
+  },
+  {
+    "Question": "What has a single horn but isn't a unicorn?",
+    "Option 1": "A Rhino",
+    "Option 2": "A Narwhal",
+    "Option 3": "A Goat",
+    "Option 4": "Both 1 & 2",
+    "Correct Answer": "Both 1 & 2",
+    "Interesting Fact": "Rhinoceros horns are made of keratin, which is the same protein in human fingernails."
+  },
+  {
+    "Question": "What has one head, one foot, and four legs?",
+    "Option 1": "A Bed",
+    "Option 2": "A Dog",
+    "Option 3": "A Chair",
+    "Option 4": "A School",
+    "Correct Answer": "A Bed",
+    "Interesting Fact": "The terms headboard and footboard refer to the two ends of a standard bed frame."
+  },
+  {
+    "Question": "What is easy to lift but hard to throw?",
+    "Option 1": "A Feather",
+    "Option 2": "A Rock",
+    "Option 3": "A Ball",
+    "Option 4": "A Cloud",
+    "Correct Answer": "A Feather",
+    "Interesting Fact": "Feathers are extremely light but air resistance prevents them from being thrown very far."
+  },
+  {
+    "Question": "What can you see but never touch?",
+    "Option 1": "A Mirror",
+    "Option 2": "Your Reflection",
+    "Option 3": "A Wall",
+    "Option 4": "A Window",
+    "Correct Answer": "Your Reflection",
+    "Interesting Fact": "You can see a mirror, but you are usually looking at your own reflection."
+  },
+  {
+    "Question": "What has no wings but can fly?",
+    "Option 1": "A Plane",
+    "Option 2": "A Bird",
+    "Option 3": "The Wind",
+    "Option 4": "A Cloud",
+    "Correct Answer": "The Wind",
+    "Interesting Fact": "The wind moves air around the world but does not have a physical body."
+  },
+  {
+    "Question": "What is made of wood but cannot be sawed?",
+    "Option 1": "A Tree",
+    "Option 2": "Sawdust",
+    "Option 3": "A Table",
+    "Option 4": "A House",
+    "Correct Answer": "Sawdust",
+    "Interesting Fact": "Sawdust is already composed of tiny particles that were created during the sawing process."
+  },
+  {
+    "Question": "What follows you but has no legs?",
+    "Option 1": "A Dog",
+    "Option 2": "A Shadow",
+    "Option 3": "A Ghost",
+    "Option 4": "A Car",
+    "Correct Answer": "A Shadow",
+    "Interesting Fact": "Your shadow appears when your body blocks light from reaching a surface behind you."
+  },
+  {
+    "Question": "What has many keys but can't open a lock?",
+    "Option 1": "A Keyboard",
+    "Option 2": "A Map",
+    "Option 3": "A Door",
+    "Option 4": "A Safe",
+    "Correct Answer": "A Keyboard",
+    "Interesting Fact": "A keyboard contains many different keys that allow you to type letters and numbers."
+  },
+  {
+    "Question": "Where can you find a bank with no money?",
+    "Option 1": "A School",
+    "Option 2": "A River",
+    "Option 3": "A Park",
+    "Option 4": "A Library",
+    "Correct Answer": "A River",
+    "Interesting Fact": "The land alongside a river is called a bank, which holds water instead of money."
+  },
+  {
+    "Question": "What has teeth but cannot eat?",
+    "Option 1": "A Shark",
+    "Option 2": "A Comb",
+    "Option 3": "A Saw",
+    "Option 4": "Both 2 & 3",
+    "Correct Answer": "Both 2 & 3",
+    "Interesting Fact": "A comb uses its teeth to separate hair strands without causing any pain."
+  },
+  {
+    "Question": "What has an eye but can't see?",
+    "Option 1": "A Needle",
+    "Option 2": "A Potato",
+    "Option 3": "A Storm",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "The eye of a needle is the small hole where the thread passes through."
+  },
+  {
+    "Question": "What has skin but no hair?",
+    "Option 1": "A Snake",
+    "Option 2": "A Potato",
+    "Option 3": "An Apple",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Potatoes grow underground and have small bumps on their skin called eyes."
+  },
+  {
+    "Question": "If I have it, I don't share it. If I share it, I don't have it.",
+    "Option 1": "A Cold",
+    "Option 2": "A Secret",
+    "Option 3": "A Money",
+    "Option 4": "A Toy",
+    "Correct Answer": "A Secret",
+    "Interesting Fact": "A secret is information that is meant to be kept private from other people."
+  },
+  {
+    "Question": "What is white when it's dirty?",
+    "Option 1": "A Shirt",
+    "Option 2": "A Blackboard",
+    "Option 3": "A Cloud",
+    "Option 4": "A Paper",
+    "Correct Answer": "A Blackboard",
+    "Interesting Fact": "A blackboard becomes covered in white chalk dust as it is used for writing."
+  },
+  {
+    "Question": "What speaks without a mouth?",
+    "Option 1": "A Radio",
+    "Option 2": "An Echo",
+    "Option 3": "A Phone",
+    "Option 4": "A Book",
+    "Correct Answer": "An Echo",
+    "Interesting Fact": "Echoes happen when sound waves bounce off a hard surface and return to you."
+  },
+  {
+    "Question": "Where does today come before yesterday?",
+    "Option 1": "A Dream",
+    "Option 2": "A Dictionary",
+    "Option 3": "A Movie",
+    "Option 4": "A Library",
+    "Correct Answer": "A Dictionary",
+    "Interesting Fact": "In a dictionary, words are listed alphabetically, so \"today\" appears before the word \"yesterday.\""
+  },
+  {
+    "Question": "What contains all the letters?",
+    "Option 1": "A Mailbox",
+    "Option 2": "The Alphabet",
+    "Option 3": "A Book",
+    "Option 4": "A School",
+    "Correct Answer": "The Alphabet",
+    "Interesting Fact": "The alphabet is a set of letters used to write and speak a language."
+  },
+  {
+    "Question": "What gets shorter as it grows older?",
+    "Option 1": "A Human",
+    "Option 2": "A Candle",
+    "Option 3": "A Tree",
+    "Option 4": "A Road",
+    "Correct Answer": "A Candle",
+    "Interesting Fact": "A candle produces light and heat by burning a wick surrounded by wax."
+  },
+  {
+    "Question": "What has a thumb but no fingers?",
+    "Option 1": "A Mitten",
+    "Option 2": "A Glove",
+    "Option 3": "A Sock",
+    "Option 4": "A Shoe",
+    "Correct Answer": "A Mitten",
+    "Interesting Fact": "Mittens keep your fingers together in one pocket and your thumb in another."
+  },
+  {
+    "Question": "What is always coming but never arrives?",
+    "Option 1": "The Mail",
+    "Option 2": "Tomorrow",
+    "Option 3": "A Bus",
+    "Option 4": "The Rain",
+    "Correct Answer": "Tomorrow",
+    "Interesting Fact": "Tomorrow is always one day away and becomes \"today\" once the sun rises."
+  },
+  {
+    "Question": "What has two wheels but can't stand up?",
+    "Option 1": "A Bike",
+    "Option 2": "A Car",
+    "Option 3": "A Unicycle",
+    "Option 4": "A Cart",
+    "Correct Answer": "A Bike",
+    "Interesting Fact": "A bicycle has two wheels that rotate to move the rider along the road."
+  },
+  {
+    "Question": "What has two blades but cannot fly?",
+    "Option 1": "A Fan",
+    "Option 2": "Scissors",
+    "Option 3": "A Plane",
+    "Option 4": "A Bird",
+    "Correct Answer": "Scissors",
+    "Interesting Fact": "Scissors have two blades that slide past each other to cut through various materials."
+  },
+  {
+    "Question": "What is the hardest thing to catch?",
+    "Option 1": "A Cold",
+    "Option 2": "Your Breath",
+    "Option 3": "A Ball",
+    "Option 4": "A Fish",
+    "Correct Answer": "Your Breath",
+    "Interesting Fact": "You must eventually exhale after holding your breath for a short period of time."
+  },
+  {
+    "Question": "I have cities but no houses. What am I?",
+    "Option 1": "A Dream",
+    "Option 2": "A Map",
+    "Option 3": "A Book",
+    "Option 4": "A Globe",
+    "Correct Answer": "A Map",
+    "Interesting Fact": "A map uses symbols and scales to represent large areas on a flat surface."
+  },
+  {
+    "Question": "What has millions of eyes but cannot see?",
+    "Option 1": "A Potato",
+    "Option 2": "A Crowd",
+    "Option 3": "A Star",
+    "Option 4": "A Fly",
+    "Correct Answer": "A Star",
+    "Interesting Fact": "A star is a giant ball of glowing gas located far away in space."
+  },
+  {
+    "Question": "What has five fingers but no skin?",
+    "Option 1": "A Ghost",
+    "Option 2": "A Glove",
+    "Option 3": "A Skeleton",
+    "Option 4": "A Shadow",
+    "Correct Answer": "A Glove",
+    "Interesting Fact": "Gloves provide a protective layer for your hands during cold weather or messy work."
+  },
+  {
+    "Question": "What has teeth that lock but never bite?",
+    "Option 1": "A Saw",
+    "Option 2": "A Zipper",
+    "Option 3": "A Shark",
+    "Option 4": "A Key",
+    "Correct Answer": "A Zipper",
+    "Interesting Fact": "A zipper uses interlocking teeth to join two edges of fabric or other material."
+  },
+  {
+    "Question": "What is full of stories but cannot talk?",
+    "Option 1": "A Library",
+    "Option 2": "A Book",
+    "Option 3": "A Teacher",
+    "Option 4": "Both 1 & 2",
+    "Correct Answer": "Both 1 & 2",
+    "Interesting Fact": "Books allow us to share ideas and stories across many generations of people."
+  },
+  {
+    "Question": "What is full of holes but holds water?",
+    "Option 1": "A Net",
+    "Option 2": "A Sponge",
+    "Option 3": "A Sieve",
+    "Option 4": "A Cloud",
+    "Correct Answer": "A Sponge",
+    "Interesting Fact": "A sponge can absorb and hold liquid because it is filled with tiny holes."
+  },
+  {
+    "Question": "What has to be fed to live but dies if you give it water?",
+    "Option 1": "A Plant",
+    "Option 2": "A Fire",
+    "Option 3": "A Baby",
+    "Option 4": "A Pet",
+    "Correct Answer": "A Fire",
+    "Interesting Fact": "Fire requires oxygen, heat, and fuel to continue burning and producing bright light."
+  },
+  {
+    "Question": "What has hands but cannot clap?",
+    "Option 1": "A Clock",
+    "Option 2": "A Baby",
+    "Option 3": "A Ghost",
+    "Option 4": "A Tree",
+    "Correct Answer": "A Clock",
+    "Interesting Fact": "A clock uses gears or electronics to track the passing seconds, minutes, and hours."
+  },
+  {
+    "Question": "What has a face but no eyes?",
+    "Option 1": "A Ghost",
+    "Option 2": "A Clock",
+    "Option 3": "A Mirror",
+    "Option 4": "A Doll",
+    "Correct Answer": "A Clock",
+    "Interesting Fact": "The moon reflects light from the sun because it does not produce its own."
+  },
+  {
+    "Question": "What has a pane but no pain?",
+    "Option 1": "A Doctor",
+    "Option 2": "A Window",
+    "Option 3": "A Glass",
+    "Option 4": "A Door",
+    "Correct Answer": "A Window",
+    "Interesting Fact": "A window is made of glass to let light in while keeping weather out."
+  },
+  {
+    "Question": "What is hard as a rock but melts in the sun?",
+    "Option 1": "A Diamond",
+    "Option 2": "Ice",
+    "Option 3": "A Candle",
+    "Option 4": "Chocolate",
+    "Correct Answer": "Ice",
+    "Interesting Fact": "Ice is the solid form of water that occurs when temperatures drop below freezing."
+  },
+  {
+    "Question": "What has a peak but no eyes?",
+    "Option 1": "A Bird",
+    "Option 2": "A Mountain",
+    "Option 3": "A Cap",
+    "Option 4": "A Roof",
+    "Correct Answer": "A Mountain",
+    "Interesting Fact": "A mountain is a large landform that rises high above the surrounding land area."
+  },
+  {
+    "Question": "What falls but never gets hurt?",
+    "Option 1": "A Leaf",
+    "Option 2": "Rain",
+    "Option 3": "Snow",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Rain is liquid water that falls from clouds when they become too heavy."
+  },
+  {
+    "Question": "What has a deck but no house?",
+    "Option 1": "A Ship",
+    "Option 2": "A Bridge",
+    "Option 3": "A Bus",
+    "Option 4": "A Park",
+    "Correct Answer": "A Ship",
+    "Interesting Fact": "A bridge is a structure built to span a physical obstacle like a river."
+  },
+  {
+    "Question": "What points north but has no finger?",
+    "Option 1": "A Map",
+    "Option 2": "A Compass",
+    "Option 3": "A Star",
+    "Option 4": "A Bird",
+    "Correct Answer": "A Compass",
+    "Interesting Fact": "A compass uses a magnetic needle to show the direction of the North Pole."
+  },
+  {
+    "Question": "What runs through your house but has no legs?",
+    "Option 1": "A Dog",
+    "Option 2": "Electricity",
+    "Option 3": "Water",
+    "Option 4": "Both 2 & 3",
+    "Correct Answer": "Both 2 & 3",
+    "Interesting Fact": "Electricity is a form of energy that powers the lights and appliances in homes."
+  },
+  {
+    "Question": "What has many leaves but no roots?",
+    "Option 1": "A Tree",
+    "Option 2": "A Book",
+    "Option 3": "A Plant",
+    "Option 4": "A Salad",
+    "Correct Answer": "A Book",
+    "Interesting Fact": "A tree provides oxygen for us to breathe and shade on a hot day."
+  },
+  {
+    "Question": "What is made of stones but is soft to walk on?",
+    "Option 1": "A Beach",
+    "Option 2": "A Road",
+    "Option 3": "A Wall",
+    "Option 4": "A Mountain",
+    "Correct Answer": "A Beach",
+    "Interesting Fact": "Sand is made of tiny pieces of rock and shells ground up by waves."
+  },
+  {
+    "Question": "What has a case but no crime?",
+    "Option 1": "A Lawyer",
+    "Option 2": "A Pillow",
+    "Option 3": "A Phone",
+    "Option 4": "Both 2 & 3",
+    "Correct Answer": "Both 2 & 3",
+    "Interesting Fact": "A pillow provides soft support for your head and neck while you are sleeping."
+  },
+  {
+    "Question": "What has ribs but no bones?",
+    "Option 1": "A Skeleton",
+    "Option 2": "An Umbrella",
+    "Option 3": "A Boat",
+    "Option 4": "A Shark",
+    "Correct Answer": "An Umbrella",
+    "Interesting Fact": "An umbrella uses a waterproof canopy to protect people from rain or bright sun."
+  },
+  {
+    "Question": "What has a head but no brain?",
+    "Option 1": "A Ghost",
+    "Option 2": "A Hammer",
+    "Option 3": "A Nail",
+    "Option 4": "Both 2 & 3",
+    "Correct Answer": "Both 2 & 3",
+    "Interesting Fact": "A hammer is a tool used to drive nails into wood or other materials."
+  },
+  {
+    "Question": "What takes a picture but has no hands?",
+    "Option 1": "A Painter",
+    "Option 2": "A Camera",
+    "Option 3": "A Mirror",
+    "Option 4": "A Ghost",
+    "Correct Answer": "A Camera",
+    "Interesting Fact": "A camera captures light to create a permanent image of a specific moment."
+  },
+  {
+    "Question": "What has strings but no bow?",
+    "Option 1": "A Violin",
+    "Option 2": "A Guitar",
+    "Option 3": "A Kite",
+    "Option 4": "Both 2 & 3",
+    "Correct Answer": "Both 2 & 3",
+    "Interesting Fact": "A guitar produces sound when its strings are plucked or strummed by a player."
+  },
+  {
+    "Question": "What is attractive but has no beauty?",
+    "Option 1": "A Magnet",
+    "Option 2": "A Model",
+    "Option 3": "A Flower",
+    "Option 4": "A Diamond",
+    "Correct Answer": "A Magnet",
+    "Interesting Fact": "A magnet is an object that produces a magnetic field to attract certain metals."
+  },
+  {
+    "Question": "What gets smarter the more you solve it?",
+    "Option 1": "A Math",
+    "Option 2": "A Riddle",
+    "Option 3": "Your Brain",
+    "Option 4": "A Test",
+    "Correct Answer": "Your Brain",
+    "Interesting Fact": "Solving riddles is a great way to exercise your brain and improve your logic."
+  }
+]

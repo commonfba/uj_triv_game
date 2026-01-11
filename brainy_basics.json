@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Blue Whale",
+    "Option 3": "Giraffe",
+    "Option 4": "Shark",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "The blue whale can grow up to 100 feet long and weigh as much as 200 tons!"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Venus",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on its surface, similar to rust on Earth."
+  },
+  {
+    "Question": "What is the process plants use to make food?",
+    "Option 1": "Respiration",
+    "Option 2": "Photosynthesis",
+    "Option 3": "Digestion",
+    "Option 4": "Fermentation",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis converts sunlight, water, and CO2 into food and oxygen for plants."
+  },
+  {
+    "Question": "What gas do humans exhale during breathing?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon Dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Humans exhale carbon dioxide, which plants use for photosynthesis to produce oxygen."
+  },
+  {
+    "Question": "Which bird is known for mimicking sounds?",
+    "Option 1": "Sparrow",
+    "Option 2": "Parrot",
+    "Option 3": "Cuckoo",
+    "Option 4": "Crow",
+    "Correct Answer": "Parrot",
+    "Interesting Fact": "Parrots can mimic human speech and sounds due to their highly developed vocal organs."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "80°C",
+    "Option 2": "100°C",
+    "Option 3": "90°C",
+    "Option 4": "110°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100°C under standard atmospheric pressure, turning from liquid to gas."
+  },
+  {
+    "Question": "What planet is known for its rings?",
+    "Option 1": "Earth",
+    "Option 2": "Saturn",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn's rings are made mostly of ice particles, along with rock and dust."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Nectar",
+    "Option 2": "Pollen",
+    "Option 3": "Petals",
+    "Option 4": "Leaves",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees turn nectar collected from flowers into honey, a natural sweetener rich in energy."
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves are the primary site for photosynthesis, helping plants produce their own food."
+  },
+  {
+    "Question": "What is the main gas found in the air we breathe?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Argon",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up 78% of the air, essential for plants but not directly usable by humans."
+  }
+]

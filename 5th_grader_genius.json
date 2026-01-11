@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "Which planet has the shortest year?",
+    "Option 1": "Earth",
+    "Option 2": "Mercury",
+    "Option 3": "Mars",
+    "Option 4": "Venus",
+    "Correct Answer": "Mercury",
+    "Interesting Fact": "Mercury completes one orbit around the Sun in just 88 days."
+  },
+  {
+    "Question": "What fraction is equal to 0.75?",
+    "Option 1": "2026-02-01T00:00:00",
+    "Option 2": "2026-03-02T00:00:00",
+    "Option 3": "2026-04-03T00:00:00",
+    "Option 4": "2026-05-04T00:00:00",
+    "Correct Answer": "2026-04-03T00:00:00",
+    "Interesting Fact": "Decimals can be converted into fractions using place values."
+  },
+  {
+    "Question": "Which organ controls balance in the human body?",
+    "Option 1": "Heart",
+    "Option 2": "Brain",
+    "Option 3": "Inner Ear",
+    "Option 4": "Lungs",
+    "Correct Answer": "Inner Ear",
+    "Interesting Fact": "The inner ear controls balance and spatial orientation."
+  },
+  {
+    "Question": "If a triangle has two equal sides, what is it called?",
+    "Option 1": "Scalene",
+    "Option 2": "Isosceles",
+    "Option 3": "Equilateral",
+    "Option 4": "Right",
+    "Correct Answer": "Isosceles",
+    "Interesting Fact": "Isosceles triangles have exactly two equal sides."
+  },
+  {
+    "Question": "Which continent has the most countries?",
+    "Option 1": "Asia",
+    "Option 2": "Africa",
+    "Option 3": "Europe",
+    "Option 4": "South America",
+    "Correct Answer": "Africa",
+    "Interesting Fact": "Africa contains 54 internationally recognized countries."
+  },
+  {
+    "Question": "What is the main function of red blood cells?",
+    "Option 1": "Fight disease",
+    "Option 2": "Carry oxygen",
+    "Option 3": "Digest food",
+    "Option 4": "Produce hormones",
+    "Correct Answer": "Carry oxygen",
+    "Interesting Fact": "Red blood cells transport oxygen throughout the body."
+  },
+  {
+    "Question": "Which number is a prime number?",
+    "Option 1": 9,
+    "Option 2": 15,
+    "Option 3": 17,
+    "Option 4": 21,
+    "Correct Answer": 17,
+    "Interesting Fact": "Prime numbers have only two factors: one and itself."
+  },
+  {
+    "Question": "Why do objects float in water?",
+    "Option 1": "Water pushes up",
+    "Option 2": "Air inside",
+    "Option 3": "Density difference",
+    "Option 4": "Shape only",
+    "Correct Answer": "Density difference",
+    "Interesting Fact": "Objects float when less dense than the fluid."
+  },
+  {
+    "Question": "Which gas makes up most of Earth’s atmosphere?",
+    "Option 1": "Oxygen",
+    "Option 2": "Carbon dioxide",
+    "Option 3": "Nitrogen",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Nitrogen",
+    "Interesting Fact": "Nitrogen makes up about 78 percent of Earth’s atmosphere."
+  },
+  {
+    "Question": "What does a thermometer measure?",
+    "Option 1": "Pressure",
+    "Option 2": "Speed",
+    "Option 3": "Temperature",
+    "Option 4": "Weight",
+    "Correct Answer": "Temperature",
+    "Interesting Fact": "Thermometers measure changes in heat energy."
+  },
+  {
+    "Question": "Which ancient civilization built pyramids?",
+    "Option 1": "Romans",
+    "Option 2": "Greeks",
+    "Option 3": "Egyptians",
+    "Option 4": "Vikings",
+    "Correct Answer": "Egyptians",
+    "Interesting Fact": "Pyramids were built as royal tombs for pharaohs."
+  },
+  {
+    "Question": "What is the perimeter of a square with side 5 cm?",
+    "Option 1": "10 cm",
+    "Option 2": "15 cm",
+    "Option 3": "20 cm",
+    "Option 4": "25 cm",
+    "Correct Answer": "20 cm",
+    "Interesting Fact": "Perimeter is the total distance around a shape."
+  },
+  {
+    "Question": "Which part of speech describes an action?",
+    "Option 1": "Noun",
+    "Option 2": "Adjective",
+    "Option 3": "Verb",
+    "Option 4": "Pronoun",
+    "Correct Answer": "Verb",
+    "Interesting Fact": "Verbs describe actions or states of being."
+  },
+  {
+    "Question": "Why do we see lightning before thunder?",
+    "Option 1": "Sound is blocked",
+    "Option 2": "Light travels faster",
+    "Option 3": "Clouds absorb sound",
+    "Option 4": "Thunder forms later",
+    "Correct Answer": "Light travels faster",
+    "Interesting Fact": "Light travels faster than sound through air."
+  },
+  {
+    "Question": "Which force pulls objects toward Earth?",
+    "Option 1": "Magnetism",
+    "Option 2": "Friction",
+    "Option 3": "Gravity",
+    "Option 4": "Energy",
+    "Correct Answer": "Gravity",
+    "Interesting Fact": "Gravity keeps planets, moons, and objects in orbit."
+  },
+  {
+    "Question": "What is the largest internal organ in the human body?",
+    "Option 1": "Heart",
+    "Option 2": "Brain",
+    "Option 3": "Liver",
+    "Option 4": "Lungs",
+    "Correct Answer": "Liver",
+    "Interesting Fact": "The liver performs hundreds of essential body functions."
+  },
+  {
+    "Question": "Which ocean is the largest?",
+    "Option 1": "Atlantic",
+    "Option 2": "Indian",
+    "Option 3": "Pacific",
+    "Option 4": "Arctic",
+    "Correct Answer": "Pacific",
+    "Interesting Fact": "The Pacific Ocean covers over one-third of Earth."
+  },
+  {
+    "Question": "What is the value of Roman numeral X?",
+    "Option 1": 5,
+    "Option 2": 10,
+    "Option 3": 50,
+    "Option 4": 100,
+    "Correct Answer": 10,
+    "Interesting Fact": "Roman numerals were used throughout ancient Rome."
+  },
+  {
+    "Question": "Which material conducts electricity best?",
+    "Option 1": "Rubber",
+    "Option 2": "Plastic",
+    "Option 3": "Wood",
+    "Option 4": "Copper",
+    "Correct Answer": "Copper",
+    "Interesting Fact": "Metals allow electrons to move freely."
+  },
+  {
+    "Question": "What causes day and night on Earth?",
+    "Option 1": "Earth’s orbit",
+    "Option 2": "Sun movement",
+    "Option 3": "Earth’s rotation",
+    "Option 4": "Moon shadow",
+    "Correct Answer": "Earth’s rotation",
+    "Interesting Fact": "Earth rotates once every 24 hours."
+  },
+  {
+    "Question": "Which simple machine is a seesaw?",
+    "Option 1": "Pulley",
+    "Option 2": "Lever",
+    "Option 3": "Wheel",
+    "Option 4": "Inclined plane",
+    "Correct Answer": "Lever",
+    "Interesting Fact": "Levers help lift loads with less effort."
+  },
+  {
+    "Question": "What type of triangle has all sides equal?",
+    "Option 1": "Scalene",
+    "Option 2": "Isosceles",
+    "Option 3": "Right",
+    "Option 4": "Equilateral",
+    "Correct Answer": "Equilateral",
+    "Interesting Fact": "Equilateral triangles have equal sides and angles."
+  },
+  {
+    "Question": "Which layer of Earth is the hottest?",
+    "Option 1": "Crust",
+    "Option 2": "Mantle",
+    "Option 3": "Outer core",
+    "Option 4": "Inner core",
+    "Correct Answer": "Inner core",
+    "Interesting Fact": "Earth’s inner core is extremely hot and dense."
+  },
+  {
+    "Question": "What does evaporation change water into?",
+    "Option 1": "Ice",
+    "Option 2": "Liquid",
+    "Option 3": "Gas",
+    "Option 4": "Solid",
+    "Correct Answer": "Gas",
+    "Interesting Fact": "Evaporation turns liquid water into vapor."
+  },
+  {
+    "Question": "Which word is a synonym for “quick”?",
+    "Option 1": "Slow",
+    "Option 2": "Fast",
+    "Option 3": "Late",
+    "Option 4": "Weak",
+    "Correct Answer": "Fast",
+    "Interesting Fact": "Synonyms are words with similar meanings."
+  },
+  {
+    "Question": "Which angle measures more than 90° but less than 180°?",
+    "Option 1": "Acute",
+    "Option 2": "Right",
+    "Option 3": "Obtuse",
+    "Option 4": "Straight",
+    "Correct Answer": "Obtuse",
+    "Interesting Fact": "Obtuse angles are larger than right angles."
+  },
+  {
+    "Question": "What is the smallest unit of life?",
+    "Option 1": "Organ",
+    "Option 2": "Tissue",
+    "Option 3": "Cell",
+    "Option 4": "Atom",
+    "Correct Answer": "Cell",
+    "Interesting Fact": "Cells are the basic building blocks of living organisms."
+  },
+  {
+    "Question": "Which country gifted the Statue of Liberty to the USA?",
+    "Option 1": "England",
+    "Option 2": "France",
+    "Option 3": "Spain",
+    "Option 4": "Germany",
+    "Correct Answer": "France",
+    "Interesting Fact": "France gifted the statue in 1886 as friendship symbol."
+  },
+  {
+    "Question": "Why do astronauts float inside spacecraft?",
+    "Option 1": "No air",
+    "Option 2": "No gravity",
+    "Option 3": "Microgravity",
+    "Option 4": "Zero mass",
+    "Correct Answer": "Microgravity",
+    "Interesting Fact": "Astronauts experience continuous free fall around Earth."
+  },
+  {
+    "Question": "Which number is divisible by both 2 and 3?",
+    "Option 1": 9,
+    "Option 2": 10,
+    "Option 3": 12,
+    "Option 4": 15,
+    "Correct Answer": 12,
+    "Interesting Fact": "Numbers divisible by 2 and 3 are divisible by 6."
+  },
+  {
+    "Question": "What part of a plant absorbs water from soil?",
+    "Option 1": "Leaf",
+    "Option 2": "Stem",
+    "Option 3": "Flower",
+    "Option 4": "Root",
+    "Correct Answer": "Root",
+    "Interesting Fact": "Roots absorb water and minerals from the soil."
+  },
+  {
+    "Question": "Which state of matter has a fixed volume but no fixed shape?",
+    "Option 1": "Solid",
+    "Option 2": "Liquid",
+    "Option 3": "Gas",
+    "Option 4": "Plasma",
+    "Correct Answer": "Liquid",
+    "Interesting Fact": "Liquids take the shape of their container."
+  },
+  {
+    "Question": "What does the prefix “pre-” mean?",
+    "Option 1": "After",
+    "Option 2": "Before",
+    "Option 3": "Again",
+    "Option 4": "Not",
+    "Correct Answer": "Before",
+    "Interesting Fact": "Prefixes change word meanings when added at beginnings."
+  },
+  {
+    "Question": "Which planet is known as the Red Planet?",
+    "Option 1": "Mercury",
+    "Option 2": "Venus",
+    "Option 3": "Mars",
+    "Option 4": "Jupiter",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars appears red due to iron oxide on surface."
+  },
+  {
+    "Question": "What is the sum of angles inside a triangle?",
+    "Option 1": "90°",
+    "Option 2": "180°",
+    "Option 3": "270°",
+    "Option 4": "360°",
+    "Correct Answer": "180°",
+    "Interesting Fact": "All triangles have interior angles totaling 180 degrees."
+  },
+  {
+    "Question": "Which part of the brain controls thinking and memory?",
+    "Option 1": "Cerebellum",
+    "Option 2": "Brainstem",
+    "Option 3": "Cerebrum",
+    "Option 4": "Medulla",
+    "Correct Answer": "Cerebrum",
+    "Interesting Fact": "Cerebrum handles thinking, memory, and decision-making."
+  },
+  {
+    "Question": "Which continent is also a country?",
+    "Option 1": "Europe",
+    "Option 2": "Africa",
+    "Option 3": "Australia",
+    "Option 4": "Asia",
+    "Correct Answer": "Australia",
+    "Interesting Fact": "Australia is both a continent and a country."
+  },
+  {
+    "Question": "What does a barometer measure?",
+    "Option 1": "Temperature",
+    "Option 2": "Wind speed",
+    "Option 3": "Air pressure",
+    "Option 4": "Humidity",
+    "Correct Answer": "Air pressure",
+    "Interesting Fact": "Barometers help predict weather changes."
+  },
+  {
+    "Question": "Which fraction is greater: 3/4 or 2/3?",
+    "Option 1": "2026-03-02T00:00:00",
+    "Option 2": "2026-04-03T00:00:00",
+    "Option 3": "Equal",
+    "Option 4": "Cannot tell",
+    "Correct Answer": "2026-04-03T00:00:00",
+    "Interesting Fact": "Comparing fractions requires common denominators or decimals."
+  },
+  {
+    "Question": "What happens when water freezes?",
+    "Option 1": "It shrinks",
+    "Option 2": "It expands",
+    "Option 3": "It evaporates",
+    "Option 4": "It melts",
+    "Correct Answer": "It expands",
+    "Interesting Fact": "Water expands when freezing, unlike most substances."
+  },
+  {
+    "Question": "Which sentence is a question?",
+    "Option 1": "Close the door.",
+    "Option 2": "The door is closed.",
+    "Option 3": "Is the door closed?",
+    "Option 4": "Door closed.",
+    "Correct Answer": "Is the door closed?",
+    "Interesting Fact": "Questions usually end with a question mark."
+  },
+  {
+    "Question": "What is the main job of the heart?",
+    "Option 1": "Digest food",
+    "Option 2": "Pump blood",
+    "Option 3": "Clean blood",
+    "Option 4": "Control breathing",
+    "Correct Answer": "Pump blood",
+    "Interesting Fact": "The heart pumps blood throughout the body."
+  },
+  {
+    "Question": "Which metal is liquid at room temperature?",
+    "Option 1": "Iron",
+    "Option 2": "Mercury",
+    "Option 3": "Aluminum",
+    "Option 4": "Copper",
+    "Correct Answer": "Mercury",
+    "Interesting Fact": "Mercury is the only liquid metal at room temperature."
+  },
+  {
+    "Question": "What does the Sun provide to Earth?",
+    "Option 1": "Oxygen",
+    "Option 2": "Light and heat",
+    "Option 3": "Water",
+    "Option 4": "Gravity only",
+    "Correct Answer": "Light and heat",
+    "Interesting Fact": "The Sun is Earth’s main energy source."
+  },
+  {
+    "Question": "Which type of rock forms from lava or magma?",
+    "Option 1": "Sedimentary",
+    "Option 2": "Metamorphic",
+    "Option 3": "Igneous",
+    "Option 4": "Fossil",
+    "Correct Answer": "Igneous",
+    "Interesting Fact": "Igneous rocks form from cooled molten material."
+  },
+  {
+    "Question": "What is the value of 6²?",
+    "Option 1": 12,
+    "Option 2": 18,
+    "Option 3": 36,
+    "Option 4": 42,
+    "Correct Answer": 36,
+    "Interesting Fact": "Squaring a number means multiplying it by itself."
+  },
+  {
+    "Question": "Which word is an adjective?",
+    "Option 1": "Run",
+    "Option 2": "Blue",
+    "Option 3": "Quickly",
+    "Option 4": "Jump",
+    "Correct Answer": "Blue",
+    "Interesting Fact": "Adjectives describe nouns or pronouns."
+  },
+  {
+    "Question": "Which planet has the most moons?",
+    "Option 1": "Earth",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Jupiter",
+    "Interesting Fact": "Jupiter currently has the highest number of known moons."
+  },
+  {
+    "Question": "Why do shadows change size during the day?",
+    "Option 1": "Earth spins",
+    "Option 2": "Sun moves",
+    "Option 3": "Light angle changes",
+    "Option 4": "Clouds move",
+    "Correct Answer": "Light angle changes",
+    "Interesting Fact": "Sun’s angle affects shadow length and direction."
+  },
+  {
+    "Question": "What is the main function of the lungs?",
+    "Option 1": "Pump blood",
+    "Option 2": "Digest food",
+    "Option 3": "Exchange gases",
+    "Option 4": "Control movement",
+    "Correct Answer": "Exchange gases",
+    "Interesting Fact": "Lungs exchange oxygen and carbon dioxide in breathing."
+  },
+  {
+    "Question": "Which process allows plants to make their own food?",
+    "Option 1": "Respiration",
+    "Option 2": "Digestion",
+    "Option 3": "Photosynthesis",
+    "Option 4": "Transpiration",
+    "Correct Answer": "Photosynthesis",
+    "Interesting Fact": "Photosynthesis uses sunlight, water, and carbon dioxide to produce food."
+  },
+  {
+    "Question": "What is the average distance between Earth and the Sun called?",
+    "Option 1": "Light year",
+    "Option 2": "Orbit",
+    "Option 3": "Astronomical unit",
+    "Option 4": "Milky Way",
+    "Correct Answer": "Astronomical unit",
+    "Interesting Fact": "One astronomical unit equals about 150 million kilometers."
+  },
+  {
+    "Question": "Which number is a multiple of both 4 and 6?",
+    "Option 1": 12,
+    "Option 2": 18,
+    "Option 3": 20,
+    "Option 4": 24,
+    "Correct Answer": 12,
+    "Interesting Fact": "Least common multiples satisfy multiple divisibility rules."
+  },
+  {
+    "Question": "What type of energy is stored in food?",
+    "Option 1": "Kinetic",
+    "Option 2": "Thermal",
+    "Option 3": "Chemical",
+    "Option 4": "Electrical",
+    "Correct Answer": "Chemical",
+    "Interesting Fact": "Food stores energy in chemical bonds."
+  },
+  {
+    "Question": "Which part of speech connects words or sentences?",
+    "Option 1": "Noun",
+    "Option 2": "Verb",
+    "Option 3": "Conjunction",
+    "Option 4": "Adjective",
+    "Correct Answer": "Conjunction",
+    "Interesting Fact": "Conjunctions join words, phrases, or clauses together."
+  },
+  {
+    "Question": "Why do metals feel colder than wood at same temperature?",
+    "Option 1": "Metals are colder",
+    "Option 2": "Wood traps heat",
+    "Option 3": "Metals conduct heat faster",
+    "Option 4": "Air cools metal",
+    "Correct Answer": "Metals conduct heat faster",
+    "Interesting Fact": "Metals transfer heat away from skin more quickly."
+  },
+  {
+    "Question": "Which layer of the atmosphere contains the ozone layer?",
+    "Option 1": "Troposphere",
+    "Option 2": "Stratosphere",
+    "Option 3": "Mesosphere",
+    "Option 4": "Thermosphere",
+    "Correct Answer": "Stratosphere",
+    "Interesting Fact": "The ozone layer absorbs harmful ultraviolet radiation."
+  },
+  {
+    "Question": "What is the product of 9 × 8?",
+    "Option 1": 64,
+    "Option 2": 72,
+    "Option 3": 81,
+    "Option 4": 90,
+    "Correct Answer": 72,
+    "Interesting Fact": "Multiplication combines equal groups into totals."
+  },
+  {
+    "Question": "Which organ filters waste from blood?",
+    "Option 1": "Heart",
+    "Option 2": "Liver",
+    "Option 3": "Kidneys",
+    "Option 4": "Lungs",
+    "Correct Answer": "Kidneys",
+    "Interesting Fact": "Kidneys remove waste and excess water from blood."
+  },
+  {
+    "Question": "Which type of sentence gives a command?",
+    "Option 1": "Declarative",
+    "Option 2": "Interrogative",
+    "Option 3": "Imperative",
+    "Option 4": "Exclamatory",
+    "Correct Answer": "Imperative",
+    "Interesting Fact": "Imperative sentences give orders or instructions."
+  },
+  {
+    "Question": "What causes tides on Earth?",
+    "Option 1": "Wind",
+    "Option 2": "Earth’s rotation",
+    "Option 3": "Moon’s gravity",
+    "Option 4": "Ocean currents",
+    "Correct Answer": "Moon’s gravity",
+    "Interesting Fact": "The Moon’s gravity pulls ocean water toward it."
+  },
+  {
+    "Question": "Which fraction is equivalent to 2/5?",
+    "Option 1": "2026-10-04T00:00:00",
+    "Option 2": "2015-06-01T00:00:00",
+    "Option 3": "2020-08-01T00:00:00",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Equivalent fractions represent the same value."
+  },
+  {
+    "Question": "What happens to sound energy as it travels farther?",
+    "Option 1": "Gets louder",
+    "Option 2": "Stays same",
+    "Option 3": "Disappears",
+    "Option 4": "Gets weaker",
+    "Correct Answer": "Gets weaker",
+    "Interesting Fact": "Sound loses energy as it spreads out."
+  },
+  {
+    "Question": "Which planet rotates on its side?",
+    "Option 1": "Mars",
+    "Option 2": "Earth",
+    "Option 3": "Uranus",
+    "Option 4": "Neptune",
+    "Correct Answer": "Uranus",
+    "Interesting Fact": "Uranus has an extreme axial tilt of about 98 degrees."
+  },
+  {
+    "Question": "What does the circulatory system include?",
+    "Option 1": "Bones only",
+    "Option 2": "Muscles only",
+    "Option 3": "Blood, heart, vessels",
+    "Option 4": "Lungs only",
+    "Correct Answer": "Blood, heart, vessels",
+    "Interesting Fact": "The circulatory system transports oxygen and nutrients."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": "50°C",
+    "Option 2": "75°C",
+    "Option 3": "100°C",
+    "Option 4": "150°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "Water boils at 100 degrees Celsius at sea level."
+  },
+  {
+    "Question": "Which simple machine is used in a flagpole?",
+    "Option 1": "Lever",
+    "Option 2": "Pulley",
+    "Option 3": "Wheel",
+    "Option 4": "Wedge",
+    "Correct Answer": "Pulley",
+    "Interesting Fact": "Pulleys change the direction of applied force."
+  },
+  {
+    "Question": "Which word has a silent letter?",
+    "Option 1": "Knife",
+    "Option 2": "Cat",
+    "Option 3": "Run",
+    "Option 4": "Hat",
+    "Correct Answer": "Knife",
+    "Interesting Fact": "Silent letters appear in many English words."
+  },
+  {
+    "Question": "Why does ice float on water?",
+    "Option 1": "It is lighter",
+    "Option 2": "It traps air",
+    "Option 3": "Lower density",
+    "Option 4": "Shape matters",
+    "Correct Answer": "Lower density",
+    "Interesting Fact": "Ice is less dense than liquid water."
+  },
+  {
+    "Question": "What is the main function of roots in plants?",
+    "Option 1": "Make food",
+    "Option 2": "Transport sugar",
+    "Option 3": "Absorb water",
+    "Option 4": "Release oxygen",
+    "Correct Answer": "Absorb water",
+    "Interesting Fact": "Roots anchor plants and absorb water and minerals."
+  },
+  {
+    "Question": "Which angle equals exactly 90°?",
+    "Option 1": "Acute",
+    "Option 2": "Obtuse",
+    "Option 3": "Right",
+    "Option 4": "Straight",
+    "Correct Answer": "Right",
+    "Interesting Fact": "Right angles form perfect corners."
+  },
+  {
+    "Question": "What happens when electricity flows through a circuit?",
+    "Option 1": "Heat only",
+    "Option 2": "Light only",
+    "Option 3": "Energy transfer",
+    "Option 4": "Nothing",
+    "Correct Answer": "Energy transfer",
+    "Interesting Fact": "Electric current transfers energy through materials."
+  },
+  {
+    "Question": "Which continent is the coldest?",
+    "Option 1": "Europe",
+    "Option 2": "Asia",
+    "Option 3": "Antarctica",
+    "Option 4": "North America",
+    "Correct Answer": "Antarctica",
+    "Interesting Fact": "Antarctica is the coldest and driest continent."
+  },
+  {
+    "Question": "Which number is not a composite number?",
+    "Option 1": 4,
+    "Option 2": 6,
+    "Option 3": 9,
+    "Option 4": 7,
+    "Correct Answer": 7,
+    "Interesting Fact": "Prime numbers are not composite."
+  },
+  {
+    "Question": "Why do we have leap years?",
+    "Option 1": "Moon cycle",
+    "Option 2": "Earth rotation",
+    "Option 3": "Calendar accuracy",
+    "Option 4": "Weather changes",
+    "Correct Answer": "Calendar accuracy",
+    "Interesting Fact": "Leap years keep calendars aligned with Earth’s orbit."
+  },
+  {
+    "Question": "If 3 pencils cost 15 cents, how much does one pencil cost?",
+    "Option 1": "3 cents",
+    "Option 2": "4 cents",
+    "Option 3": "5 cents",
+    "Option 4": "6 cents",
+    "Correct Answer": "5 cents",
+    "Interesting Fact": "Unit price is found by dividing total cost equally."
+  },
+  {
+    "Question": "Which gas is released when plants make food?",
+    "Option 1": "Nitrogen",
+    "Option 2": "Oxygen",
+    "Option 3": "Carbon dioxide",
+    "Option 4": "Hydrogen",
+    "Correct Answer": "Oxygen",
+    "Interesting Fact": "Oxygen is released as a byproduct of photosynthesis."
+  },
+  {
+    "Question": "What is the least common multiple of 4 and 6?",
+    "Option 1": 8,
+    "Option 2": 10,
+    "Option 3": 12,
+    "Option 4": 24,
+    "Correct Answer": 12,
+    "Interesting Fact": "LCM is the smallest shared multiple of numbers."
+  },
+  {
+    "Question": "Which type of energy does a moving bicycle have?",
+    "Option 1": "Chemical",
+    "Option 2": "Potential",
+    "Option 3": "Thermal",
+    "Option 4": "Kinetic",
+    "Correct Answer": "Kinetic",
+    "Interesting Fact": "Kinetic energy is energy of motion."
+  },
+  {
+    "Question": "Which sentence uses a metaphor?",
+    "Option 1": "He runs fast.",
+    "Option 2": "The sun smiled.",
+    "Option 3": "She is happy.",
+    "Option 4": "It is raining.",
+    "Correct Answer": "The sun smiled.",
+    "Interesting Fact": "Metaphors compare without using like or as."
+  },
+  {
+    "Question": "Why does a metal spoon feel hotter in soup than a wooden spoon?",
+    "Option 1": "Heavier",
+    "Option 2": "Absorbs heat",
+    "Option 3": "Conducts heat",
+    "Option 4": "Larger surface",
+    "Correct Answer": "Conducts heat",
+    "Interesting Fact": "Metals transfer heat faster than wood."
+  },
+  {
+    "Question": "Which planet has the strongest gravity?",
+    "Option 1": "Earth",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Jupiter",
+    "Interesting Fact": "Jupiter’s massive size creates extremely strong gravity."
+  },
+  {
+    "Question": "What happens to matter during a physical change?",
+    "Option 1": "It disappears",
+    "Option 2": "New substance forms",
+    "Option 3": "Shape changes",
+    "Option 4": "Energy destroyed",
+    "Correct Answer": "Shape changes",
+    "Interesting Fact": "Physical changes do not create new substances."
+  },
+  {
+    "Question": "Which part of speech replaces a noun?",
+    "Option 1": "Verb",
+    "Option 2": "Adjective",
+    "Option 3": "Pronoun",
+    "Option 4": "Adverb",
+    "Correct Answer": "Pronoun",
+    "Interesting Fact": "Pronouns avoid repeating nouns."
+  },
+  {
+    "Question": "What is the sum of interior angles of a quadrilateral?",
+    "Option 1": "180°",
+    "Option 2": "270°",
+    "Option 3": "360°",
+    "Option 4": "450°",
+    "Correct Answer": "360°",
+    "Interesting Fact": "Quadrilaterals always have four sides and angles."
+  },
+  {
+    "Question": "Why do eclipses not happen every month?",
+    "Option 1": "Moon speed",
+    "Option 2": "Tilted orbit",
+    "Option 3": "Cloud cover",
+    "Option 4": "Sun distance",
+    "Correct Answer": "Tilted orbit",
+    "Interesting Fact": "Moon’s orbit is tilted relative to Earth’s."
+  },
+  {
+    "Question": "Which organ helps break down food using acids?",
+    "Option 1": "Intestine",
+    "Option 2": "Liver",
+    "Option 3": "Stomach",
+    "Option 4": "Pancreas",
+    "Correct Answer": "Stomach",
+    "Interesting Fact": "The stomach uses acids and enzymes for digestion."
+  },
+  {
+    "Question": "What is the main cause of seasons on Earth?",
+    "Option 1": "Distance from Sun",
+    "Option 2": "Earth’s tilt",
+    "Option 3": "Moon’s gravity",
+    "Option 4": "Sun movement",
+    "Correct Answer": "Earth’s tilt",
+    "Interesting Fact": "Earth’s tilt affects sunlight angles during the year."
+  },
+  {
+    "Question": "Which number is both a square and a cube?",
+    "Option 1": 8,
+    "Option 2": 16,
+    "Option 3": 36,
+    "Option 4": 64,
+    "Correct Answer": 64,
+    "Interesting Fact": "64 equals 8 squared and 4 cubed."
+  },
+  {
+    "Question": "Which type of rock forms from compressed layers?",
+    "Option 1": "Igneous",
+    "Option 2": "Metamorphic",
+    "Option 3": "Sedimentary",
+    "Option 4": "Volcanic",
+    "Correct Answer": "Sedimentary",
+    "Interesting Fact": "Sedimentary rocks form from compacted sediments."
+  },
+  {
+    "Question": "What does the prefix “un-” usually mean?",
+    "Option 1": "Again",
+    "Option 2": "Before",
+    "Option 3": "Not",
+    "Option 4": "After",
+    "Correct Answer": "Not",
+    "Interesting Fact": "Prefixes modify word meanings."
+  },
+  {
+    "Question": "Why do we see different phases of the Moon?",
+    "Option 1": "Earth’s shadow",
+    "Option 2": "Moon rotation",
+    "Option 3": "Sunlight angle",
+    "Option 4": "Cloud cover",
+    "Correct Answer": "Sunlight angle",
+    "Interesting Fact": "Moon phases depend on sunlight and viewing angle."
+  },
+  {
+    "Question": "Which system controls body responses using nerves?",
+    "Option 1": "Digestive",
+    "Option 2": "Respiratory",
+    "Option 3": "Nervous",
+    "Option 4": "Circulatory",
+    "Correct Answer": "Nervous",
+    "Interesting Fact": "Nervous system sends signals using electrical impulses."
+  },
+  {
+    "Question": "What is the area of a rectangle 6 cm by 4 cm?",
+    "Option 1": "10 cm²",
+    "Option 2": "20 cm²",
+    "Option 3": "24 cm²",
+    "Option 4": "30 cm²",
+    "Correct Answer": "24 cm²",
+    "Interesting Fact": "Area equals length multiplied by width."
+  },
+  {
+    "Question": "Which word is an adverb?",
+    "Option 1": "Slow",
+    "Option 2": "Slowly",
+    "Option 3": "Slowness",
+    "Option 4": "Slowed",
+    "Correct Answer": "Slowly",
+    "Interesting Fact": "Adverbs often end in “-ly”."
+  },
+  {
+    "Question": "What happens when warm air rises?",
+    "Option 1": "Pressure increases",
+    "Option 2": "Clouds sink",
+    "Option 3": "Cool air replaces it",
+    "Option 4": "Wind stops",
+    "Correct Answer": "Cool air replaces it",
+    "Interesting Fact": "Warm air rises causing convection currents."
+  },
+  {
+    "Question": "Which planet has the longest day?",
+    "Option 1": "Earth",
+    "Option 2": "Mars",
+    "Option 3": "Venus",
+    "Option 4": "Mercury",
+    "Correct Answer": "Venus",
+    "Interesting Fact": "Venus rotates extremely slowly on its axis."
+  },
+  {
+    "Question": "What is the main purpose of a hypothesis?",
+    "Option 1": "Prove answer",
+    "Option 2": "Guess randomly",
+    "Option 3": "Test an idea",
+    "Option 4": "Record results",
+    "Correct Answer": "Test an idea",
+    "Interesting Fact": "Hypotheses are tested through experiments."
+  },
+  {
+    "Question": "Which number has exactly three factors?",
+    "Option 1": 4,
+    "Option 2": 6,
+    "Option 3": 8,
+    "Option 4": 9,
+    "Correct Answer": 4,
+    "Interesting Fact": "Square numbers have an odd number of factors."
+  },
+  {
+    "Question": "Why is water called a universal solvent?",
+    "Option 1": "Always pure",
+    "Option 2": "Dissolves many substances",
+    "Option 3": "Found everywhere",
+    "Option 4": "Has no color",
+    "Correct Answer": "Dissolves many substances",
+    "Interesting Fact": "Water dissolves more substances than any other liquid."
+  }
+]

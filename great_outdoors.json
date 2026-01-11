@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "Which park is known for its massive Granite domes?",
+    "Option 1": "Acadia",
+    "Option 2": "Yosemite",
+    "Option 3": "Badlands",
+    "Option 4": "Everglades",
+    "Correct Answer": "Yosemite",
+    "Interesting Fact": "Yosemite was the first territory ever protected by the U.S. federal government for public use."
+  },
+  {
+    "Question": "What is the largest land mammal in North America?",
+    "Option 1": "Grizzly Bear",
+    "Option 2": "Moose",
+    "Option 3": "American Bison",
+    "Option 4": "Elk",
+    "Correct Answer": "American Bison",
+    "Interesting Fact": "These powerful animals can reach speeds of up to thirty-five miles per hour when running."
+  },
+  {
+    "Question": "Which state is home to Denali National Park?",
+    "Option 1": "Montana",
+    "Option 2": "Wyoming",
+    "Option 3": "Alaska",
+    "Option 4": "Colorado",
+    "Correct Answer": "Alaska",
+    "Interesting Fact": "Denali is the highest peak in North America, reaching an elevation of 20,310 feet."
+  },
+  {
+    "Question": "What type of tree is the tallest in the world?",
+    "Option 1": "Giant Sequoia",
+    "Option 2": "Coast Redwood",
+    "Option 3": "Douglas Fir",
+    "Option 4": "Sitka Spruce",
+    "Correct Answer": "Coast Redwood",
+    "Interesting Fact": "These massive trees can live for two thousand years and grow over 350 feet tall."
+  },
+  {
+    "Question": "Which park features the \"Needles\" and \"Island in the Sky\"?",
+    "Option 1": "Zion",
+    "Option 2": "Arches",
+    "Option 3": "Canyonlands",
+    "Option 4": "Bryce Canyon",
+    "Correct Answer": "Canyonlands",
+    "Interesting Fact": "The Colorado and Green Rivers meet here, carving deep canyons into the rugged desert landscape."
+  },
+  {
+    "Question": "What do you call a group of wolves?",
+    "Option 1": "Herd",
+    "Option 2": "Pride",
+    "Option 3": "Pack",
+    "Option 4": "Troop",
+    "Correct Answer": "Pack",
+    "Interesting Fact": "Wolf packs operate as a family unit, usually led by a dominant breeding alpha pair."
+  },
+  {
+    "Question": "Which park is located in the state of Maine?",
+    "Option 1": "Acadia",
+    "Option 2": "Shenandoah",
+    "Option 3": "Olympic",
+    "Option 4": "Voyagers",
+    "Correct Answer": "Acadia",
+    "Interesting Fact": "Acadia features the tallest mountain on the U.S. Atlantic coast, called Cadillac Mountain."
+  },
+  {
+    "Question": "What bird is the national symbol of the USA?",
+    "Option 1": "Golden Eagle",
+    "Option 2": "Red-tailed Hawk",
+    "Option 3": "Bald Eagle",
+    "Option 4": "Peregrine Falcon",
+    "Correct Answer": "Bald Eagle",
+    "Interesting Fact": "These birds build the largest nests of any North American bird, sometimes weighing a ton."
+  },
+  {
+    "Question": "Which park is famous for its unique \"Hoodoos\"?",
+    "Option 1": "Bryce Canyon",
+    "Option 2": "Grand Canyon",
+    "Option 3": "Badlands",
+    "Option 4": "Capitol Reef",
+    "Correct Answer": "Bryce Canyon",
+    "Interesting Fact": "Hoodoos are tall, thin spires of rock that form through millions of years of erosion."
+  },
+  {
+    "Question": "Which of these is a venomous snake found in the US?",
+    "Option 1": "Garter Snake",
+    "Option 2": "Copperhead",
+    "Option 3": "King Snake",
+    "Option 4": "Bull Snake",
+    "Correct Answer": "Copperhead",
+    "Interesting Fact": "Copperheads rely on their camouflage to blend into dried leaves on the forest floor."
+  },
+  {
+    "Question": "Which park protects the world's largest cave system?",
+    "Option 1": "Carlsbad Caverns",
+    "Option 2": "Wind Cave",
+    "Option 3": "Mammoth Cave",
+    "Option 4": "Cuyahoga Valley",
+    "Correct Answer": "Mammoth Cave",
+    "Interesting Fact": "This massive Kentucky cave system has over four hundred miles of surveyed underground passageways."
+  },
+  {
+    "Question": "What is the fastest land animal in North America?",
+    "Option 1": "Coyote",
+    "Option 2": "Pronghorn",
+    "Option 3": "Gray Wolf",
+    "Option 4": "Jackrabbit",
+    "Correct Answer": "Pronghorn",
+    "Interesting Fact": "Though often called antelope, pronghorns are actually the only surviving members of their biological family."
+  },
+  {
+    "Question": "Which park is known as the \"Crown of the Continent\"?",
+    "Option 1": "Glacier",
+    "Option 2": "Rocky Mountain",
+    "Option 3": "Grand Teton",
+    "Option 4": "Mount Rainier",
+    "Correct Answer": "Glacier",
+    "Interesting Fact": "Glacier National Park contains over seven hundred miles of trails for hikers and outdoor adventurers."
+  },
+  {
+    "Question": "What should you do if you encounter a Black Bear?",
+    "Option 1": "Run away",
+    "Option 2": "Climb a tree",
+    "Option 3": "Stand tall/shout",
+    "Option 4": "Play dead",
+    "Correct Answer": "Stand tall/shout",
+    "Interesting Fact": "Unlike Grizzly bears, Black bears are usually intimidated by loud noises and large human movements."
+  },
+  {
+    "Question": "Which park is famous for its \"General Sherman\" tree?",
+    "Option 1": "Redwood",
+    "Option 2": "Sequoia",
+    "Option 3": "Kings Canyon",
+    "Option 4": "Joshua Tree",
+    "Correct Answer": "Sequoia",
+    "Interesting Fact": "The General Sherman is the world's largest known living single-stem tree by total volume."
+  },
+  {
+    "Question": "What is the primary diet of a Great Horned Owl?",
+    "Option 1": "Berries",
+    "Option 2": "Small mammals",
+    "Option 3": "Fish",
+    "Option 4": "Insects",
+    "Correct Answer": "Small mammals",
+    "Interesting Fact": "These powerful predators have a grip strength ten times stronger than a human hand."
+  },
+  {
+    "Question": "Which park is located in both North and South Carolina?",
+    "Option 1": "Great Smokies",
+    "Option 2": "Congaree",
+    "Option 3": "Hot Springs",
+    "Option 4": "Biscayne",
+    "Correct Answer": "Great Smokies",
+    "Interesting Fact": "This is the most visited national park in America, famous for its blue-colored mountain mist."
+  },
+  {
+    "Question": "What is the state animal of Florida found in the Everglades?",
+    "Option 1": "Alligator",
+    "Option 2": "Manatee",
+    "Option 3": "Florida Panther",
+    "Option 4": "Flamingo",
+    "Correct Answer": "Florida Panther",
+    "Interesting Fact": "These rare cats are a subspecies of cougar and are highly endangered in the wild."
+  },
+  {
+    "Question": "Which park is known for its active volcanic activity?",
+    "Option 1": "Lassen Volcanic",
+    "Option 2": "Crater Lake",
+    "Option 3": "Hawaii Volcanoes",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Hawaii Volcanoes National Park is home to Kilauea, one of the world's most active volcanoes."
+  },
+  {
+    "Question": "What is the best way to prevent dehydration while hiking?",
+    "Option 1": "Drink soda",
+    "Option 2": "Sip water often",
+    "Option 3": "Eat salty snacks",
+    "Option 4": "Drink only when thirsty",
+    "Correct Answer": "Sip water often",
+    "Interesting Fact": "Your body needs consistent fluid intake to maintain energy levels and prevent dangerous heat exhaustion."
+  },
+  {
+    "Question": "Which park contains the lowest point in North America?",
+    "Option 1": "Joshua Tree",
+    "Option 2": "Death Valley",
+    "Option 3": "Saguaro",
+    "Option 4": "Big Bend",
+    "Correct Answer": "Death Valley",
+    "Interesting Fact": "Badwater Basin sits at 282 feet below sea level, making it the continent's lowest point."
+  },
+  {
+    "Question": "Which of these animals is an omnivore?",
+    "Option 1": "Black Bear",
+    "Option 2": "Mountain Lion",
+    "Option 3": "Elk",
+    "Option 4": "Bighorn Sheep",
+    "Correct Answer": "Black Bear",
+    "Interesting Fact": "Black bears eat a variety of foods including berries, nuts, insects, fish, and small mammals."
+  },
+  {
+    "Question": "Which park is home to the \"Half Dome\" landmark?",
+    "Option 1": "Yosemite",
+    "Option 2": "Zion",
+    "Option 3": "Gates of the Arctic",
+    "Option 4": "Isle Royale",
+    "Correct Answer": "Yosemite",
+    "Interesting Fact": "Hikers use steel cables to climb the final steep section of this famous granite peak."
+  },
+  {
+    "Question": "What is the most common cause of wildfires?",
+    "Option 1": "Lightning",
+    "Option 2": "Volcanic activity",
+    "Option 3": "Human activity",
+    "Option 4": "Spontaneous combustion",
+    "Correct Answer": "Human activity",
+    "Interesting Fact": "Nearly ninety percent of wildfires in the United States are caused by human-related activities."
+  },
+  {
+    "Question": "Which park is famous for its turquoise-colored lakes?",
+    "Option 1": "Glacier",
+    "Option 2": "Kenai Fjords",
+    "Option 3": "Mount Rainier",
+    "Option 4": "North Cascades",
+    "Correct Answer": "Glacier",
+    "Interesting Fact": "Fine rock particles called \"glacier flour\" give these mountain lakes their stunning bright blue color."
+  },
+  {
+    "Question": "What should you use to hang food away from bears?",
+    "Option 1": "A plastic bag",
+    "Option 2": "A bear canister",
+    "Option 3": "A backpack",
+    "Option 4": "A tent",
+    "Correct Answer": "A bear canister",
+    "Interesting Fact": "These hard-shell containers prevent bears from smelling or accessing a hiker's food and scented items."
+  },
+  {
+    "Question": "Which park is famous for its giant cacti?",
+    "Option 1": "Joshua Tree",
+    "Option 2": "Saguaro",
+    "Option 3": "Death Valley",
+    "Option 4": "White Sands",
+    "Correct Answer": "Saguaro",
+    "Interesting Fact": "These iconic cacti can live for two hundred years and grow up to fifty feet."
+  },
+  {
+    "Question": "What is a \"blaze\" in hiking terms?",
+    "Option 1": "A campfire",
+    "Option 2": "A trail marker",
+    "Option 3": "A steep cliff",
+    "Option 4": "A fast hiker",
+    "Correct Answer": "A trail marker",
+    "Interesting Fact": "Blazes are often painted rectangles on trees used to help hikers stay on the path."
+  },
+  {
+    "Question": "Which park features the \"Mesa Verde\" cliff dwellings?",
+    "Option 1": "Petrifed Forest",
+    "Option 2": "Mesa Verde",
+    "Option 3": "Zion",
+    "Option 4": "Canyonlands",
+    "Correct Answer": "Mesa Verde",
+    "Interesting Fact": "Ancestral Puebloans built these remarkable stone dwellings into the cliffs over seven hundred years ago."
+  },
+  {
+    "Question": "Which animal is known for its white \"rump\" patch?",
+    "Option 1": "Elk",
+    "Option 2": "Mule Deer",
+    "Option 3": "Pronghorn",
+    "Option 4": "Bighorn Sheep",
+    "Correct Answer": "Pronghorn",
+    "Interesting Fact": "When sensing danger, pronghorns raise their white rump hairs to warn other members of the herd."
+  },
+  {
+    "Question": "Which park is located in the state of Washington?",
+    "Option 1": "Olympic",
+    "Option 2": "Mount Rainier",
+    "Option 3": "North Cascades",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Washington is the only state with three distinct national parks within its geographic borders."
+  },
+  {
+    "Question": "What is the \"Leave No Trace\" principle?",
+    "Option 1": "Feed animals",
+    "Option 2": "Take only photos",
+    "Option 3": "Leave trash",
+    "Option 4": "Carve trees",
+    "Correct Answer": "Take only photos",
+    "Interesting Fact": "This philosophy encourages people to enjoy nature while minimizing their impact on the fragile environment."
+  },
+  {
+    "Question": "Which park is known for its white sand dunes?",
+    "Option 1": "Great Sand Dunes",
+    "Option 2": "White Sands",
+    "Option 3": "Death Valley",
+    "Option 4": "Joshua Tree",
+    "Correct Answer": "White Sands",
+    "Interesting Fact": "These rare dunes are made of gypsum crystals rather than the typical quartz-based desert sand."
+  },
+  {
+    "Question": "What is the largest species of woodpecker in the US?",
+    "Option 1": "Downy",
+    "Option 2": "Hairy",
+    "Option 3": "Pileated",
+    "Option 4": "Red-headed",
+    "Correct Answer": "Pileated",
+    "Interesting Fact": "These birds are roughly the size of a crow and leave deep rectangular holes in trees."
+  },
+  {
+    "Question": "Which park is home to \"Old Faithful\"?",
+    "Option 1": "Yellowstone",
+    "Option 2": "Lassen Volcanic",
+    "Option 3": "Hot Springs",
+    "Option 4": "Crater Lake",
+    "Correct Answer": "Yellowstone",
+    "Interesting Fact": "This famous geyser erupts roughly twenty times a day, shooting water high into the air."
+  },
+  {
+    "Question": "What is the name of the highest point in the Rockies?",
+    "Option 1": "Mount Elbert",
+    "Option 2": "Pikes Peak",
+    "Option 3": "Longs Peak",
+    "Option 4": "Mount Whitney",
+    "Correct Answer": "Mount Elbert",
+    "Interesting Fact": "Mount Elbert stands at 14,440 feet, making it the highest peak in the entire Rocky Mountains."
+  },
+  {
+    "Question": "Which park is famous for its colorful \"Painted Desert\"?",
+    "Option 1": "Petrified Forest",
+    "Option 2": "Saguaro",
+    "Option 3": "Big Bend",
+    "Option 4": "Zion",
+    "Correct Answer": "Petrified Forest",
+    "Interesting Fact": "This park contains fossils from the Late Triassic period, dating back over two hundred million years."
+  },
+  {
+    "Question": "Which animal is known as the \"Ghost of the Mountains\"?",
+    "Option 1": "Mountain Lion",
+    "Option 2": "Gray Wolf",
+    "Option 3": "Snow Leopard",
+    "Option 4": "Wolverine",
+    "Correct Answer": "Mountain Lion",
+    "Interesting Fact": "These secretive cats are rarely seen by humans despite living across much of the Americas."
+  },
+  {
+    "Question": "Which park protects the deepest lake in the US?",
+    "Option 1": "Crater Lake",
+    "Option 2": "Lake Tahoe",
+    "Option 3": "Lake Superior",
+    "Option 4": "Lake Mead",
+    "Correct Answer": "Crater Lake",
+    "Interesting Fact": "The lake was formed inside a collapsed volcano and is famous for its intense blue color."
+  },
+  {
+    "Question": "What tool is used to find your cardinal directions?",
+    "Option 1": "Altimeter",
+    "Option 2": "Compass",
+    "Option 3": "Thermometer",
+    "Option 4": "Barometer",
+    "Correct Answer": "Compass",
+    "Interesting Fact": "A compass uses a magnetic needle to align with the Earth's magnetic poles for navigation."
+  },
+  {
+    "Question": "Which park is known for its \"Narrows\" hike?",
+    "Option 1": "Grand Canyon",
+    "Option 2": "Zion",
+    "Option 3": "Arches",
+    "Option 4": "Bryce Canyon",
+    "Correct Answer": "Zion",
+    "Interesting Fact": "Hikers must wade through the Virgin River to experience this spectacular and narrow slot canyon."
+  },
+  {
+    "Question": "What is the largest bird of prey in North America?",
+    "Option 1": "California Condor",
+    "Option 2": "Golden Eagle",
+    "Option 3": "Turkey Vulture",
+    "Option 4": "Osprey",
+    "Correct Answer": "California Condor",
+    "Interesting Fact": "These massive birds have a wingspan reaching nearly ten feet and can live for sixty years."
+  },
+  {
+    "Question": "Which park is home to the \"Delicate Arch\"?",
+    "Option 1": "Zion",
+    "Option 2": "Arches",
+    "Option 3": "Capitol Reef",
+    "Option 4": "Canyonlands",
+    "Correct Answer": "Arches",
+    "Interesting Fact": "This famous natural stone arch is depicted on the state of Utah's license plates and coins."
+  },
+  {
+    "Question": "What is a \"Switchback\" on a trail?",
+    "Option 1": "A shortcut",
+    "Option 2": "A zig-zag path",
+    "Option 3": "A dead end",
+    "Option 4": "A river crossing",
+    "Correct Answer": "A zig-zag path",
+    "Interesting Fact": "Switchbacks make steep climbs easier for hikers while also helping to prevent dangerous soil erosion."
+  },
+  {
+    "Question": "Which park is located in the state of Virginia?",
+    "Option 1": "Shenandoah",
+    "Option 2": "Great Smokies",
+    "Option 3": "New River Gorge",
+    "Option 4": "Congaree",
+    "Correct Answer": "Shenandoah",
+    "Interesting Fact": "Skyline Drive runs through the park, offering stunning views of the scenic Blue Ridge Mountains."
+  },
+  {
+    "Question": "Which animal is known for its distinctive \"howl\"?",
+    "Option 1": "Fox",
+    "Option 2": "Coyote",
+    "Option 3": "Bobcat",
+    "Option 4": "Badger",
+    "Correct Answer": "Coyote",
+    "Interesting Fact": "Coyotes use a variety of yips, barks, and howls to communicate with their family members."
+  },
+  {
+    "Question": "Which park features the \"Cadillac Mountain\"?",
+    "Option 1": "Acadia",
+    "Option 2": "Olympic",
+    "Option 3": "Mount Rainier",
+    "Option 4": "Shenandoah",
+    "Correct Answer": "Acadia",
+    "Interesting Fact": "From October to March, this mountain is the first place to see the sunrise in America."
+  },
+  {
+    "Question": "What is the primary cause of altitude sickness?",
+    "Option 1": "High heat",
+    "Option 2": "Low oxygen",
+    "Option 3": "Dehydration",
+    "Option 4": "Lack of food",
+    "Correct Answer": "Low oxygen",
+    "Interesting Fact": "As you climb higher, the air pressure drops and there is less oxygen available to breathe."
+  },
+  {
+    "Question": "Which park is home to the \"Thor's Hammer\" rock?",
+    "Option 1": "Grand Canyon",
+    "Option 2": "Bryce Canyon",
+    "Option 3": "Zion",
+    "Option 4": "Badlands",
+    "Correct Answer": "Bryce Canyon",
+    "Interesting Fact": "This iconic hoodoo is one of the most photographed geological formations in the entire park."
+  },
+  {
+    "Question": "What is the term for a baby goat?",
+    "Option 1": "Calf",
+    "Option 2": "Fawn",
+    "Option 3": "Kid",
+    "Option 4": "Joey",
+    "Correct Answer": "Kid",
+    "Interesting Fact": "Mountain goat kids are able to follow their mothers across steep cliffs within just one day."
+  },
+  {
+    "Question": "Which park is located in South Dakota?",
+    "Option 1": "Badlands",
+    "Option 2": "Arches",
+    "Option 3": "Zion",
+    "Option 4": "Acadia",
+    "Correct Answer": "Badlands",
+    "Interesting Fact": "This park contains one of the world’s richest fossil beds from the Eocene and Oligocene."
+  },
+  {
+    "Question": "What is the main diet of a Giant Panda?",
+    "Option 1": "Grass",
+    "Option 2": "Bamboo",
+    "Option 3": "Insects",
+    "Option 4": "Fruit",
+    "Correct Answer": "Bamboo",
+    "Interesting Fact": "Pandas spend about twelve hours every day eating up to eighty-four pounds of bamboo shoots."
+  },
+  {
+    "Question": "Which river carved the Grand Canyon?",
+    "Option 1": "Mississippi",
+    "Option 2": "Missouri",
+    "Option 3": "Colorado",
+    "Option 4": "Rio Grande",
+    "Correct Answer": "Colorado",
+    "Interesting Fact": "The Colorado River has been carving through these rock layers for nearly six million years."
+  },
+  {
+    "Question": "What saying helps identify Poison Ivy?",
+    "Option 1": "Leaves of four",
+    "Option 2": "Leaves of three",
+    "Option 3": "Red and fuzzy",
+    "Option 4": "Blue and prickly",
+    "Correct Answer": "Leaves of three",
+    "Interesting Fact": "The oil from these leaves causes an itchy rash on about eighty percent of people."
+  },
+  {
+    "Question": "Which park is known for its \"Joshua Trees\"?",
+    "Option 1": "Death Valley",
+    "Option 2": "Joshua Tree",
+    "Option 3": "Saguaro",
+    "Option 4": "Big Bend",
+    "Correct Answer": "Joshua Tree",
+    "Interesting Fact": "These plants are actually not trees; they are a member of the Agave family."
+  },
+  {
+    "Question": "What is the largest member of the deer family?",
+    "Option 1": "Elk",
+    "Option 2": "Moose",
+    "Option 3": "Caribou",
+    "Option 4": "White-tail",
+    "Correct Answer": "Moose",
+    "Interesting Fact": "Adult male moose can grow antlers that spread six feet wide from tip to tip."
+  },
+  {
+    "Question": "Which park is located in the state of Arkansas?",
+    "Option 1": "Hot Springs",
+    "Option 2": "Gateway Arch",
+    "Option 3": "Voyageurs",
+    "Option 4": "Pinnacles",
+    "Correct Answer": "Hot Springs",
+    "Interesting Fact": "This was the first time the federal government set aside land for recreational use."
+  },
+  {
+    "Question": "What is the term for a low body temperature?",
+    "Option 1": "Hyperthermia",
+    "Option 2": "Hypothermia",
+    "Option 3": "Hypoglycemia",
+    "Option 4": "Hypertension",
+    "Correct Answer": "Hypothermia",
+    "Interesting Fact": "Hypothermia can occur even in mild weather if a person becomes wet and then chilled."
+  },
+  {
+    "Question": "Which park is ninety-five percent underwater?",
+    "Option 1": "Dry Tortugas",
+    "Option 2": "Biscayne",
+    "Option 3": "Channel Islands",
+    "Option 4": "Everglades",
+    "Correct Answer": "Biscayne",
+    "Interesting Fact": "Visitors often explore this park through snorkeling and diving to see the vibrant coral reefs."
+  },
+  {
+    "Question": "What are male bighorn sheep called?",
+    "Option 1": "Bucks",
+    "Option 2": "Bulls",
+    "Option 3": "Rams",
+    "Option 4": "Stallions",
+    "Correct Answer": "Rams",
+    "Interesting Fact": "These animals use their thick, curved horns to battle for dominance during the mating season."
+  },
+  {
+    "Question": "Which park features \"The Great Fountain Geyser\"?",
+    "Option 1": "Yellowstone",
+    "Option 2": "Lassen",
+    "Option 3": "Crater Lake",
+    "Option 4": "Zion",
+    "Correct Answer": "Yellowstone",
+    "Interesting Fact": "This geyser can shoot water up to two hundred feet high during its powerful eruptions."
+  },
+  {
+    "Question": "Which bird can fly backwards?",
+    "Option 1": "Sparrow",
+    "Option 2": "Hummingbird",
+    "Option 3": "Robin",
+    "Option 4": "Hawk",
+    "Correct Answer": "Hummingbird",
+    "Interesting Fact": "Their wings can beat up to eighty times per second, allowing for incredible flight maneuvers."
+  },
+  {
+    "Question": "Which park is famous for its \"Granite Walls\"?",
+    "Option 1": "Yosemite",
+    "Option 2": "Olympic",
+    "Option 3": "Grand Teton",
+    "Option 4": "Acadia",
+    "Correct Answer": "Yosemite",
+    "Interesting Fact": "El Capitan and Half Dome are two of the most famous granite peaks in Yosemite."
+  },
+  {
+    "Question": "What do you call a forest of \"Petrified Wood\"?",
+    "Option 1": "Ghost Forest",
+    "Option 2": "Stone Forest",
+    "Option 3": "Petrified Forest",
+    "Option 4": "Dead Wood",
+    "Correct Answer": "Petrified Forest",
+    "Interesting Fact": "These logs turned into solid quartz over millions of years through a process called mineralization."
+  },
+  {
+    "Question": "What animal is the mascot of the Forest Service?",
+    "Option 1": "Smokey Bear",
+    "Option 2": "Woodsy Owl",
+    "Option 3": "Bambi",
+    "Option 4": "Thumper",
+    "Correct Answer": "Smokey Bear",
+    "Interesting Fact": "Smokey has been the face of wildfire prevention in the United States since the 1940s."
+  },
+  {
+    "Question": "Which park is home to the \"Trail of the Cedars\"?",
+    "Option 1": "Glacier",
+    "Option 2": "Rainier",
+    "Option 3": "Olympic",
+    "Option 4": "Redwood",
+    "Correct Answer": "Glacier",
+    "Interesting Fact": "This easy boardwalk trail takes visitors through a lush forest of ancient red cedar trees."
+  },
+  {
+    "Question": "What is the largest species of shark?",
+    "Option 1": "Great White",
+    "Option 2": "Whale Shark",
+    "Option 3": "Hammerhead",
+    "Option 4": "Bull Shark",
+    "Correct Answer": "Whale Shark",
+    "Interesting Fact": "These gentle giants can grow up to forty feet long and feed primarily on plankton."
+  },
+  {
+    "Question": "Which park is located in the state of Kentucky?",
+    "Option 1": "Mammoth Cave",
+    "Option 2": "Shenandoah",
+    "Option 3": "Cuyahoga",
+    "Option 4": "Congaree",
+    "Correct Answer": "Mammoth Cave",
+    "Interesting Fact": "This park protects the longest known cave system in the world with incredible underground features."
+  },
+  {
+    "Question": "What is the primary purpose of a \"Rain Fly\"?",
+    "Option 1": "Catching bugs",
+    "Option 2": "Keeping tents dry",
+    "Option 3": "Providing shade",
+    "Option 4": "Cooking food",
+    "Correct Answer": "Keeping tents dry",
+    "Interesting Fact": "This waterproof cover fits over the top of a tent to provide protection from rain."
+  },
+  {
+    "Question": "Which park is famous for \"Emerald Lake\"?",
+    "Option 1": "Rocky Mountain",
+    "Option 2": "Glacier",
+    "Option 3": "Zion",
+    "Option 4": "Arches",
+    "Correct Answer": "Rocky Mountain",
+    "Interesting Fact": "The lake is surrounded by towering peaks and is a popular destination for mountain hikers."
+  },
+  {
+    "Question": "What animal is known for building dams?",
+    "Option 1": "Otter",
+    "Option 2": "Beaver",
+    "Option 3": "Muskrat",
+    "Option 4": "Platypus",
+    "Correct Answer": "Beaver",
+    "Interesting Fact": "Beavers are second only to humans in their ability to manipulate and change their environment."
+  },
+  {
+    "Question": "Which park features \"The Windows Section\"?",
+    "Option 1": "Arches",
+    "Option 2": "Canyonlands",
+    "Option 3": "Badlands",
+    "Option 4": "Zion",
+    "Correct Answer": "Arches",
+    "Interesting Fact": "This area contains a high concentration of natural stone arches that look like giant windows."
+  },
+  {
+    "Question": "What is the best way to treat a blister?",
+    "Option 1": "Pop it",
+    "Option 2": "Cover it",
+    "Option 3": "Rub it",
+    "Option 4": "Soak it",
+    "Correct Answer": "Cover it",
+    "Interesting Fact": "Keeping a blister clean and protected helps prevent infection while the new skin grows underneath."
+  },
+  {
+    "Question": "Which park is located in the state of Ohio?",
+    "Option 1": "Cuyahoga Valley",
+    "Option 2": "Indiana Dunes",
+    "Option 3": "New River",
+    "Option 4": "Voyageurs",
+    "Correct Answer": "Cuyahoga Valley",
+    "Interesting Fact": "This park follows the path of the Cuyahoga River between the cities of Cleveland and Akron."
+  },
+  {
+    "Question": "What is the most common tree in the US?",
+    "Option 1": "Red Maple",
+    "Option 2": "Oak",
+    "Option 3": "Pine",
+    "Option 4": "Douglas Fir",
+    "Correct Answer": "Red Maple",
+    "Interesting Fact": "This versatile tree can grow in many different climates and is famous for red leaves."
+  },
+  {
+    "Question": "Which park is home to \"The Watchman\"?",
+    "Option 1": "Zion",
+    "Option 2": "Bryce",
+    "Option 3": "Yosemite",
+    "Option 4": "Joshua Tree",
+    "Correct Answer": "Zion",
+    "Interesting Fact": "This massive sandstone peak stands guard over the southern entrance of the scenic Zion Canyon."
+  },
+  {
+    "Question": "What do you call a group of fish?",
+    "Option 1": "Herd",
+    "Option 2": "Pack",
+    "Option 3": "School",
+    "Option 4": "Flock",
+    "Correct Answer": "School",
+    "Interesting Fact": "Swimming in a school helps protect individual fish from being eaten by larger ocean predators."
+  },
+  {
+    "Question": "Which park is known for its \"Sea Caves\"?",
+    "Option 1": "Olympic",
+    "Option 2": "Acadia",
+    "Option 3": "Channel Islands",
+    "Option 4": "Dry Tortugas",
+    "Correct Answer": "Channel Islands",
+    "Interesting Fact": "These islands off the California coast feature some of the largest sea caves in the world."
+  },
+  {
+    "Question": "What is the main ingredient in \"S'mores\"?",
+    "Option 1": "Chocolate",
+    "Option 2": "Marshmallow",
+    "Option 3": "Graham Cracker",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "This classic campfire treat was first mentioned in a Girl Scout handbook in the 1920s."
+  },
+  {
+    "Question": "Which park is located in West Virginia?",
+    "Option 1": "New River Gorge",
+    "Option 2": "Shenandoah",
+    "Option 3": "Great Smokies",
+    "Option 4": "Mammoth Cave",
+    "Correct Answer": "New River Gorge",
+    "Interesting Fact": "This park features one of the oldest rivers and a very famous steel arch bridge."
+  },
+  {
+    "Question": "What animal is the largest bird in the world?",
+    "Option 1": "Emu",
+    "Option 2": "Ostrich",
+    "Option 3": "Albatross",
+    "Option 4": "Condor",
+    "Correct Answer": "Ostrich",
+    "Interesting Fact": "Ostriches cannot fly, but they can run at speeds of up to forty-five miles per hour."
+  },
+  {
+    "Question": "Which park features \"The Loop Road\"?",
+    "Option 1": "Acadia",
+    "Option 2": "Olympic",
+    "Option 3": "Rainier",
+    "Option 4": "Badlands",
+    "Correct Answer": "Acadia",
+    "Interesting Fact": "This twenty-seven mile road offers views of the coastline, mountains, and the beautiful Maine forests."
+  },
+  {
+    "Question": "What should you do if you get lost?",
+    "Option 1": "Keep walking",
+    "Option 2": "S.T.O.P.",
+    "Option 3": "Shout loudly",
+    "Option 4": "Build a house",
+    "Correct Answer": "S.T.O.P.",
+    "Interesting Fact": "The acronym stands for Sit, Think, Observe, and Plan to help you stay calm and safe."
+  },
+  {
+    "Question": "Which park is known for its \"Blue Ridge\"?",
+    "Option 1": "Shenandoah",
+    "Option 2": "Great Smokies",
+    "Option 3": "Both of these",
+    "Option 4": "Neither",
+    "Correct Answer": "Both of these",
+    "Interesting Fact": "These parks are connected by a scenic parkway that winds through the ancient Appalachian Mountains."
+  },
+  {
+    "Question": "What is a \"Cairn\" on a hiking trail?",
+    "Option 1": "A bird",
+    "Option 2": "A pile of stones",
+    "Option 3": "A river",
+    "Option 4": "A tent",
+    "Correct Answer": "A pile of stones",
+    "Interesting Fact": "Hikers build these stone towers to mark the path when the actual trail is hidden."
+  },
+  {
+    "Question": "Which park is home to \"The Painted Hills\"?",
+    "Option 1": "Badlands",
+    "Option 2": "Canyonlands",
+    "Option 3": "Wheeler",
+    "Option 4": "Theodore Roosevelt",
+    "Correct Answer": "Theodore Roosevelt",
+    "Interesting Fact": "This North Dakota park is named after the president who was a great conservation leader."
+  },
+  {
+    "Question": "What animal is known for its \"quills\"?",
+    "Option 1": "Hedgehog",
+    "Option 2": "Porcupine",
+    "Option 3": "Echidna",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Porcupines have approximately thirty thousand quills covering their bodies to protect them from hungry predators."
+  },
+  {
+    "Question": "Which park is located in South Carolina?",
+    "Option 1": "Congaree",
+    "Option 2": "Biscayne",
+    "Option 3": "Everglades",
+    "Option 4": "Hot Springs",
+    "Correct Answer": "Congaree",
+    "Interesting Fact": "This park protects the largest intact expanse of old-growth bottomland hardwood forest in the southeast."
+  },
+  {
+    "Question": "What is the highest mountain in the world?",
+    "Option 1": "K2",
+    "Option 2": "Mount Everest",
+    "Option 3": "Mount Fuji",
+    "Option 4": "Kilimanjaro",
+    "Correct Answer": "Mount Everest",
+    "Interesting Fact": "Mount Everest stands at twenty-nine thousand and thirty-two feet above the level of the sea."
+  },
+  {
+    "Question": "Which park is home to \"Hurricane Ridge\"?",
+    "Option 1": "Olympic",
+    "Option 2": "Mount Rainier",
+    "Option 3": "North Cascades",
+    "Option 4": "Glacier",
+    "Correct Answer": "Olympic",
+    "Interesting Fact": "This ridge offers spectacular views of the Olympic Mountains and the distant Salish Sea waters."
+  },
+  {
+    "Question": "What is the state animal of California?",
+    "Option 1": "Grizzly Bear",
+    "Option 2": "Mountain Lion",
+    "Option 3": "Sea Otter",
+    "Option 4": "Golden Eagle",
+    "Correct Answer": "Grizzly Bear",
+    "Interesting Fact": "Although the Grizzly is on the state flag, it has been extinct in California since 1924."
+  },
+  {
+    "Question": "Which park features \"The Wall\" formation?",
+    "Option 1": "Badlands",
+    "Option 2": "Zion",
+    "Option 3": "Bryce",
+    "Option 4": "Arches",
+    "Correct Answer": "Badlands",
+    "Interesting Fact": "This rugged ridge of rock stretches for miles, separating the upper and lower prairie lands."
+  },
+  {
+    "Question": "What is \"Kindling\" used for?",
+    "Option 1": "Sleeping",
+    "Option 2": "Starting a fire",
+    "Option 3": "Purifying water",
+    "Option 4": "Navigation",
+    "Correct Answer": "Starting a fire",
+    "Interesting Fact": "Kindling consists of small sticks and twigs that catch fire easily to ignite larger logs."
+  },
+  {
+    "Question": "Which park is located in the state of Hawaii?",
+    "Option 1": "Haleakala",
+    "Option 2": "Volcanoes",
+    "Option 3": "Both of these",
+    "Option 4": "Neither",
+    "Correct Answer": "Both of these",
+    "Interesting Fact": "These parks protect unique volcanic landscapes and rare species found nowhere else on the earth."
+  },
+  {
+    "Question": "What do you call a baby bear?",
+    "Option 1": "Calf",
+    "Option 2": "Cub",
+    "Option 3": "Pup",
+    "Option 4": "Kit",
+    "Correct Answer": "Cub",
+    "Interesting Fact": "Bear cubs stay with their mothers for about two years to learn essential survival skills."
+  },
+  {
+    "Question": "Which park features the \"Zion-Mount Carmel\" tunnel?",
+    "Option 1": "Zion",
+    "Option 2": "Arches",
+    "Option 3": "Canyonlands",
+    "Option 4": "Mesa Verde",
+    "Correct Answer": "Zion",
+    "Interesting Fact": "This 1.1 mile tunnel was cut through solid sandstone and opened to the public in 1930."
+  },
+  {
+    "Question": "What is the study of birds called?",
+    "Option 1": "Biology",
+    "Option 2": "Ornithology",
+    "Option 3": "Geology",
+    "Option 4": "Entomology",
+    "Correct Answer": "Ornithology",
+    "Interesting Fact": "Ornithologists study bird behavior, songs, and migration patterns to help protect various bird species worldwide."
+  },
+  {
+    "Question": "Which park is home to \"Mount Desert Island\"?",
+    "Option 1": "Acadia",
+    "Option 2": "Olympic",
+    "Option 3": "Channel Islands",
+    "Option 4": "Isle Royale",
+    "Correct Answer": "Acadia",
+    "Interesting Fact": "This island is the largest off the coast of Maine and houses most of the park."
+  },
+  {
+    "Question": "What should you always carry for safety?",
+    "Option 1": "A whistle",
+    "Option 2": "A map",
+    "Option 3": "A first aid kit",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Carrying the ten essentials ensures you are prepared for unexpected emergencies while in the wilderness."
+  },
+  {
+    "Question": "Which park features \"The Misty Fjords\"?",
+    "Option 1": "Kenai Fjords",
+    "Option 2": "Glacier Bay",
+    "Option 3": "Denali",
+    "Option 4": "Katmai",
+    "Correct Answer": "Kenai Fjords",
+    "Interesting Fact": "Glaciers still cover nearly half of this park, carving deep valleys into the rugged coastline."
+  }
+]

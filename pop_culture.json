@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "Which movie is the highest-grossing film of all time?",
+    "Option 1": "Titanic",
+    "Option 2": "Avengers: Endgame",
+    "Option 3": "Avatar",
+    "Option 4": "Jurassic World",
+    "Correct Answer": "Avatar",
+    "Interesting Fact": "Director James Cameron waited years for technology to advance before filming this epic movie."
+  },
+  {
+    "Question": "Who is known as the \"King of Pop\"?",
+    "Option 1": "Prince",
+    "Option 2": "Michael Jackson",
+    "Option 3": "Elvis Presley",
+    "Option 4": "Justin Timberlake",
+    "Correct Answer": "Michael Jackson",
+    "Interesting Fact": "The Thriller album remains the best-selling music album in the history of the world."
+  },
+  {
+    "Question": "What is the best-selling video game of all time?",
+    "Option 1": "Tetris",
+    "Option 2": "Minecraft",
+    "Option 3": "GTA V",
+    "Option 4": "Wii Sports",
+    "Correct Answer": "Minecraft",
+    "Interesting Fact": "This sandbox game allows players to build nearly anything they can imagine using blocks."
+  },
+  {
+    "Question": "Which TV show features the phrase \"Winter is Coming\"?",
+    "Option 1": "The Witcher",
+    "Option 2": "Vikings",
+    "Option 3": "Game of Thrones",
+    "Option 4": "Succession",
+    "Correct Answer": "Game of Thrones",
+    "Interesting Fact": "The series is based on the popular fantasy book series by author George Martin."
+  },
+  {
+    "Question": "What is the name of Han Solo’s famous ship?",
+    "Option 1": "Enterprise",
+    "Option 2": "Millennium Falcon",
+    "Option 3": "Serenity",
+    "Option 4": "Discovery",
+    "Correct Answer": "Millennium Falcon",
+    "Interesting Fact": "This iconic spaceship is famous for making the Kessel Run in less than twelve parsecs."
+  },
+  {
+    "Question": "Who sang the hit 2023 song \"Flowers\"?",
+    "Option 1": "Taylor Swift",
+    "Option 2": "Miley Cyrus",
+    "Option 3": "Ariana Grande",
+    "Option 4": "Dua Lipa",
+    "Correct Answer": "Miley Cyrus",
+    "Interesting Fact": "This song broke records for the most streams in a single week on Spotify."
+  },
+  {
+    "Question": "Which company created the character Mario?",
+    "Option 1": "Sony",
+    "Option 2": "Sega",
+    "Option 3": "Nintendo",
+    "Option 4": "Microsoft",
+    "Correct Answer": "Nintendo",
+    "Interesting Fact": "Mario first appeared as a character named Jumpman in the original Donkey Kong game."
+  },
+  {
+    "Question": "Which movie features a park full of cloned dinosaurs?",
+    "Option 1": "King Kong",
+    "Option 2": "Jurassic Park",
+    "Option 3": "Godzilla",
+    "Option 4": "Tarzan",
+    "Correct Answer": "Jurassic Park",
+    "Interesting Fact": "Author Michael Crichton wrote the original novel before it became a massive film franchise."
+  },
+  {
+    "Question": "Who is the lead singer of the band Queen?",
+    "Option 1": "Elton John",
+    "Option 2": "David Bowie",
+    "Option 3": "Freddie Mercury",
+    "Option 4": "Mick Jagger",
+    "Correct Answer": "Freddie Mercury",
+    "Interesting Fact": "He is widely considered one of the greatest lead singers in the history of music."
+  },
+  {
+    "Question": "What city does Batman protect?",
+    "Option 1": "Metropolis",
+    "Option 2": "Central City",
+    "Option 3": "Gotham City",
+    "Option 4": "Star City",
+    "Correct Answer": "Gotham City",
+    "Interesting Fact": "Batman first appeared in Detective Comics number twenty-seven back in the year 1939."
+  },
+  {
+    "Question": "Which streaming service produced \"Stranger Things\"?",
+    "Option 1": "Hulu",
+    "Option 2": "Disney+",
+    "Option 3": "Netflix",
+    "Option 4": "HBO Max",
+    "Correct Answer": "Netflix",
+    "Interesting Fact": "The show is heavily inspired by 1980s pop culture and classic supernatural horror films."
+  },
+  {
+    "Question": "What is the name of the yellow Pokémon mascot?",
+    "Option 1": "Charmander",
+    "Option 2": "Squirtle",
+    "Option 3": "Pikachu",
+    "Option 4": "Bulbasaur",
+    "Correct Answer": "Pikachu",
+    "Interesting Fact": "Pikachu is an electric-type creature that stores energy in its bright red circular cheeks."
+  },
+  {
+    "Question": "Who played Jack Sparrow in \"Pirates of the Caribbean\"?",
+    "Option 1": "Brad Pitt",
+    "Option 2": "Johnny Depp",
+    "Option 3": "Tom Cruise",
+    "Option 4": "Will Smith",
+    "Correct Answer": "Johnny Depp",
+    "Interesting Fact": "The actor based his performance on the legendary Rolling Stones guitar player Keith Richards."
+  },
+  {
+    "Question": "Which singer is known for her \"Eras Tour\"?",
+    "Option 1": "Beyoncé",
+    "Option 2": "Taylor Swift",
+    "Option 3": "Katy Perry",
+    "Option 4": "Lady Gaga",
+    "Correct Answer": "Taylor Swift",
+    "Interesting Fact": "This massive concert tour celebrates all the different musical stages of her successful career."
+  },
+  {
+    "Question": "What is the name of the kingdom in \"Frozen\"?",
+    "Option 1": "Genovia",
+    "Option 2": "Arendelle",
+    "Option 3": "Agrabah",
+    "Option 4": "Far Far Away",
+    "Correct Answer": "Arendelle",
+    "Interesting Fact": "The movie was inspired by the classic fairy tale The Snow Queen by Andersen."
+  },
+  {
+    "Question": "Which video game features a \"Battle Royale\" mode?",
+    "Option 1": "Fortnite",
+    "Option 2": "FIFA",
+    "Option 3": "Mario Kart",
+    "Option 4": "Pac-Man",
+    "Correct Answer": "Fortnite",
+    "Interesting Fact": "Over one hundred players jump onto an island to fight until only one remains."
+  },
+  {
+    "Question": "Who directed the movie \"Jaws\"?",
+    "Option 1": "George Lucas",
+    "Option 2": "Steven Spielberg",
+    "Option 3": "James Cameron",
+    "Option 4": "Martin Scorsese",
+    "Correct Answer": "Steven Spielberg",
+    "Interesting Fact": "Jaws is often credited as the first major summer blockbuster in movie theater history."
+  },
+  {
+    "Question": "Which boy band sang the hit \"Bye Bye Bye\"?",
+    "Option 1": "Backstreet Boys",
+    "Option 2": "*NSYNC",
+    "Option 3": "One Direction",
+    "Option 4": "New Kids",
+    "Correct Answer": "'N Sync",
+    "Interesting Fact": "Justin Timberlake was a lead singer for this group before starting his solo career."
+  },
+  {
+    "Question": "What is the highest rank in the game of Chess?",
+    "Option 1": "King",
+    "Option 2": "Grandmaster",
+    "Option 3": "Master",
+    "Option 4": "Legend",
+    "Correct Answer": "Grandmaster",
+    "Interesting Fact": "This title is awarded to world-class players by the international chess organization called FIDE."
+  },
+  {
+    "Question": "Who lives in a pineapple under the sea?",
+    "Option 1": "Patrick Star",
+    "Option 2": "Squidward",
+    "Option 3": "SpongeBob",
+    "Option 4": "Mr. Krabs",
+    "Correct Answer": "SpongeBob",
+    "Interesting Fact": "The creator of the show was actually a marine science educator and an animator."
+  },
+  {
+    "Question": "Which Marvel hero has a shield made of Vibranium?",
+    "Option 1": "Iron Man",
+    "Option 2": "Thor",
+    "Option 3": "Captain America",
+    "Option 4": "Hulk",
+    "Correct Answer": "Captain America",
+    "Interesting Fact": "Steve Rogers was a soldier during World War Two before becoming a powerful superhero."
+  },
+  {
+    "Question": "What is the name of the principal in \"The Simpsons\"?",
+    "Option 1": "Skinner",
+    "Option 2": "Krusty",
+    "Option 3": "Quimby",
+    "Option 4": "Burns",
+    "Correct Answer": "Skinner",
+    "Interesting Fact": "Principal Seymour Skinner is a veteran and the stern leader of Springfield Elementary School."
+  },
+  {
+    "Question": "Which singer's fans are called the \"Beyhive\"?",
+    "Option 1": "Rihanna",
+    "Option 2": "Beyoncé",
+    "Option 3": "Adele",
+    "Option 4": "Shakira",
+    "Correct Answer": "Beyoncé",
+    "Interesting Fact": "She has won more Grammy Awards than any other individual artist in music history."
+  },
+  {
+    "Question": "What game console was released by Sony in 1994?",
+    "Option 1": "Xbox",
+    "Option 2": "Dreamcast",
+    "Option 3": "PlayStation",
+    "Option 4": "GameCube",
+    "Correct Answer": "PlayStation",
+    "Interesting Fact": "The original PlayStation was the first console to sell over one hundred million units."
+  },
+  {
+    "Question": "Which movie features the song \"Circle of Life\"?",
+    "Option 1": "Aladdin",
+    "Option 2": "The Lion King",
+    "Option 3": "Moana",
+    "Option 4": "Mulan",
+    "Correct Answer": "The Lion King",
+    "Interesting Fact": "This animated masterpiece was later adapted into a very successful and long-running Broadway musical."
+  },
+  {
+    "Question": "Who is the wizard protagonist in a famous book series?",
+    "Option 1": "Gandalf",
+    "Option 2": "Merlin",
+    "Option 3": "Harry Potter",
+    "Option 4": "Dumbledore",
+    "Correct Answer": "Harry Potter",
+    "Interesting Fact": "The book series has been translated into over eighty different languages around the world."
+  },
+  {
+    "Question": "Which reality show features the phrase \"You're fired\"?",
+    "Option 1": "Survivor",
+    "Option 2": "The Apprentice",
+    "Option 3": "Shark Tank",
+    "Option 4": "Idol",
+    "Correct Answer": "The Apprentice",
+    "Interesting Fact": "This competitive business show originally premiered on the NBC television network in early 2004."
+  },
+  {
+    "Question": "What is the name of the green ogre in a 2001 film?",
+    "Option 1": "Shrek",
+    "Option 2": "Donkey",
+    "Option 3": "Fiona",
+    "Option 4": "Puss",
+    "Correct Answer": "Shrek",
+    "Interesting Fact": "The movie won the very first Academy Award for Best Animated Feature ever given."
+  },
+  {
+    "Question": "Which artist sang \"Purple Rain\"?",
+    "Option 1": "Michael Jackson",
+    "Option 2": "Prince",
+    "Option 3": "David Bowie",
+    "Option 4": "Elton John",
+    "Correct Answer": "Prince",
+    "Interesting Fact": "Prince was a multi-instrumentalist who played nearly every instrument on his early studio albums."
+  },
+  {
+    "Question": "What is the name of the princess in \"The Legend of Zelda\"?",
+    "Option 1": "Peach",
+    "Option 2": "Daisy",
+    "Option 3": "Zelda",
+    "Option 4": "Rosalina",
+    "Correct Answer": "Zelda",
+    "Interesting Fact": "Despite the title, the main playable character in the series is actually named Link."
+  },
+  {
+    "Question": "Which movie features the character \"Doc Brown\"?",
+    "Option 1": "Star Wars",
+    "Option 2": "Back to the Future",
+    "Option 3": "Ghostbusters",
+    "Option 4": "Die Hard",
+    "Correct Answer": "Back to the Future",
+    "Interesting Fact": "The iconic time machine in the film was built using a modified DeLorean car."
+  },
+  {
+    "Question": "Who is the \"God of Mischief\" in Marvel movies?",
+    "Option 1": "Thanos",
+    "Option 2": "Loki",
+    "Option 3": "Hela",
+    "Option 4": "Mysterio",
+    "Correct Answer": "Loki",
+    "Interesting Fact": "The character is based on the legendary figure from ancient Norse mythology and folklore."
+  },
+  {
+    "Question": "Which TV show is set in the fictional town of Hawkins?",
+    "Option 1": "Riverdale",
+    "Option 2": "Stranger Things",
+    "Option 3": "Dark",
+    "Option 4": "Twin Peaks",
+    "Correct Answer": "Stranger Things",
+    "Interesting Fact": "Many of the young actors became global superstars because of the show's massive success."
+  },
+  {
+    "Question": "What is the name of the game involving \"creepers\"?",
+    "Option 1": "Roblox",
+    "Option 2": "Minecraft",
+    "Option 3": "Terraria",
+    "Option 4": "Fortnite",
+    "Correct Answer": "Minecraft",
+    "Interesting Fact": "Creepers are exploding enemies that are famous for destroying things players have carefully built."
+  },
+  {
+    "Question": "Which actress played Katniss Everdeen?",
+    "Option 1": "Emma Watson",
+    "Option 2": "Jennifer Lawrence",
+    "Option 3": "Scarlett Johansson",
+    "Option 4": "Zendaya",
+    "Correct Answer": "Jennifer Lawrence",
+    "Interesting Fact": "This film series is based on the popular dystopian novels written by Suzanne Collins."
+  },
+  {
+    "Question": "Who sang \"Rolling in the Deep\"?",
+    "Option 1": "Pink",
+    "Option 2": "Adele",
+    "Option 3": "Sia",
+    "Option 4": "Kelly Clarkson",
+    "Correct Answer": "Adele",
+    "Interesting Fact": "This powerful soul song helped her album Twenty-One become a massive global success story."
+  },
+  {
+    "Question": "What color is the character Pac-Man?",
+    "Option 1": "Red",
+    "Option 2": "Blue",
+    "Option 3": "Yellow",
+    "Option 4": "Pink",
+    "Correct Answer": "Yellow",
+    "Interesting Fact": "The design of Pac-Man was inspired by a pizza with one slice missing from it."
+  },
+  {
+    "Question": "Which movie features the line \"I'll be back\"?",
+    "Option 1": "Predator",
+    "Option 2": "The Terminator",
+    "Option 3": "Total Recall",
+    "Option 4": "Commando",
+    "Correct Answer": "The Terminator",
+    "Interesting Fact": "Arnold Schwarzenegger said this famous line which became his most iconic catchphrase in film."
+  },
+  {
+    "Question": "What is the name of the paper company in \"The Office\"?",
+    "Option 1": "Dunder Mifflin",
+    "Option 2": "Paper Co",
+    "Option 3": "Scranton Corp",
+    "Option 4": "Wernham Hogg",
+    "Correct Answer": "Dunder Mifflin",
+    "Interesting Fact": "The show is filmed in a mockumentary style to look like a real documentary."
+  },
+  {
+    "Question": "Which game features a plumber rescuing a princess?",
+    "Option 1": "Sonic",
+    "Option 2": "Super Mario Bros",
+    "Option 3": "Link",
+    "Option 4": "Mega Man",
+    "Correct Answer": "Super Mario Bros",
+    "Interesting Fact": "Mario and his brother Luigi are the most recognizable characters in the gaming industry."
+  },
+  {
+    "Question": "Who is the \"Man of Steel\"?",
+    "Option 1": "Batman",
+    "Option 2": "Superman",
+    "Option 3": "Iron Man",
+    "Option 4": "Wolverine",
+    "Correct Answer": "Superman",
+    "Interesting Fact": "Superman was born on the planet Krypton before being sent to live on Earth."
+  },
+  {
+    "Question": "Which artist released the album \"Midnights\"?",
+    "Option 1": "Olivia Rodrigo",
+    "Option 2": "Taylor Swift",
+    "Option 3": "Lana Del Rey",
+    "Option 4": "Lorde",
+    "Correct Answer": "Taylor Swift",
+    "Interesting Fact": "This album was inspired by thirteen sleepless nights scattered throughout her life and career."
+  },
+  {
+    "Question": "What animal is \"Sonic\" in video games?",
+    "Option 1": "Fox",
+    "Option 2": "Hedgehog",
+    "Option 3": "Echidna",
+    "Option 4": "Cat",
+    "Correct Answer": "Sonic",
+    "Interesting Fact": "Sonic is famous for his incredible speed and his ability to collect gold rings."
+  },
+  {
+    "Question": "Which movie features a magical board game?",
+    "Option 1": "Clue",
+    "Option 2": "Jumanji",
+    "Option 3": "Battleship",
+    "Option 4": "Risk",
+    "Correct Answer": "Jumanji",
+    "Interesting Fact": "The original 1995 film starred Robin Williams as a man trapped inside the game."
+  },
+  {
+    "Question": "What is the name of the coffee shop in \"Friends\"?",
+    "Option 1": "Starbucks",
+    "Option 2": "Central Perk",
+    "Option 3": "Monk's Cafe",
+    "Option 4": "The Hub",
+    "Correct Answer": "Central Perk",
+    "Interesting Fact": "This fictional coffee shop served as the main hangout for the six main characters."
+  },
+  {
+    "Question": "Who is the main villain in \"The Lion King\"?",
+    "Option 1": "Mufasa",
+    "Option 2": "Scar",
+    "Option 3": "Zazu",
+    "Option 4": "Timon",
+    "Correct Answer": "Scar",
+    "Interesting Fact": "Scar is the jealous younger brother of Mufasa who wants to be the king."
+  },
+  {
+    "Question": "Which band released the song \"Yellow Submarine\"?",
+    "Option 1": "The Beach Boys",
+    "Option 2": "The Beatles",
+    "Option 3": "The Rolling Stones",
+    "Option 4": "The Who",
+    "Correct Answer": "The Beatles",
+    "Interesting Fact": "This song was the title track for an animated musical fantasy film released in 1968."
+  },
+  {
+    "Question": "What is the name of the AI in \"Halo\"?",
+    "Option 1": "Alexa",
+    "Option 2": "Siri",
+    "Option 3": "Cortana",
+    "Option 4": "Jarvis",
+    "Correct Answer": "Cortana",
+    "Interesting Fact": "Cortana serves as a loyal companion and tactical advisor to the soldier Master Chief."
+  },
+  {
+    "Question": "Which movie features a \"Delorean\" time machine?",
+    "Option 1": "Ghostbusters",
+    "Option 2": "Back to the Future",
+    "Option 3": "Star Wars",
+    "Option 4": "E.T.",
+    "Correct Answer": "Back to the Future",
+    "Interesting Fact": "To travel through time, the car must reach exactly eighty-eight miles per hour."
+  },
+  {
+    "Question": "Who played \"Iron Man\" in the Marvel movies?",
+    "Option 1": "Chris Evans",
+    "Option 2": "Robert Downey Jr.",
+    "Option 3": "Chris Hemsworth",
+    "Option 4": "Mark Ruffalo",
+    "Correct Answer": "Robert Downey Jr.",
+    "Interesting Fact": "His performance in the 2008 film helped launch the massive Marvel Cinematic Universe franchise."
+  },
+  {
+    "Question": "Which show features a \"Demogorgon\"?",
+    "Option 1": "Stranger Things",
+    "Option 2": "The Witcher",
+    "Option 3": "Lost",
+    "Option 4": "Manifest",
+    "Correct Answer": "Stranger Things",
+    "Interesting Fact": "The Demogorgon is a predatory creature originating from the parallel dimension called the Upside Down."
+  },
+  {
+    "Question": "Who is the lead singer of the band U2?",
+    "Option 1": "Sting",
+    "Option 2": "Bono",
+    "Option 3": "Mick Jagger",
+    "Option 4": "Steven Tyler",
+    "Correct Answer": "Bono",
+    "Interesting Fact": "Bono is famous for his unique voice and his extensive global humanitarian and activist work."
+  },
+  {
+    "Question": "What is the name of the island in \"Fortnite\"?",
+    "Option 1": "Apollo",
+    "Option 2": "Athena",
+    "Option 3": "Artemis",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Fortnite changes its island map frequently through different themed seasons to keep gameplay exciting."
+  },
+  {
+    "Question": "Which film won the first-ever Best Picture Oscar?",
+    "Option 1": "Wings",
+    "Option 2": "Sunrise",
+    "Option 3": "Metropolis",
+    "Option 4": "The Jazz Singer",
+    "Correct Answer": "Wings",
+    "Interesting Fact": "This 1927 silent film is the only one to ever win for Engineering Effects."
+  },
+  {
+    "Question": "What is the name of Batman’s butler?",
+    "Option 1": "Alfred",
+    "Option 2": "Arthur",
+    "Option 3": "Albert",
+    "Option 4": "Arnold",
+    "Correct Answer": "Alfred",
+    "Interesting Fact": "Alfred Pennyworth is the loyal guardian and father figure who assists Bruce Wayne's mission."
+  },
+  {
+    "Question": "Which singer is known as the \"Material Girl\"?",
+    "Option 1": "Cyndi Lauper",
+    "Option 2": "Madonna",
+    "Option 3": "Cher",
+    "Option 4": "Janet Jackson",
+    "Correct Answer": "Madonna",
+    "Interesting Fact": "This iconic song helped establish Madonna as a major fashion icon during the mid-1980s."
+  },
+  {
+    "Question": "What is the highest-selling console of all time?",
+    "Option 1": "Nintendo DS",
+    "Option 2": "PlayStation 2",
+    "Option 3": "Game Boy",
+    "Option 4": "Nintendo Switch",
+    "Correct Answer": "PlayStation 2",
+    "Interesting Fact": "Over one hundred and fifty-five million units were sold during its thirteen-year production run."
+  },
+  {
+    "Question": "Which movie features the \"One Ring\"?",
+    "Option 1": "Harry Potter",
+    "Option 2": "Lord of the Rings",
+    "Option 3": "Willow",
+    "Option 4": "Star Wars",
+    "Correct Answer": "Lord of the Rings",
+    "Interesting Fact": "The films were shot entirely in New Zealand to capture the stunning Middle-earth landscapes."
+  },
+  {
+    "Question": "Who played the character \"Neo\" in The Matrix?",
+    "Option 1": "Keanu Reeves",
+    "Option 2": "Brad Pitt",
+    "Option 3": "Will Smith",
+    "Option 4": "Tom Cruise",
+    "Correct Answer": "Keanu Reeves",
+    "Interesting Fact": "The actor performed many of his own stunts during the filming of the action sequences."
+  },
+  {
+    "Question": "Which female artist sang \"Bad Guy\"?",
+    "Option 1": "Billie Eilish",
+    "Option 2": "Lorde",
+    "Option 3": "Halsey",
+    "Option 4": "Olivia Rodrigo",
+    "Correct Answer": "Billie Eilish",
+    "Interesting Fact": "She became the first artist born in the 2000s to have a number-one album."
+  },
+  {
+    "Question": "What is the name of the kingdom in \"Zelda\"?",
+    "Option 1": "Narnia",
+    "Option 2": "Hyrule",
+    "Option 3": "Azeroth",
+    "Option 4": "Middle-earth",
+    "Correct Answer": "Hyrule",
+    "Interesting Fact": "Hyrule is a magical land often protected by the hero Link and the princess Zelda."
+  },
+  {
+    "Question": "Which movie features \"The Stay Puft Marshmallow Man\"?",
+    "Option 1": "Ghostbusters",
+    "Option 2": "Men in Black",
+    "Option 3": "Beetlejuice",
+    "Option 4": "Gremlins",
+    "Correct Answer": "Ghostbusters",
+    "Interesting Fact": "This giant monster was inspired by the Michelin Man and the Pillsbury Doughboy characters."
+  },
+  {
+    "Question": "Who created the TV show \"Seinfeld\"?",
+    "Option 1": "Larry David",
+    "Option 2": "Jerry Seinfeld",
+    "Option 3": "Both of these",
+    "Option 4": "Neither",
+    "Correct Answer": "Both of these",
+    "Interesting Fact": "The show was famously described as being a program about absolutely nothing at all."
+  },
+  {
+    "Question": "What color is the \"Hulk\" when he is angry?",
+    "Option 1": "Red",
+    "Option 2": "Blue",
+    "Option 3": "Green",
+    "Option 4": "Yellow",
+    "Correct Answer": "Green",
+    "Interesting Fact": "The Hulk was originally grey, but printing issues led to his iconic green skin color."
+  },
+  {
+    "Question": "Which artist is known for the hit \"Uptown Funk\"?",
+    "Option 1": "Bruno Mars",
+    "Option 2": "Pharrell",
+    "Option 3": "Justin Bieber",
+    "Option 4": "Usher",
+    "Correct Answer": "Bruno Mars",
+    "Interesting Fact": "This song spent fourteen consecutive weeks at number one on the Billboard Hot 100 chart."
+  },
+  {
+    "Question": "What is the name of the main ship in \"Star Trek\"?",
+    "Option 1": "Voyager",
+    "Option 2": "Enterprise",
+    "Option 3": "Defiant",
+    "Option 4": "Discovery",
+    "Correct Answer": "Enterprise",
+    "Interesting Fact": "Several different ships have carried this name throughout the long history of the franchise."
+  },
+  {
+    "Question": "Who voiced the character \"Genie\" in Aladdin (1992)?",
+    "Option 1": "Will Smith",
+    "Option 2": "Robin Williams",
+    "Option 3": "Tom Hanks",
+    "Option 4": "Eddie Murphy",
+    "Correct Answer": "Robin Williams",
+    "Interesting Fact": "The actor ad-libbed so many lines that the script ended up being dozens of pages."
+  },
+  {
+    "Question": "Which game involves \"Master Chief\"?",
+    "Option 1": "Doom",
+    "Option 2": "Halo",
+    "Option 3": "Gears of War",
+    "Option 4": "Metroid",
+    "Correct Answer": "Halo",
+    "Interesting Fact": "Master Chief is a super-soldier who fights to save humanity from an alien alliance."
+  },
+  {
+    "Question": "What is the name of the fictitious land in \"The Lion, the Witch and the Wardrobe\"?",
+    "Option 1": "Oz",
+    "Option 2": "Narnia",
+    "Option 3": "Neverland",
+    "Option 4": "Wonderland",
+    "Correct Answer": "Narnia",
+    "Interesting Fact": "C.S. Lewis wrote this famous series, which has become a classic of children’s fantasy literature."
+  },
+  {
+    "Question": "Which singer's real name is Stefani Germanotta?",
+    "Option 1": "Lady Gaga",
+    "Option 2": "Katy Perry",
+    "Option 3": "Sia",
+    "Option 4": "Adele",
+    "Correct Answer": "Lady Gaga",
+    "Interesting Fact": "Her stage name was inspired by the famous Queen song titled Radio Ga Ga."
+  },
+  {
+    "Question": "What city is the setting for the show \"Friends\"?",
+    "Option 1": "Chicago",
+    "Option 2": "New York City",
+    "Option 3": "Los Angeles",
+    "Option 4": "Boston",
+    "Correct Answer": "New York City",
+    "Interesting Fact": "Although set in Manhattan, the show was actually filmed on a studio lot in California."
+  },
+  {
+    "Question": "Who is the primary villain in the \"Star Wars\" original trilogy?",
+    "Option 1": "Darth Maul",
+    "Option 2": "Darth Vader",
+    "Option 3": "Kylo Ren",
+    "Option 4": "Jabba",
+    "Correct Answer": "Darth Vader",
+    "Interesting Fact": "The character’s deep, mechanical breathing is one of the most recognizable sounds in cinema history."
+  },
+  {
+    "Question": "Which video game features \"Bowser\"?",
+    "Option 1": "Sonic",
+    "Option 2": "Super Mario",
+    "Option 3": "Pac-Man",
+    "Option 4": "Donkey Kong",
+    "Correct Answer": "Super Mario",
+    "Interesting Fact": "Bowser is the King of the Koopas and the primary antagonist of the Mario series."
+  },
+  {
+    "Question": "Which movie features a girl named Dorothy and a dog named Toto?",
+    "Option 1": "The Wiz",
+    "Option 2": "Wizard of Oz",
+    "Option 3": "Alice in Wonderland",
+    "Option 4": "Peter Pan",
+    "Correct Answer": "Wizard of Oz",
+    "Interesting Fact": "This film was one of the first to use Technicolor for its magical land sequences."
+  },
+  {
+    "Question": "Who sang the 1980s hit \"Thriller\"?",
+    "Option 1": "Prince",
+    "Option 2": "Michael Jackson",
+    "Option 3": "Lionel Richie",
+    "Option 4": "Rick James",
+    "Correct Answer": "Michael Jackson",
+    "Interesting Fact": "The music video for this song was the first to be inducted into the National Film Registry."
+  },
+  {
+    "Question": "What is the name of the high school in \"Grease\"?",
+    "Option 1": "Rydell High",
+    "Option 2": "North High",
+    "Option 3": "Riverdale",
+    "Option 4": "Sunnydale",
+    "Correct Answer": "Rydell High",
+    "Interesting Fact": "The movie was based on a 1971 musical that focused on 1950s United States culture."
+  },
+  {
+    "Question": "Which Marvel character is known as the \"Merc with a Mouth\"?",
+    "Option 1": "Spider-Man",
+    "Option 2": "Deadpool",
+    "Option 3": "Ant-Man",
+    "Option 4": "Star-Lord",
+    "Correct Answer": "Deadpool",
+    "Interesting Fact": "This character is famous for frequently breaking the fourth wall to talk to the audience."
+  },
+  {
+    "Question": "What is the name of the main character in \"The Legend of Zelda\"?",
+    "Option 1": "Zelda",
+    "Option 2": "Link",
+    "Option 3": "Ganon",
+    "Option 4": "Epona",
+    "Correct Answer": "Link",
+    "Interesting Fact": "Link usually carries the Master Sword, a legendary weapon used to defeat the forces of evil."
+  },
+  {
+    "Question": "Which band is known for the album \"The Dark Side of the Moon\"?",
+    "Option 1": "Led Zeppelin",
+    "Option 2": "Pink Floyd",
+    "Option 3": "AC/DC",
+    "Option 4": "Queen",
+    "Correct Answer": "Pink Floyd",
+    "Interesting Fact": "This album remained on the Billboard charts for an incredible nine hundred and fifty weeks."
+  },
+  {
+    "Question": "Which movie features the quote \"You're gonna need a bigger boat\"?",
+    "Option 1": "Titanic",
+    "Option 2": "Jaws",
+    "Option 3": "Pirates",
+    "Option 4": "Moana",
+    "Correct Answer": "Jaws",
+    "Interesting Fact": "This famous line was actually an ad-libbed remark by the actor Roy Scheider during filming."
+  },
+  {
+    "Question": "Who is the main character in the \"Indiana Jones\" movies?",
+    "Option 1": "Han Solo",
+    "Option 2": "Indiana Jones",
+    "Option 3": "Rick O'Connell",
+    "Option 4": "Lara Croft",
+    "Correct Answer": "Indiana Jones",
+    "Interesting Fact": "The character was created by George Lucas as a tribute to the action heroes of the 1930s."
+  },
+  {
+    "Question": "Which singer released the hit \"Shape of You\"?",
+    "Option 1": "Ed Sheeran",
+    "Option 2": "Sam Smith",
+    "Option 3": "Shawn Mendes",
+    "Option 4": "Harry Styles",
+    "Correct Answer": "Ed Sheeran",
+    "Interesting Fact": "This track became the first song to reach three billion streams on the Spotify platform."
+  },
+  {
+    "Question": "What is the name of the world in \"World of Warcraft\"?",
+    "Option 1": "Hyrule",
+    "Option 2": "Azeroth",
+    "Option 3": "Tyria",
+    "Option 4": "Tamriel",
+    "Correct Answer": "Azeroth",
+    "Interesting Fact": "Millions of players explore this vast fantasy world together in this popular online role-playing game."
+  },
+  {
+    "Question": "Which show features a character named \"Eleven\"?",
+    "Option 1": "The Boys",
+    "Option 2": "Stranger Things",
+    "Option 3": "Umbrella Academy",
+    "Option 4": "Shadow and Bone",
+    "Correct Answer": "Stranger Things",
+    "Interesting Fact": "Eleven possesses powerful psychokinetic abilities that she uses to fight monsters from another dimension."
+  },
+  {
+    "Question": "Who played \"Rose\" in the movie Titanic?",
+    "Option 1": "Julia Roberts",
+    "Option 2": "Kate Winslet",
+    "Option 3": "Nicole Kidman",
+    "Option 4": "Sandra Bullock",
+    "Correct Answer": "Kate Winslet",
+    "Interesting Fact": "The film was the first to reach the billion-dollar mark at the global box office."
+  },
+  {
+    "Question": "Which company produces the \"Xbox\"?",
+    "Option 1": "Nintendo",
+    "Option 2": "Microsoft",
+    "Option 3": "Sony",
+    "Option 4": "Sega",
+    "Correct Answer": "Microsoft",
+    "Interesting Fact": "The original Xbox was released in 2001 and introduced the popular Halo gaming franchise."
+  },
+  {
+    "Question": "What is the name of the fictional town in \"The Simpsons\"?",
+    "Option 1": "Quahog",
+    "Option 2": "Springfield",
+    "Option 3": "South Park",
+    "Option 4": "Bedrock",
+    "Correct Answer": "Springfield",
+    "Interesting Fact": "The town’s location is kept a secret to represent any typical town in the United States."
+  },
+  {
+    "Question": "Which singer is known as the \"Queen of Soul\"?",
+    "Option 1": "Aretha Franklin",
+    "Option 2": "Diana Ross",
+    "Option 3": "Tina Turner",
+    "Option 4": "Whitney Houston",
+    "Correct Answer": "Aretha Franklin",
+    "Interesting Fact": "She was the first female artist to be inducted into the Rock and Roll Hall of Fame."
+  },
+  {
+    "Question": "Which movie features the \"Infinity Gauntlet\"?",
+    "Option 1": "Justice League",
+    "Option 2": "Avengers: Infinity War",
+    "Option 3": "X-Men",
+    "Option 4": "Eternals",
+    "Correct Answer": "Avengers: Infinity War",
+    "Interesting Fact": "The gauntlet allows the wearer to control the six powerful gems known as the Infinity Stones."
+  },
+  {
+    "Question": "What is the name of the detective created by Arthur Conan Doyle?",
+    "Option 1": "Hercule Poirot",
+    "Option 2": "Sherlock Holmes",
+    "Option 3": "Dick Tracy",
+    "Option 4": "Philip Marlowe",
+    "Correct Answer": "Sherlock Holmes",
+    "Interesting Fact": "Holmes is famous for using logic and observation to solve the most difficult criminal cases."
+  },
+  {
+    "Question": "Which game features a character named \"Master Chief\"?",
+    "Option 1": "Halo",
+    "Option 2": "Metroid",
+    "Option 3": "Doom",
+    "Option 4": "Destiny",
+    "Correct Answer": "Halo",
+    "Interesting Fact": "Master Chief’s real name is John-117, and he is a Spartan-II commando for the UNSC."
+  },
+  {
+    "Question": "Who sang the hit song \"Single Ladies\"?",
+    "Option 1": "Rihanna",
+    "Option 2": "Beyoncé",
+    "Option 3": "Katy Perry",
+    "Option 4": "Lady Gaga",
+    "Correct Answer": "Beyoncé",
+    "Interesting Fact": "The iconic music video for this song inspired a global dance craze and many parodies."
+  },
+  {
+    "Question": "Which film features the character \"Willy Wonka\"?",
+    "Option 1": "Matilda",
+    "Option 2": "Charlie and the Chocolate Factory",
+    "Option 3": "The BFG",
+    "Option 4": "Hook",
+    "Correct Answer": "Charlie and the Chocolate Factory",
+    "Interesting Fact": "Gene Wilder’s portrayal of Wonka in 1971 remains a beloved part of cinema history."
+  },
+  {
+    "Question": "What is the name of the floating city in \"BioShock Infinite\"?",
+    "Option 1": "Rapture",
+    "Option 2": "Columbia",
+    "Option 3": "Midgar",
+    "Option 4": "Zanarkand",
+    "Correct Answer": "Columbia",
+    "Interesting Fact": "This city is held aloft by giant balloons and quantum levitation technology in the game."
+  },
+  {
+    "Question": "Which actress played \"Hermione Granger\"?",
+    "Option 1": "Emma Stone",
+    "Option 2": "Emma Watson",
+    "Option 3": "Emma Roberts",
+    "Option 4": "Jennifer Lawrence",
+    "Correct Answer": "Emma Watson",
+    "Interesting Fact": "She was cast at age nine and played the character in all eight film adaptations."
+  },
+  {
+    "Question": "Who is the \"King of Rock and Roll\"?",
+    "Option 1": "Chuck Berry",
+    "Option 2": "Elvis Presley",
+    "Option 3": "Little Richard",
+    "Option 4": "Jerry Lee Lewis",
+    "Correct Answer": "Elvis Presley",
+    "Interesting Fact": "He is one of the most significant cultural icons of the twentieth century in music."
+  },
+  {
+    "Question": "Which TV show is set in \"Downton Abbey\"?",
+    "Option 1": "The Crown",
+    "Option 2": "Downton Abbey",
+    "Option 3": "Bridgerton",
+    "Option 4": "Victoria",
+    "Correct Answer": "Downton Abbey",
+    "Interesting Fact": "The show follows the lives of the Crawley family and their domestic servants in England."
+  },
+  {
+    "Question": "What is the name of the planet in \"Avatar\"?",
+    "Option 1": "Mars",
+    "Option 2": "Pandora",
+    "Option 3": "Naboo",
+    "Option 4": "Arrakis",
+    "Correct Answer": "Pandora",
+    "Interesting Fact": "Pandora is a moon inhabited by the Na'vi, who live in harmony with their environment."
+  },
+  {
+    "Question": "Which artist is known for the album \"Purple Rain\"?",
+    "Option 1": "David Bowie",
+    "Option 2": "Prince",
+    "Option 3": "Elton John",
+    "Option 4": "Stevie Wonder",
+    "Correct Answer": "Prince",
+    "Interesting Fact": "The album served as the soundtrack to the film of the same name starring Prince."
+  },
+  {
+    "Question": "What is the name of the robot in \"Star Wars\" that is gold?",
+    "Option 1": "R2-D2",
+    "Option 2": "C-3PO",
+    "Option 3": "BB-8",
+    "Option 4": "K-2SO",
+    "Correct Answer": "C-3PO",
+    "Interesting Fact": "This protocol droid is fluent in over six million forms of communication throughout the galaxy."
+  }
+]

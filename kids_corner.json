@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "Why is the sky blue?",
+    "Option 1": "Painted blue",
+    "Option 2": "Sunlight scattering",
+    "Option 3": "Ocean reflection",
+    "Option 4": "Blue clouds",
+    "Correct Answer": "Sunlight scattering",
+    "Interesting Fact": "Blue light travels in shorter waves and scatters more than other colors in our air."
+  },
+  {
+    "Question": "How many legs does a spider have?",
+    "Option 1": "Six",
+    "Option 2": "Eight",
+    "Option 3": "Ten",
+    "Option 4": "Twelve",
+    "Correct Answer": "Eight",
+    "Interesting Fact": "Spiders use their eight legs to walk, climb, and feel vibrations on their sticky webs."
+  },
+  {
+    "Question": "What is the largest planet in our solar system?",
+    "Option 1": "Earth",
+    "Option 2": "Mars",
+    "Option 3": "Jupiter",
+    "Option 4": "Saturn",
+    "Correct Answer": "Jupiter",
+    "Interesting Fact": "Jupiter is so big that all other planets could fit inside it twice over."
+  },
+  {
+    "Question": "Which animal is known as the \"King of the Jungle\"?",
+    "Option 1": "Tiger",
+    "Option 2": "Lion",
+    "Option 3": "Elephant",
+    "Option 4": "Gorilla",
+    "Correct Answer": "Lion",
+    "Interesting Fact": "Lions actually live in grasslands and plains, while tigers are the ones in jungles."
+  },
+  {
+    "Question": "What do bees collect from flowers to make honey?",
+    "Option 1": "Water",
+    "Option 2": "Dust",
+    "Option 3": "Nectar",
+    "Option 4": "Seeds",
+    "Correct Answer": "Nectar",
+    "Interesting Fact": "Bees use their long tongues like straws to suck sweet nectar out of flowers."
+  },
+  {
+    "Question": "How many colors are in a rainbow?",
+    "Option 1": "Five",
+    "Option 2": "Six",
+    "Option 3": "Seven",
+    "Option 4": "Eight",
+    "Correct Answer": "Seven",
+    "Interesting Fact": "The colors are red, orange, yellow, green, blue, indigo, and also beautiful violet."
+  },
+  {
+    "Question": "Which gas do humans need to breathe to stay alive?",
+    "Option 1": "Nitrogen",
+    "Option 2": "Oxygen",
+    "Option 3": "Carbon Dioxide",
+    "Option 4": "Helium",
+    "Correct Answer": "Oxygen",
+    "Interesting Fact": "Our lungs take oxygen from the air and send it into our red blood."
+  },
+  {
+    "Question": "What is the closest star to Earth?",
+    "Option 1": "North Star",
+    "Option 2": "The Sun",
+    "Option 3": "Sirius",
+    "Option 4": "Alpha Centauri",
+    "Correct Answer": "The Sun",
+    "Interesting Fact": "The Sun is a giant ball of glowing gas that gives us light and heat."
+  },
+  {
+    "Question": "Which bird cannot fly but is a great swimmer?",
+    "Option 1": "Eagle",
+    "Option 2": "Penguin",
+    "Option 3": "Parrot",
+    "Option 4": "Owl",
+    "Correct Answer": "Penguin",
+    "Interesting Fact": "Penguins use their wings like flippers to fly through the water at high speeds."
+  },
+  {
+    "Question": "What do you call a baby frog?",
+    "Option 1": "Fry",
+    "Option 2": "Calf",
+    "Option 3": "Tadpole",
+    "Option 4": "Cub",
+    "Correct Answer": "Tadpole",
+    "Interesting Fact": "Tadpoles live underwater and breathe through gills before growing legs and turning into frogs."
+  },
+  {
+    "Question": "How many bones are in the adult human body?",
+    "Option 1": 100,
+    "Option 2": 206,
+    "Option 3": 350,
+    "Option 4": 500,
+    "Correct Answer": 206,
+    "Interesting Fact": "Babies are actually born with more bones that fuse together as they grow up."
+  },
+  {
+    "Question": "Which planet is famous for its bright rings?",
+    "Option 1": "Mars",
+    "Option 2": "Venus",
+    "Option 3": "Saturn",
+    "Option 4": "Neptune",
+    "Correct Answer": "Saturn",
+    "Interesting Fact": "Saturn’s rings are made of billions of pieces of ice, dust, and rocky material."
+  },
+  {
+    "Question": "What is the hardest natural substance on Earth?",
+    "Option 1": "Gold",
+    "Option 2": "Iron",
+    "Option 3": "Diamond",
+    "Option 4": "Granite",
+    "Correct Answer": "Diamond",
+    "Interesting Fact": "Diamonds are formed deep underground under intense heat and very high pressure over time."
+  },
+  {
+    "Question": "Which animal is the tallest in the world?",
+    "Option 1": "Elephant",
+    "Option 2": "Giraffe",
+    "Option 3": "Ostrich",
+    "Option 4": "Camel",
+    "Correct Answer": "Giraffe",
+    "Interesting Fact": "A giraffe’s neck alone can be six feet long, which is taller than most humans."
+  },
+  {
+    "Question": "What force pulls everything down toward the Earth?",
+    "Option 1": "Magnetism",
+    "Option 2": "Friction",
+    "Option 3": "Gravity",
+    "Option 4": "Electricity",
+    "Correct Answer": "Gravity",
+    "Interesting Fact": "Gravity is the invisible force that keeps our feet on the ground every single day."
+  },
+  {
+    "Question": "What do we call a scientist who studies dinosaurs?",
+    "Option 1": "Biologist",
+    "Option 2": "Paleontologist",
+    "Option 3": "Geologist",
+    "Option 4": "Chemist",
+    "Correct Answer": "Paleontologist",
+    "Interesting Fact": "These scientists find and study fossils to learn how creatures lived millions of years ago."
+  },
+  {
+    "Question": "Which ocean is the largest on Earth?",
+    "Option 1": "Atlantic",
+    "Option 2": "Indian",
+    "Option 3": "Arctic",
+    "Option 4": "Pacific",
+    "Correct Answer": "Pacific",
+    "Interesting Fact": "The Pacific Ocean covers more than thirty percent of the entire surface of the Earth."
+  },
+  {
+    "Question": "What is the only fruit that has seeds on the outside?",
+    "Option 1": "Apple",
+    "Option 2": "Banana",
+    "Option 3": "Strawberry",
+    "Option 4": "Blueberry",
+    "Correct Answer": "Strawberry",
+    "Interesting Fact": "Each tiny yellow dot on a strawberry is actually an individual fruit with its seed."
+  },
+  {
+    "Question": "How many continents are there on Earth?",
+    "Option 1": "Five",
+    "Option 2": "Six",
+    "Option 3": "Seven",
+    "Option 4": "Eight",
+    "Correct Answer": "Seven",
+    "Interesting Fact": "The seven continents are Africa, Antarctica, Asia, Europe, North America, Oceania, and South America."
+  },
+  {
+    "Question": "Which organ pumps blood throughout your body?",
+    "Option 1": "Brain",
+    "Option 2": "Lungs",
+    "Option 3": "Heart",
+    "Option 4": "Stomach",
+    "Correct Answer": "Heart",
+    "Interesting Fact": "Your heart is a muscle that beats about one hundred thousand times every single day."
+  },
+  {
+    "Question": "What do caterpillars turn into after their cocoon?",
+    "Option 1": "Bees",
+    "Option 2": "Ladybugs",
+    "Option 3": "Butterflies",
+    "Option 4": "Moths",
+    "Correct Answer": "Butterflies",
+    "Interesting Fact": "This amazing change from a crawling caterpillar to a flying butterfly is called metamorphosis."
+  },
+  {
+    "Question": "What is the fastest land animal?",
+    "Option 1": "Lion",
+    "Option 2": "Cheetah",
+    "Option 3": "Horse",
+    "Option 4": "Greyhound",
+    "Correct Answer": "Cheetah",
+    "Interesting Fact": "Cheetahs can run as fast as a car on a highway for short distances."
+  },
+  {
+    "Question": "Which food never spoils and can last for centuries?",
+    "Option 1": "Rice",
+    "Option 2": "Honey",
+    "Option 3": "Salt",
+    "Option 4": "Dried Meat",
+    "Correct Answer": "Honey",
+    "Interesting Fact": "Archaeologists have found pots of honey in ancient Egyptian tombs that are still edible."
+  },
+  {
+    "Question": "How many teeth does an adult human usually have?",
+    "Option 1": 20,
+    "Option 2": 28,
+    "Option 3": 32,
+    "Option 4": 40,
+    "Correct Answer": 32,
+    "Interesting Fact": "Most adults have thirty-two teeth, including four wisdom teeth that grow in later."
+  },
+  {
+    "Question": "What is a group of lions called?",
+    "Option 1": "Pack",
+    "Option 2": "Herd",
+    "Option 3": "Pride",
+    "Option 4": "Troop",
+    "Correct Answer": "Pride",
+    "Interesting Fact": "A pride usually consists of related females, their cubs, and a few adult males."
+  },
+  {
+    "Question": "Which planet is known as the \"Red Planet\"?",
+    "Option 1": "Mercury",
+    "Option 2": "Venus",
+    "Option 3": "Mars",
+    "Option 4": "Jupiter",
+    "Correct Answer": "Mars",
+    "Interesting Fact": "Mars looks red because its surface is covered in rusty iron dust and rocks."
+  },
+  {
+    "Question": "What do you call the white part of an egg?",
+    "Option 1": "Yolk",
+    "Option 2": "Shell",
+    "Option 3": "Albumen",
+    "Option 4": "Membrane",
+    "Correct Answer": "Albumen",
+    "Interesting Fact": "The albumen protects the yolk and provides extra nutrition for a growing baby chick."
+  },
+  {
+    "Question": "Which mammal can truly fly?",
+    "Option 1": "Squirrel",
+    "Option 2": "Bat",
+    "Option 3": "Flying Fish",
+    "Option 4": "Penguin",
+    "Correct Answer": "Bat",
+    "Interesting Fact": "Bats are the only mammals that have wings and can flap them to fly."
+  },
+  {
+    "Question": "What is the largest land animal?",
+    "Option 1": "Hippo",
+    "Option 2": "Rhinoceros",
+    "Option 3": "African Elephant",
+    "Option 4": "Giraffe",
+    "Correct Answer": "African Elephant",
+    "Interesting Fact": "These gentle giants can weigh as much as three large school buses parked together."
+  },
+  {
+    "Question": "What part of the plant grows underground?",
+    "Option 1": "Stem",
+    "Option 2": "Leaf",
+    "Option 3": "Root",
+    "Option 4": "Flower",
+    "Correct Answer": "Root",
+    "Interesting Fact": "Roots soak up water and minerals from the soil to help the plant grow."
+  },
+  {
+    "Question": "How many sense organs do humans have?",
+    "Option 1": "Three",
+    "Option 2": "Four",
+    "Option 3": "Five",
+    "Option 4": "Six",
+    "Correct Answer": "Five",
+    "Interesting Fact": "Our five senses are sight, hearing, smell, taste, and also the sense of touch."
+  },
+  {
+    "Question": "Which instrument measures temperature?",
+    "Option 1": "Barometer",
+    "Option 2": "Compass",
+    "Option 3": "Thermometer",
+    "Option 4": "Ruler",
+    "Correct Answer": "Thermometer",
+    "Interesting Fact": "Thermometers use a scale to show how hot or cold something is in degrees."
+  },
+  {
+    "Question": "What do you call a house made of ice?",
+    "Option 1": "Tepee",
+    "Option 2": "Igloo",
+    "Option 3": "Cabin",
+    "Option 4": "Hut",
+    "Correct Answer": "Igloo",
+    "Interesting Fact": "Igloos are built from blocks of packed snow which trap heat to keep people warm."
+  },
+  {
+    "Question": "Which animal is the largest in the entire world?",
+    "Option 1": "Blue Whale",
+    "Option 2": "Great White Shark",
+    "Option 3": "Colossal Squid",
+    "Option 4": "Elephant",
+    "Correct Answer": "Blue Whale",
+    "Interesting Fact": "A blue whale's heart is the size of a small car and beats very slowly."
+  },
+  {
+    "Question": "What turns a liquid into a solid?",
+    "Option 1": "Boiling",
+    "Option 2": "Freezing",
+    "Option 3": "Melting",
+    "Option 4": "Evaporating",
+    "Correct Answer": "Freezing",
+    "Interesting Fact": "When water freezes at zero degrees Celsius, it turns into solid blocks of ice."
+  },
+  {
+    "Question": "What do pandas eat almost exclusively?",
+    "Option 1": "Fish",
+    "Option 2": "Berries",
+    "Option 3": "Bamboo",
+    "Option 4": "Grass",
+    "Correct Answer": "Bamboo",
+    "Interesting Fact": "Pandas spend most of their day eating bamboo to get enough energy to move."
+  },
+  {
+    "Question": "Which direction does the sun rise in?",
+    "Option 1": "North",
+    "Option 2": "South",
+    "Option 3": "East",
+    "Option 4": "West",
+    "Correct Answer": "East",
+    "Interesting Fact": "The Earth rotates toward the east, which makes the sun appear to rise there."
+  },
+  {
+    "Question": "What is the main ingredient in glass?",
+    "Option 1": "Metal",
+    "Option 2": "Sand",
+    "Option 3": "Plastic",
+    "Option 4": "Wood",
+    "Correct Answer": "Sand",
+    "Interesting Fact": "Glass is made by heating ordinary sand until it melts into a clear liquid."
+  },
+  {
+    "Question": "How many heart chambers does a human have?",
+    "Option 1": "Two",
+    "Option 2": "Three",
+    "Option 3": "Four",
+    "Option 4": "Five",
+    "Correct Answer": "Four",
+    "Interesting Fact": "The four chambers work together to pump blood to your lungs and your body."
+  },
+  {
+    "Question": "What do you call a scientist who studies space?",
+    "Option 1": "Astronaut",
+    "Option 2": "Astronomer",
+    "Option 3": "Astrologist",
+    "Option 4": "Pilot",
+    "Correct Answer": "Astronomer",
+    "Interesting Fact": "Astronomers use powerful telescopes to look at stars, planets, and galaxies far away."
+  },
+  {
+    "Question": "Which nut is actually a legume (like a bean)?",
+    "Option 1": "Walnut",
+    "Option 2": "Cashew",
+    "Option 3": "Peanut",
+    "Option 4": "Almond",
+    "Correct Answer": "Peanut",
+    "Interesting Fact": "Peanuts grow underground in pods, unlike most other nuts that grow on tall trees."
+  },
+  {
+    "Question": "What is the outside layer of a tree called?",
+    "Option 1": "Skin",
+    "Option 2": "Bark",
+    "Option 3": "Shell",
+    "Option 4": "Crust",
+    "Correct Answer": "Bark",
+    "Interesting Fact": "Bark protects the tree from cold weather, hungry insects, and many types of diseases."
+  },
+  {
+    "Question": "Which sense do you use to tell if a lemon is sour?",
+    "Option 1": "Sight",
+    "Option 2": "Smell",
+    "Option 3": "Taste",
+    "Option 4": "Touch",
+    "Correct Answer": "Taste",
+    "Interesting Fact": "Your tongue has tiny bumps called taste buds that detect sweet, salty, and sour."
+  },
+  {
+    "Question": "How many states are in the United States?",
+    "Option 1": 48,
+    "Option 2": 50,
+    "Option 3": 52,
+    "Option 4": 55,
+    "Correct Answer": 50,
+    "Interesting Fact": "There are fifty states represented by the fifty white stars on the American flag."
+  },
+  {
+    "Question": "What is the boiling point of water?",
+    "Option 1": "100°C",
+    "Option 2": "50°C",
+    "Option 3": "200°C",
+    "Option 4": "0°C",
+    "Correct Answer": "100°C",
+    "Interesting Fact": "At this temperature, liquid water turns into an invisible gas called water vapor or steam."
+  },
+  {
+    "Question": "Which animal is known for its long memory?",
+    "Option 1": "Dog",
+    "Option 2": "Cat",
+    "Option 3": "Elephant",
+    "Option 4": "Mouse",
+    "Correct Answer": "Elephant",
+    "Interesting Fact": "Elephants can remember locations of water and individual friends for many decades of time."
+  },
+  {
+    "Question": "What is the largest bird in the world?",
+    "Option 1": "Eagle",
+    "Option 2": "Albatross",
+    "Option 3": "Ostrich",
+    "Option 4": "Emu",
+    "Correct Answer": "Ostrich",
+    "Interesting Fact": "Ostriches are the world's largest birds, but they are much too heavy to fly."
+  },
+  {
+    "Question": "What do we call the moon when it looks like a circle?",
+    "Option 1": "Crescent",
+    "Option 2": "Half Moon",
+    "Option 3": "Full Moon",
+    "Option 4": "New Moon",
+    "Correct Answer": "Full Moon",
+    "Interesting Fact": "A full moon happens when the sun lights up the entire side facing the Earth."
+  },
+  {
+    "Question": "Which metal is a liquid at room temperature?",
+    "Option 1": "Gold",
+    "Option 2": "Iron",
+    "Option 3": "Mercury",
+    "Option 4": "Copper",
+    "Correct Answer": "Mercury",
+    "Interesting Fact": "Mercury is a silver metal that flows like water when it is at room temperature."
+  },
+  {
+    "Question": "What do you call a shape with five sides?",
+    "Option 1": "Square",
+    "Option 2": "Pentagon",
+    "Option 3": "Hexagon",
+    "Option 4": "Octagon",
+    "Correct Answer": "Pentagon",
+    "Interesting Fact": "The word pentagon comes from Greek words meaning five and also the word angle."
+  },
+  {
+    "Question": "Which planet is known as the \"Earth's Twin\"?",
+    "Option 1": "Mars",
+    "Option 2": "Venus",
+    "Option 3": "Neptune",
+    "Option 4": "Mercury",
+    "Correct Answer": "Venus",
+    "Interesting Fact": "Venus is similar in size and composition to Earth but has a very hot atmosphere."
+  },
+  {
+    "Question": "What do you call a scientist who studies plants?",
+    "Option 1": "Zoologist",
+    "Option 2": "Botanist",
+    "Option 3": "Geologist",
+    "Option 4": "Chemist",
+    "Correct Answer": "Botanist",
+    "Interesting Fact": "Botanists study everything about plants, from the tiniest moss to the tallest redwood trees."
+  },
+  {
+    "Question": "What is the fastest bird in the world?",
+    "Option 1": "Eagle",
+    "Option 2": "Ostrich",
+    "Option 3": "Peregrine Falcon",
+    "Option 4": "Swift",
+    "Correct Answer": "Peregrine Falcon",
+    "Interesting Fact": "This amazing bird can dive through the air at over two hundred miles per hour."
+  },
+  {
+    "Question": "How many teeth does a Great White Shark have?",
+    "Option 1": 32,
+    "Option 2": 100,
+    "Option 3": 3000,
+    "Option 4": 10000,
+    "Correct Answer": 3000,
+    "Interesting Fact": "Sharks have many rows of teeth and grow new ones to replace the old ones."
+  },
+  {
+    "Question": "What is the largest type of \"big cat\" in the world?",
+    "Option 1": "Lion",
+    "Option 2": "Leopard",
+    "Option 3": "Tiger",
+    "Option 4": "Cheetah",
+    "Correct Answer": "Tiger",
+    "Interesting Fact": "Some tigers can weigh over six hundred pounds and grow up to eleven feet long."
+  },
+  {
+    "Question": "Which part of the plant makes food using sunlight?",
+    "Option 1": "Roots",
+    "Option 2": "Stem",
+    "Option 3": "Leaf",
+    "Option 4": "Flower",
+    "Correct Answer": "Leaf",
+    "Interesting Fact": "Leaves use a process called photosynthesis to turn sunlight into energy for the plant."
+  },
+  {
+    "Question": "What is the only continent where spiders don't live?",
+    "Option 1": "Africa",
+    "Option 2": "Australia",
+    "Option 3": "Antarctica",
+    "Option 4": "South America",
+    "Correct Answer": "Antarctica",
+    "Interesting Fact": "Spiders cannot survive in Antarctica because it is much too cold for their small bodies."
+  },
+  {
+    "Question": "Which animal can change its color to hide?",
+    "Option 1": "Frog",
+    "Option 2": "Chameleon",
+    "Option 3": "Snake",
+    "Option 4": "Turtle",
+    "Correct Answer": "Chameleon",
+    "Interesting Fact": "Chameleons change color to blend in, communicate, or even to help regulate their temperature."
+  },
+  {
+    "Question": "What gas do plants \"breathe in\" to make food?",
+    "Option 1": "Oxygen",
+    "Option 2": "Nitrogen",
+    "Option 3": "Carbon Dioxide",
+    "Option 4": "Helium",
+    "Correct Answer": "Carbon Dioxide",
+    "Interesting Fact": "Plants take in carbon dioxide and release the oxygen that humans need to breathe."
+  },
+  {
+    "Question": "How many oceans are there on Earth?",
+    "Option 1": "Three",
+    "Option 2": "Five",
+    "Option 3": "Seven",
+    "Option 4": "Nine",
+    "Correct Answer": "Five",
+    "Interesting Fact": "The oceans are the Atlantic, Pacific, Indian, Southern, and the very cold Arctic Ocean."
+  },
+  {
+    "Question": "What is the name of the force that stops things?",
+    "Option 1": "Gravity",
+    "Option 2": "Friction",
+    "Option 3": "Magnetism",
+    "Option 4": "Speed",
+    "Correct Answer": "Friction",
+    "Interesting Fact": "Friction happens when two surfaces rub together, which slows down or stops an object."
+  },
+  {
+    "Question": "Which animal sleeps while standing up?",
+    "Option 1": "Dog",
+    "Option 2": "Cat",
+    "Option 3": "Horse",
+    "Option 4": "Pig",
+    "Correct Answer": "Horse",
+    "Interesting Fact": "Horses have a special leg lock that allows them to nap without falling over."
+  },
+  {
+    "Question": "What is a giant ball of ice and dust in space?",
+    "Option 1": "Star",
+    "Option 2": "Moon",
+    "Option 3": "Comet",
+    "Option 4": "Planet",
+    "Correct Answer": "Comet",
+    "Interesting Fact": "Comets develop long, glowing tails as they get closer to the heat of the sun."
+  },
+  {
+    "Question": "What do you call a baby goat?",
+    "Option 1": "Kid",
+    "Option 2": "Calf",
+    "Option 3": "Foal",
+    "Option 4": "Joey",
+    "Correct Answer": "Kid",
+    "Interesting Fact": "Baby goats are very playful and start jumping around just minutes after they are born."
+  },
+  {
+    "Question": "Which is the only mammal that can't jump?",
+    "Option 1": "Hippo",
+    "Option 2": "Rhino",
+    "Option 3": "Elephant",
+    "Option 4": "Giraffe",
+    "Correct Answer": "Elephant",
+    "Interesting Fact": "Elephants are too heavy and have bones that aren't built for jumping off the ground."
+  },
+  {
+    "Question": "What is the process of water turning into a gas?",
+    "Option 1": "Freezing",
+    "Option 2": "Melting",
+    "Option 3": "Evaporation",
+    "Option 4": "Condensation",
+    "Correct Answer": "Evaporation",
+    "Interesting Fact": "Heat from the sun turns liquid water into invisible vapor that rises into the sky."
+  },
+  {
+    "Question": "How many strings does a standard guitar have?",
+    "Option 1": "Four",
+    "Option 2": "Five",
+    "Option 3": "Six",
+    "Option 4": "Eight",
+    "Correct Answer": "Six",
+    "Interesting Fact": "Musicians pluck or strum the strings to make different sounds and beautiful musical notes."
+  },
+  {
+    "Question": "What is the study of the stars and planets?",
+    "Option 1": "Biology",
+    "Option 2": "Astronomy",
+    "Option 3": "Geology",
+    "Option 4": "History",
+    "Correct Answer": "Astronomy",
+    "Interesting Fact": "Astronomy helps us understand the vast universe and the many objects floating in space."
+  },
+  {
+    "Question": "Which sea animal has three hearts?",
+    "Option 1": "Shark",
+    "Option 2": "Whale",
+    "Option 3": "Octopus",
+    "Option 4": "Dolphin",
+    "Correct Answer": "Octopus",
+    "Interesting Fact": "Two hearts pump blood to the gills, while the third heart pumps to the body."
+  },
+  {
+    "Question": "What do you call the center of an atom?",
+    "Option 1": "Electron",
+    "Option 2": "Proton",
+    "Option 3": "Nucleus",
+    "Option 4": "Neutron",
+    "Correct Answer": "Nucleus",
+    "Interesting Fact": "The nucleus is very small but contains most of the atom's mass and energy."
+  },
+  {
+    "Question": "Which state is famous for the Grand Canyon?",
+    "Option 1": "Texas",
+    "Option 2": "Arizona",
+    "Option 3": "Nevada",
+    "Option 4": "California",
+    "Correct Answer": "Arizona",
+    "Interesting Fact": "The Grand Canyon is a mile deep and was carved by the Colorado River water."
+  },
+  {
+    "Question": "What do you call a group of fish?",
+    "Option 1": "Pack",
+    "Option 2": "Herd",
+    "Option 3": "School",
+    "Option 4": "Flock",
+    "Correct Answer": "School",
+    "Interesting Fact": "Swimming in a school helps fish find food and stay safe from bigger hungry animals."
+  },
+  {
+    "Question": "What is the largest ocean in the world?",
+    "Option 1": "Atlantic",
+    "Option 2": "Indian",
+    "Option 3": "Pacific",
+    "Option 4": "Southern",
+    "Correct Answer": "Pacific",
+    "Interesting Fact": "The Pacific Ocean is so large it covers about one-third of the entire Earth's surface."
+  },
+  {
+    "Question": "Which animal has a pouch to carry its baby?",
+    "Option 1": "Monkey",
+    "Option 2": "Kangaroo",
+    "Option 3": "Bear",
+    "Option 4": "Panda",
+    "Correct Answer": "Kangaroo",
+    "Interesting Fact": "Female kangaroos are marsupials that keep their tiny babies safe inside a cozy stomach pouch."
+  },
+  {
+    "Question": "What is the layer of gas around the Earth?",
+    "Option 1": "Crust",
+    "Option 2": "Mantle",
+    "Option 3": "Atmosphere",
+    "Option 4": "Core",
+    "Correct Answer": "Atmosphere",
+    "Interesting Fact": "The atmosphere contains the air we breathe and protects us from the sun's harsh rays."
+  },
+  {
+    "Question": "How many sides does a hexagon have?",
+    "Option 1": "Five",
+    "Option 2": "Six",
+    "Option 3": "Seven",
+    "Option 4": "Eight",
+    "Correct Answer": "Six",
+    "Interesting Fact": "Honeybees build their honeycombs in the shape of hexagons because they fit together perfectly."
+  },
+  {
+    "Question": "What do you call a scientist who studies rocks?",
+    "Option 1": "Biologist",
+    "Option 2": "Geologist",
+    "Option 3": "Chemist",
+    "Option 4": "Physicist",
+    "Correct Answer": "Geologist",
+    "Interesting Fact": "Geologists look at rocks and minerals to learn how the Earth was formed long ago."
+  },
+  {
+    "Question": "Which bird is the symbol of the United States?",
+    "Option 1": "Eagle",
+    "Option 2": "Robin",
+    "Option 3": "Bald Eagle",
+    "Option 4": "Hawk",
+    "Correct Answer": "Bald Eagle",
+    "Interesting Fact": "This powerful bird was chosen for its strength, long life, and very majestic appearance."
+  },
+  {
+    "Question": "What is the coldest place on Earth?",
+    "Option 1": "North Pole",
+    "Option 2": "Antarctica",
+    "Option 3": "Greenland",
+    "Option 4": "Siberia",
+    "Correct Answer": "Antarctica",
+    "Interesting Fact": "Temperatures in Antarctica can drop much lower than any other place on our entire planet."
+  },
+  {
+    "Question": "What is the name of the red liquid in our bodies?",
+    "Option 1": "Water",
+    "Option 2": "Juice",
+    "Option 3": "Blood",
+    "Option 4": "Plasma",
+    "Correct Answer": "Blood",
+    "Interesting Fact": "Blood carries oxygen and nutrients to every part of your body to keep you healthy."
+  },
+  {
+    "Question": "What do we call the path Earth takes around the sun?",
+    "Option 1": "Circle",
+    "Option 2": "Orbit",
+    "Option 3": "Track",
+    "Option 4": "Road",
+    "Correct Answer": "Orbit",
+    "Interesting Fact": "It takes the Earth exactly three hundred and sixty-five days to complete one full orbit."
+  },
+  {
+    "Question": "Which animal is the largest fish in the world?",
+    "Option 1": "Blue Whale",
+    "Option 2": "Great White Shark",
+    "Option 3": "Whale Shark",
+    "Option 4": "Orca",
+    "Correct Answer": "Whale Shark",
+    "Interesting Fact": "Despite their name, whale sharks are actually gentle fish that eat tiny ocean plankton."
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option 1": 0,
+    "Option 2": 50,
+    "Option 3": 100,
+    "Option 4": 200,
+    "Correct Answer": 100,
+    "Interesting Fact": "When water reaches one hundred degrees, it starts to boil and turn into hot steam."
+  },
+  {
+    "Question": "How many legs does a ladybug have?",
+    "Option 1": "Four",
+    "Option 2": "Six",
+    "Option 3": "Eight",
+    "Option 4": "Ten",
+    "Correct Answer": "Six",
+    "Interesting Fact": "Ladybugs are insects, and all insects have six legs and two antennae on their heads."
+  },
+  {
+    "Question": "What do you call the person who leads an orchestra?",
+    "Option 1": "Singer",
+    "Option 2": "Conductor",
+    "Option 3": "Pianist",
+    "Option 4": "Drummer",
+    "Correct Answer": "Conductor",
+    "Interesting Fact": "The conductor uses a baton to keep the musicians playing together at the right speed."
+  },
+  {
+    "Question": "Which planet is closest to the sun?",
+    "Option 1": "Venus",
+    "Option 2": "Earth",
+    "Option 3": "Mercury",
+    "Option 4": "Mars",
+    "Correct Answer": "Mercury",
+    "Interesting Fact": "Mercury is a small, rocky planet that zips around the sun very quickly every year."
+  },
+  {
+    "Question": "What part of the skeleton protects the brain?",
+    "Option 1": "Ribs",
+    "Option 2": "Spine",
+    "Option 3": "Skull",
+    "Option 4": "Pelvis",
+    "Correct Answer": "Skull",
+    "Interesting Fact": "The skull is made of very hard bone to keep your brain safe from injury."
+  },
+  {
+    "Question": "What is a baby cat called?",
+    "Option 1": "Puppy",
+    "Option 2": "Kitten",
+    "Option 3": "Cub",
+    "Option 4": "Calf",
+    "Correct Answer": "Kitten",
+    "Interesting Fact": "Kittens are born with their eyes closed and need their mother's help to survive."
+  },
+  {
+    "Question": "Which gas makes balloons float in the air?",
+    "Option 1": "Oxygen",
+    "Option 2": "Helium",
+    "Option 3": "Nitrogen",
+    "Option 4": "Carbon Dioxide",
+    "Correct Answer": "Helium",
+    "Interesting Fact": "Helium is lighter than the air around it, which causes the balloon to lift up."
+  },
+  {
+    "Question": "What do you call the water that falls from clouds?",
+    "Option 1": "Steam",
+    "Option 2": "Snow",
+    "Option 3": "Precipitation",
+    "Option 4": "Mist",
+    "Correct Answer": "Precipitation",
+    "Interesting Fact": "Precipitation includes rain, snow, sleet, and hail that falls down to the ground."
+  },
+  {
+    "Question": "How many bones are in a shark's body?",
+    "Option 1": "Zero",
+    "Option 2": 100,
+    "Option 3": 200,
+    "Option 4": 500,
+    "Correct Answer": "Zero",
+    "Interesting Fact": "Sharks have skeletons made of cartilage, which is much lighter and more flexible than bone."
+  },
+  {
+    "Question": "What do we call a shape with eight sides?",
+    "Option 1": "Hexagon",
+    "Option 2": "Pentagon",
+    "Option 3": "Octagon",
+    "Option 4": "Square",
+    "Correct Answer": "Octagon",
+    "Interesting Fact": "A stop sign is a famous example of an octagon that you see on roads."
+  },
+  {
+    "Question": "Which is the smallest planet in our solar system?",
+    "Option 1": "Mars",
+    "Option 2": "Mercury",
+    "Option 3": "Venus",
+    "Option 4": "Pluto",
+    "Correct Answer": "Mercury",
+    "Interesting Fact": "Mercury is only slightly larger than the Earth's moon and has no moons of its own."
+  },
+  {
+    "Question": "What do bees use to make their hives?",
+    "Option 1": "Mud",
+    "Option 2": "Paper",
+    "Option 3": "Wax",
+    "Option 4": "Sticks",
+    "Correct Answer": "Wax",
+    "Interesting Fact": "Bees produce wax from their own bodies to build the walls of their honeycomb cells."
+  },
+  {
+    "Question": "What is the name of the green stuff in plants?",
+    "Option 1": "Blood",
+    "Option 2": "Chlorophyll",
+    "Option 3": "Water",
+    "Option 4": "Sap",
+    "Correct Answer": "Chlorophyll",
+    "Interesting Fact": "Chlorophyll helps plants capture energy from sunlight to make the food they need to grow."
+  },
+  {
+    "Question": "Which animal can live both on land and in water?",
+    "Option 1": "Fish",
+    "Option 2": "Reptile",
+    "Option 3": "Amphibian",
+    "Option 4": "Mammal",
+    "Correct Answer": "Amphibian",
+    "Interesting Fact": "Amphibians like frogs and toads usually start their lives in water and move to land."
+  },
+  {
+    "Question": "How many lungs do humans have?",
+    "Option 1": "One",
+    "Option 2": "Two",
+    "Option 3": "Three",
+    "Option 4": "Four",
+    "Correct Answer": "Two",
+    "Interesting Fact": "Your lungs expand and contract to help you breathe in fresh air and out gas."
+  },
+  {
+    "Question": "What is the name of a scientist who studies animals?",
+    "Option 1": "Botanist",
+    "Option 2": "Zoologist",
+    "Option 3": "Geologist",
+    "Option 4": "Chemist",
+    "Correct Answer": "Zoologist",
+    "Interesting Fact": "Zoologists study how animals behave, what they eat, and how they live in the wild."
+  },
+  {
+    "Question": "Which fruit is known for having its seeds outside?",
+    "Option 1": "Apple",
+    "Option 2": "Strawberry",
+    "Option 3": "Orange",
+    "Option 4": "Pear",
+    "Correct Answer": "Strawberry",
+    "Interesting Fact": "The tiny yellow dots on the skin of a strawberry are actually its individual seeds."
+  },
+  {
+    "Question": "What is the hardest part of the human body?",
+    "Option 1": "Bone",
+    "Option 2": "Tooth Enamel",
+    "Option 3": "Muscle",
+    "Option 4": "Skin",
+    "Correct Answer": "Tooth Enamel",
+    "Interesting Fact": "Enamel is the outer layer of your teeth and is even stronger than your bones."
+  }
+]

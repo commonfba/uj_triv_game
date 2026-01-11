@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "Who was the giant lumberjack with a blue ox?",
+    "Option 1": "Pecos Bill",
+    "Option 2": "Paul Bunyan",
+    "Option 3": "John Henry",
+    "Option 4": "Casey Jones",
+    "Correct Answer": "Paul Bunyan",
+    "Interesting Fact": "Paul Bunyan is a giant lumberjack often accompanied by his giant blue ox named Babe."
+  },
+  {
+    "Question": "Which creature is said to inhabit the Pacific Northwest?",
+    "Option 1": "Bigfoot",
+    "Option 2": "Chupacabra",
+    "Option 3": "Mothman",
+    "Option 4": "Jersey Devil",
+    "Correct Answer": "Bigfoot",
+    "Interesting Fact": "Many people believe this hairy creature inhabits the dense forests of the Pacific Northwest region."
+  },
+  {
+    "Question": "Who was the headless ghost in Sleepy Hollow?",
+    "Option 1": "Ichabod Crane",
+    "Option 2": "Hessian Trooper",
+    "Option 3": "Rip Van Winkle",
+    "Option 4": "Johnny Appleseed",
+    "Correct Answer": "Hessian Trooper",
+    "Interesting Fact": "The Headless Horseman is said to be the ghost of a soldier from the Revolution."
+  },
+  {
+    "Question": "Which man was famous for planting apple trees?",
+    "Option 1": "Paul Bunyan",
+    "Option 2": "Johnny Appleseed",
+    "Option 3": "Pecos Bill",
+    "Option 4": "Davy Crockett",
+    "Correct Answer": "Johnny Appleseed",
+    "Interesting Fact": "John Chapman was a real person who planted apple trees across several American midwestern states."
+  },
+  {
+    "Question": "Who was the \"Steel Driving Man\" of American legend?",
+    "Option 1": "John Henry",
+    "Option 2": "Casey Jones",
+    "Option 3": "Paul Bunyan",
+    "Option 4": "Bill Pickett",
+    "Correct Answer": "John Henry",
+    "Interesting Fact": "John Henry supposedly died after racing a steam-powered drill during the construction of a tunnel."
+  },
+  {
+    "Question": "now ",
+    "Option 1": "Pecos Bill",
+    "Option 2": "Wild Bill",
+    "Option 3": "Buffalo Bill",
+    "Option 4": "Billy the Kid",
+    "Correct Answer": "Pecos Bill",
+    "Interesting Fact": "Pecos Bill is a fictional cowboy who supposedly used a rattlesnake as a lassoing rope."
+  },
+  {
+    "Question": "What was the name of King Arthur’s magical sword?",
+    "Option 1": "Aegis",
+    "Option 2": "Excalibur",
+    "Option 3": "Mjolnir",
+    "Option 4": "Sting",
+    "Correct Answer": "Excalibur",
+    "Interesting Fact": "This legendary sword is often associated with the rightful sovereignty and leadership of Great Britain."
+  },
+  {
+    "Question": "Which Greek hero was known for his \"Achilles' Heel\"?",
+    "Option 1": "Hercules",
+    "Option 2": "Perseus",
+    "Option 3": "Achilles",
+    "Option 4": "Odysseus",
+    "Correct Answer": "Achilles",
+    "Interesting Fact": "The term now describes a small but fatal weakness in an otherwise very strong person."
+  },
+  {
+    "Question": "Who woke up after sleeping for twenty years?",
+    "Option 1": "Paul Bunyan",
+    "Option 2": "Rip Van Winkle",
+    "Option 3": "Tom Sawyer",
+    "Option 4": "Huckleberry Finn",
+    "Correct Answer": "Rip Van Winkle",
+    "Interesting Fact": "This story was written by Washington Irving and takes place in the scenic Catskill Mountains."
+  },
+  {
+    "Question": "Which cryptid is said to haunt the Pine Barrens?",
+    "Option 1": "Bigfoot",
+    "Option 2": "Jersey Devil",
+    "Option 3": "Mothman",
+    "Option 4": "Wendigo",
+    "Correct Answer": "Jersey Devil",
+    "Interesting Fact": "Folklore says the Jersey Devil was the thirteenth child of a woman named Mother Leeds."
+  },
+  {
+    "Question": "Who was the Greek god of the sea?",
+    "Option 1": "Zeus",
+    "Option 2": "Hades",
+    "Option 3": "Poseidon",
+    "Option 4": "Apollo",
+    "Correct Answer": "Poseidon",
+    "Interesting Fact": "Poseidon is often depicted holding a trident which he used to cause powerful ocean earthquakes."
+  },
+  {
+    "Question": "Which famous outlaw was known as the \"Robin Hood of the West\"?",
+    "Option 1": "Jesse James",
+    "Option 2": "Billy the Kid",
+    "Option 3": "Butch Cassidy",
+    "Option 4": "Wyatt Earp",
+    "Correct Answer": "Jesse James",
+    "Interesting Fact": "Jesse James was a famous American outlaw who led a gang of train and bank robbers."
+  },
+  {
+    "Question": "What did the Greek hero Hercules have to complete?",
+    "Option 1": "12 Labors",
+    "Option 2": "3 Wishes",
+    "Option 3": "7 Quests",
+    "Option 4": "5 Trials",
+    "Correct Answer": "12 Labors",
+    "Interesting Fact": "Hercules performed these difficult tasks as penance for a crime he committed while under a spell."
+  },
+  {
+    "Question": "Who was the frontiersman that died at the Alamo?",
+    "Option 1": "Daniel Boone",
+    "Option 2": "Davy Crockett",
+    "Option 3": "Jim Bowie",
+    "Option 4": "Sam Houston",
+    "Correct Answer": "Davy Crockett",
+    "Interesting Fact": "Known as the \"King of the Wild Frontier,\" he was famous for his iconic coonskin hat."
+  },
+  {
+    "Question": "Which Native American figure is known as the \"Trickster\"?",
+    "Option 1": "Thunderbird",
+    "Option 2": "Coyote",
+    "Option 3": "Great Spirit",
+    "Option 4": "Kokopelli",
+    "Correct Answer": "Coyote",
+    "Interesting Fact": "Coyote appears in many indigenous myths as a clever character who often teaches important lessons."
+  },
+  {
+    "Question": "What was the name of the lost city of gold?",
+    "Option 1": "El Dorado",
+    "Option 2": "Atlantis",
+    "Option 3": "Camelot",
+    "Option 4": "Shangri-La",
+    "Correct Answer": "El Dorado",
+    "Interesting Fact": "Spanish explorers spent years searching the South American jungles for this legendary city of wealth."
+  },
+  {
+    "Question": "Who was the Norse god of thunder?",
+    "Option 1": "Odin",
+    "Option 2": "Loki",
+    "Option 3": "Thor",
+    "Option 4": "Freyr",
+    "Correct Answer": "Thor",
+    "Interesting Fact": "Thor wielded a magical hammer named Mjolnir to protect both gods and humans from giants."
+  },
+  {
+    "Question": "Which ship is a legendary ghost ship that can never make port?",
+    "Option 1": "Mayflower",
+    "Option 2": "Flying Dutchman",
+    "Option 3": "Titanic",
+    "Option 4": "Santa Maria",
+    "Correct Answer": "Flying Dutchman",
+    "Interesting Fact": "Seeing this spectral ship is often considered an omen of doom among sailors at sea."
+  },
+  {
+    "Question": "Who led the search for the Fountain of Youth?",
+    "Option 1": "Columbus",
+    "Option 2": "Ponce de Leon",
+    "Option 3": "Magellan",
+    "Option 4": "Cortes",
+    "Correct Answer": "Ponce de Leon",
+    "Interesting Fact": "He explored the coast of Florida while searching for the legendary waters of eternal youth."
+  },
+  {
+    "Question": "Which creature has the head of a man and body of a lion?",
+    "Option 1": "Centaur",
+    "Option 2": "Minotaur",
+    "Option 3": "Sphinx",
+    "Option 4": "Griffin",
+    "Correct Answer": "Sphinx",
+    "Interesting Fact": "The Great Sphinx of Giza is one of the world's largest and oldest monolithic statues."
+  },
+  {
+    "Question": "Who was the Egyptian god of the underworld?",
+    "Option 1": "Ra",
+    "Option 2": "Anubis",
+    "Option 3": "Osiris",
+    "Option 4": "Horus",
+    "Correct Answer": "Osiris",
+    "Interesting Fact": "Osiris was often depicted with green skin, representing his role in the cycle of rebirth."
+  },
+  {
+    "Question": "Which American legend was a famous scout and showman?",
+    "Option 1": "Buffalo Bill",
+    "Option 2": "Wild Bill",
+    "Option 3": "Jesse James",
+    "Option 4": "Wyatt Earp",
+    "Correct Answer": "Buffalo Bill",
+    "Interesting Fact": "William Cody created a famous traveling show that showcased life in the American Wild West."
+  },
+  {
+    "Question": "What was the name of the ship in \"Moby Dick\"?",
+    "Option 1": "Pequod",
+    "Option 2": "Bounty",
+    "Option 3": "Hispaniola",
+    "Option 4": "Nautilus",
+    "Correct Answer": "Pequod",
+    "Interesting Fact": "Captain Ahab led the Pequod on a dangerous quest to hunt the great white whale."
+  },
+  {
+    "Question": "Which Greek goddess was born from the sea foam?",
+    "Option 1": "Athena",
+    "Option 2": "Hera",
+    "Option 3": "Aphrodite",
+    "Option 4": "Artemis",
+    "Correct Answer": "Aphrodite",
+    "Interesting Fact": "Aphrodite is the goddess of love and beauty in ancient Greek mythology and classical art."
+  },
+  {
+    "Question": "Who was the legendary archer who lived in Sherwood Forest?",
+    "Option 1": "Ivanhoe",
+    "Option 2": "Robin Hood",
+    "Option 3": "William Tell",
+    "Option 4": "Lancelot",
+    "Correct Answer": "Robin Hood",
+    "Interesting Fact": "Robin Hood is famous for stealing from the rich to help the poor and needy."
+  },
+  {
+    "Question": "Which creature is a half-man, half-bull?",
+    "Option 1": "Centaur",
+    "Option 2": "Satyr",
+    "Option 3": "Minotaur",
+    "Option 4": "Harpy",
+    "Correct Answer": "Minotaur",
+    "Interesting Fact": "The Minotaur lived at the center of a giant maze called the Labyrinth in Crete."
+  },
+  {
+    "Question": "Who was the founder of the first public library in the US?",
+    "Option 1": "George Washington",
+    "Option 2": "Ben Franklin",
+    "Option 3": "Thomas Jefferson",
+    "Option 4": "John Adams",
+    "Correct Answer": "Ben Franklin",
+    "Interesting Fact": "While a historical figure, many legends surround his experiments with lightning and his many inventions."
+  },
+  {
+    "Question": "Which bird is said to be reborn from its own ashes?",
+    "Option 1": "Griffin",
+    "Option 2": "Phoenix",
+    "Option 3": "Roc",
+    "Option 4": "Thunderbird",
+    "Correct Answer": "Phoenix",
+    "Interesting Fact": "The phoenix is a mythical bird that represents renewal, immortality, and the cycle of life."
+  },
+  {
+    "Question": "Who was the \"Lady with the Lamp\"?",
+    "Option 1": "Betsy Ross",
+    "Option 2": "Molly Pitcher",
+    "Option 3": "Florence Nightingale",
+    "Option 4": "Clara Barton",
+    "Correct Answer": "Florence Nightingale",
+    "Interesting Fact": "She became a legendary figure for her pioneering work in nursing during the Crimean War."
+  },
+  {
+    "Question": "Which Norse god was known for his shape-shifting?",
+    "Option 1": "Odin",
+    "Option 2": "Thor",
+    "Option 3": "Loki",
+    "Option 4": "Baldur",
+    "Correct Answer": "Loki",
+    "Interesting Fact": "Loki is a trickster god who often caused trouble for the other residents of Asgard."
+  },
+  {
+    "Question": "What was the home of the Greek gods?",
+    "Option 1": "Valhalla",
+    "Option 2": "Mount Olympus",
+    "Option 3": "Hades",
+    "Option 4": "Elysium",
+    "Correct Answer": "Mount Olympus",
+    "Interesting Fact": "Ancient Greeks believed their gods lived on the highest mountain in the entire Greek peninsula."
+  },
+  {
+    "Question": "Who was the young woman who rode to warn the Americans?",
+    "Option 1": "Betsy Ross",
+    "Option 2": "Sybil Ludington",
+    "Option 3": "Molly Pitcher",
+    "Option 4": "Martha Washington",
+    "Correct Answer": "Sybil Ludington",
+    "Interesting Fact": "She rode twice the distance of Paul Revere to warn the colonial militia of danger."
+  },
+  {
+    "Question": "Which creature is said to suck the blood of livestock?",
+    "Option 1": "Bigfoot",
+    "Option 2": "Chupacabra",
+    "Option 3": "Yeti",
+    "Option 4": "Kraken",
+    "Correct Answer": "Chupacabra",
+    "Interesting Fact": "The name chupacabra literally translates to \"goat-sucker\" in the Spanish language from Puerto Rico."
+  },
+  {
+    "Question": "Who pulled the sword from the stone?",
+    "Option 1": "Lancelot",
+    "Option 2": "Galahad",
+    "Option 3": "Arthur",
+    "Option 4": "Gawain",
+    "Correct Answer": "Arthur",
+    "Interesting Fact": "This feat proved that Arthur was the true and rightful King of all of Britain."
+  },
+  {
+    "Question": "Which character is known for his \"Golden Touch\"?",
+    "Option 1": "Midas",
+    "Option 2": "Croesus",
+    "Option 3": "Solomon",
+    "Option 4": "Mammon",
+    "Correct Answer": "Midas",
+    "Interesting Fact": "King Midas eventually regretted his wish when he accidentally turned his own daughter into gold."
+  },
+  {
+    "Question": "Who was the legendary woman who fought in the Revolution?",
+    "Option 1": "Sybil Ludington",
+    "Option 2": "Molly Pitcher",
+    "Option 3": "Pocahontas",
+    "Option 4": "Sacagawea",
+    "Correct Answer": "Molly Pitcher",
+    "Interesting Fact": "Molly Pitcher is a nickname for a woman who allegedly carried water to tired soldiers."
+  },
+  {
+    "Question": "What is the name of the Norse \"hall of the slain\"?",
+    "Option 1": "Asgard",
+    "Option 2": "Midgard",
+    "Option 3": "Valhalla",
+    "Option 4": "Hel",
+    "Correct Answer": "Valhalla",
+    "Interesting Fact": "Brave warriors who died in battle were taken to this great hall by the Valkyries."
+  },
+  {
+    "Question": "Which giant bird is a figure in many Indigenous cultures?",
+    "Option 1": "Phoenix",
+    "Option 2": "Thunderbird",
+    "Option 3": "Roc",
+    "Option 4": "Harpy",
+    "Correct Answer": "Thunderbird",
+    "Interesting Fact": "The Thunderbird is said to create thunder by flapping its wings and lightning with its eyes."
+  },
+  {
+    "Question": "Who was the leader of the Argonauts?",
+    "Option 1": "Perseus",
+    "Option 2": "Jason",
+    "Option 3": "Theseus",
+    "Option 4": "Achilles",
+    "Correct Answer": "Jason",
+    "Interesting Fact": "Jason led his crew on a dangerous voyage to recover the legendary and magical Golden Fleece."
+  },
+  {
+    "Question": "Which legendary island is said to have sunk into the sea?",
+    "Option 1": "Lemuria",
+    "Option 2": "Atlantis",
+    "Option 3": "Avalon",
+    "Option 4": "Mu",
+    "Correct Answer": "Atlantis",
+    "Interesting Fact": "The philosopher Plato first wrote about this advanced civilization that vanished beneath the ocean waves."
+  },
+  {
+    "Question": "Who was the first woman in Greek mythology?",
+    "Option 1": "Athena",
+    "Option 2": "Pandora",
+    "Option 3": "Eve",
+    "Option 4": "Helen",
+    "Correct Answer": "Pandora",
+    "Interesting Fact": "Pandora opened a forbidden box that released all the evils and troubles into the world."
+  },
+  {
+    "Question": "Which American figure is known for his \"Midnight Ride\"?",
+    "Option 1": "Sam Adams",
+    "Option 2": "Paul Revere",
+    "Option 3": "John Hancock",
+    "Option 4": "Ben Franklin",
+    "Correct Answer": "Paul Revere",
+    "Interesting Fact": "Revere rode to Lexington to warn that the British troops were approaching the American colonies."
+  },
+  {
+    "Question": "What was the name of the giant wolf in Norse myth?",
+    "Option 1": "Fenrir",
+    "Option 2": "Garm",
+    "Option 3": "Skoll",
+    "Option 4": "Hati",
+    "Correct Answer": "Fenrir",
+    "Interesting Fact": "Fenrir is the son of Loki and was destined to fight Odin during the Ragnarok."
+  },
+  {
+    "Question": "Which monster has snakes for hair?",
+    "Option 1": "Scylla",
+    "Option 2": "Medusa",
+    "Option 3": "Charybdis",
+    "Option 4": "Hydra",
+    "Correct Answer": "Medusa",
+    "Interesting Fact": "Anyone who looked directly into Medusa's eyes would be instantly turned into solid stone."
+  },
+  {
+    "Question": "Who was the man who could outrun a train?",
+    "Option 1": "Pecos Bill",
+    "Option 2": "Casey Jones",
+    "Option 3": "John Henry",
+    "Option 4": "Paul Bunyan",
+    "Correct Answer": "Casey Jones",
+    "Interesting Fact": "Jonathan \"Casey\" Jones was a real engineer who died heroically trying to stop his train."
+  },
+  {
+    "Question": "Which character \"stole\" fire from the gods?",
+    "Option 1": "Hermes",
+    "Option 2": "Prometheus",
+    "Option 3": "Hephaestus",
+    "Option 4": "Ares",
+    "Correct Answer": "Prometheus",
+    "Interesting Fact": "Prometheus gave fire to humans, which allowed civilization to develop and flourish on the earth."
+  },
+  {
+    "Question": "What is the name of the legendary lake monster in Scotland?",
+    "Option 1": "Champ",
+    "Option 2": "Nessie",
+    "Option 3": "Kraken",
+    "Option 4": "Leviathan",
+    "Correct Answer": "Nessie",
+    "Interesting Fact": "The Loch Ness Monster is one of the most famous cryptids in the entire world."
+  },
+  {
+    "Question": "Who was the queen of the Greek gods?",
+    "Option 1": "Athena",
+    "Option 2": "Hera",
+    "Option 3": "Artemis",
+    "Option 4": "Demeter",
+    "Correct Answer": "Hera",
+    "Interesting Fact": "Hera was the goddess of marriage and the wife of Zeus on Mount Olympus."
+  },
+  {
+    "Question": "Which tall tale hero was a famous marksman?",
+    "Option 1": "Pecos Bill",
+    "Option 2": "Davy Crockett",
+    "Option 3": "Paul Bunyan",
+    "Option 4": "John Henry",
+    "Correct Answer": "Davy Crockett",
+    "Interesting Fact": "Davy Crockett was a real politician and soldier whose life became a series of legends."
+  },
+  {
+    "Question": "What was the name of the three-headed dog?",
+    "Option 1": "Fenrir",
+    "Option 2": "Cerberus",
+    "Option 3": "Hydra",
+    "Option 4": "Chimera",
+    "Correct Answer": "Cerberus",
+    "Interesting Fact": "Cerberus guarded the gates of the underworld to prevent the dead from ever leaving it."
+  },
+  {
+    "Question": "Who was the famous female sharpshooter in the Wild West?",
+    "Option 1": "Calamity Jane",
+    "Option 2": "Annie Oakley",
+    "Option 3": "Belle Starr",
+    "Option 4": "Pearl Hart",
+    "Correct Answer": "Annie Oakley",
+    "Interesting Fact": "Annie Oakley was the star attraction of Buffalo Bill's traveling Wild West show."
+  },
+  {
+    "Question": "What is a \"Jackalope\"?",
+    "Option 1": "A fast rabbit",
+    "Option 2": "A horned rabbit",
+    "Option 3": "A giant squirrel",
+    "Option 4": "A desert rat",
+    "Correct Answer": "A horned rabbit",
+    "Interesting Fact": "This North American folklore creature is described as a jackrabbit with antelope horns."
+  },
+  {
+    "Question": "Who wrote the Legend of Sleepy Hollow?",
+    "Option 1": "Mark Twain",
+    "Option 2": "Edgar Allan Poe",
+    "Option 3": "Washington Irving",
+    "Option 4": "Nathaniel Hawthorne",
+    "Correct Answer": "Washington Irving",
+    "Interesting Fact": "Irving is often called the \"Father of American Literature\" for his famous short stories."
+  },
+  {
+    "Question": "Which legend involves a cherry tree and honesty?",
+    "Option 1": "Thomas Jefferson",
+    "Option 2": "Abe Lincoln",
+    "Option 3": "George Washington",
+    "Option 4": "Ben Franklin",
+    "Correct Answer": "George Washington",
+    "Interesting Fact": "This famous story about Washington's honesty was invented by his first biographer."
+  },
+  {
+    "Question": "Who was the legendary giant sailor?",
+    "Option 1": "Popeye",
+    "Option 2": "Sinbad",
+    "Option 3": "Stormalong",
+    "Option 4": "Captain Hook",
+    "Correct Answer": "Stormalong",
+    "Interesting Fact": "Alfred Bulltop Stormalong was a giant hero of American folklore and tall tales."
+  },
+  {
+    "Question": "Where is the \"Mothman\" legend located?",
+    "Option 1": "Roswell, NM",
+    "Option 2": "Point Pleasant, WV",
+    "Option 3": "Salem, MA",
+    "Option 4": "Sleepy Hollow, NY",
+    "Correct Answer": "Point Pleasant, WV",
+    "Interesting Fact": "A large winged creature with glowing red eyes was spotted here in the 1960s."
+  },
+  {
+    "Question": "Who was the frontierswoman known as \"Calamity\"?",
+    "Option 1": "Annie Oakley",
+    "Option 2": "Belle Starr",
+    "Option 3": "Martha Jane Cannary",
+    "Option 4": "Mary Fields",
+    "Correct Answer": "Martha Jane Cannary",
+    "Interesting Fact": "Calamity Jane was a professional scout known for being an acquaintance of Wild Bill Hickok."
+  },
+  {
+    "Question": "What is the famous phrase related to the Alamo?",
+    "Option 1": "Don't give up",
+    "Option 2": "Remember the Alamo",
+    "Option 3": "Victory or Death",
+    "Option 4": "Fight on",
+    "Correct Answer": "Remember the Alamo",
+    "Interesting Fact": "This phrase became the rallying cry for the Texan soldiers during their revolution."
+  },
+  {
+    "Question": "Who legendarily sewed the first American flag?",
+    "Option 1": "Martha Washington",
+    "Option 2": "Abigail Adams",
+    "Option 3": "Betsy Ross",
+    "Option 4": "Molly Pitcher",
+    "Correct Answer": "Betsy Ross",
+    "Interesting Fact": "Legend states she sewed the first Stars and Stripes at George Washington’s personal request."
+  },
+  {
+    "Question": "What legendary location is in Nevada?",
+    "Option 1": "Area 51",
+    "Option 2": "Roswell",
+    "Option 3": "Hangar 18",
+    "Option 4": "The Pentagon",
+    "Correct Answer": "Area 51",
+    "Interesting Fact": "This highly classified Air Force facility is often linked to conspiracy theories about aliens."
+  },
+  {
+    "Question": "What was the name of King Arthur's castle?",
+    "Option 1": "Hogwarts",
+    "Option 2": "Camelot",
+    "Option 3": "Winterfell",
+    "Option 4": "Asgard",
+    "Correct Answer": "Camelot",
+    "Interesting Fact": "Camelot was the legendary castle and court associated with King Arthur and his knights."
+  },
+  {
+    "Question": "Who flew too close to the sun with wax wings?",
+    "Option 1": "Hercules",
+    "Option 2": "Perseus",
+    "Option 3": "Icarus",
+    "Option 4": "Daedalus",
+    "Correct Answer": "Icarus",
+    "Interesting Fact": "His father Daedalus warned him not to fly too high or the sun would melt the wax."
+  },
+  {
+    "Question": "Who is the legendary Chinese warrior woman?",
+    "Option 1": "Mulan",
+    "Option 2": "Pocahontas",
+    "Option 3": "Joan of Arc",
+    "Option 4": "Boudica",
+    "Correct Answer": "Mulan",
+    "Interesting Fact": "The legend describes a young woman who disguised herself as a man to join the army."
+  },
+  {
+    "Question": "What is the name of the witch in Slavic folklore?",
+    "Option 1": "Baba Yaga",
+    "Option 2": "Morgan le Fay",
+    "Option 3": "Circe",
+    "Option 4": "Medea",
+    "Correct Answer": "Baba Yaga",
+    "Interesting Fact": "She is a fearsome witch who lives in a hut that stands on chicken legs."
+  },
+  {
+    "Question": "Who is the African trickster spider god?",
+    "Option 1": "Loki",
+    "Option 2": "Coyote",
+    "Option 3": "Anansi",
+    "Option 4": "Hermes",
+    "Correct Answer": "Anansi",
+    "Interesting Fact": "Anansi is a West African god known for his cleverness, intelligence, and storytelling abilities."
+  },
+  {
+    "Question": "Who were the legendary founders of Rome?",
+    "Option 1": "Cain and Abel",
+    "Option 2": "Romulus and Remus",
+    "Option 3": "Castor and Pollux",
+    "Option 4": "Thor and Loki",
+    "Correct Answer": "Romulus and Remus",
+    "Interesting Fact": "These twin brothers were legendarily abandoned at birth and raised by a she-wolf."
+  },
+  {
+    "Question": "How did the Greeks enter the city of Troy?",
+    "Option 1": "A giant tunnel",
+    "Option 2": "A Trojan Horse",
+    "Option 3": "A secret gate",
+    "Option 4": "A massive bridge",
+    "Correct Answer": "A Trojan Horse",
+    "Interesting Fact": "Greek soldiers hid inside a giant wooden horse designed to look like a peace offering."
+  },
+  {
+    "Question": "What phrase opens the magic cave in \"Ali Baba\"?",
+    "Option 1": "Abracadabra",
+    "Option 2": "Hocus Pocus",
+    "Option 3": "Open Sesame",
+    "Option 4": "Shazam",
+    "Correct Answer": "Open Sesame",
+    "Interesting Fact": "Ali Baba overheard the forty thieves using this magical phrase to access their hidden treasure."
+  },
+  {
+    "Question": "What is the name of Thor's magical hammer?",
+    "Option 1": "Gungnir",
+    "Option 2": "Excalibur",
+    "Option 3": "Aegis",
+    "Option 4": "Mjolnir",
+    "Correct Answer": "Mjolnir",
+    "Interesting Fact": "Thor uses this magical weapon to protect Asgard from frost giants and other monsters."
+  },
+  {
+    "Question": "How long did it take Odysseus to return home from Troy?",
+    "Option 1": "1 year",
+    "Option 2": "5 years",
+    "Option 3": "10 years",
+    "Option 4": "20 years",
+    "Correct Answer": "10 years",
+    "Interesting Fact": "His long journey was filled with dangerous monsters, angry gods, and difficult challenges."
+  },
+  {
+    "Question": "What is the name of the Lake Champlain monster?",
+    "Option 1": "Nessie",
+    "Option 2": "Champ",
+    "Option 3": "Ogopogo",
+    "Option 4": "Kraken",
+    "Correct Answer": "Champ",
+    "Interesting Fact": "Champ is America’s own version of Scotland's famous Loch Ness Monster."
+  },
+  {
+    "Question": "Who was Pecos Bill's wife who rode a catfish?",
+    "Option 1": "Calamity Jane",
+    "Option 2": "Annie Oakley",
+    "Option 3": "Slue-Foot Sue",
+    "Option 4": "Belle Starr",
+    "Correct Answer": "Slue-Foot Sue",
+    "Interesting Fact": "In tall tales, she famously rode a giant catfish down the Rio Grande river."
+  },
+  {
+    "Question": "Which urban legend involves a car passenger disappearing?",
+    "Option 1": "The Hookman",
+    "Option 2": "The Vanishing Hitchhiker",
+    "Option 3": "Bloody Mary",
+    "Option 4": "The Babysitter",
+    "Correct Answer": "The Vanishing Hitchhiker",
+    "Interesting Fact": "This classic urban legend tells of a ghostly passenger who vanishes from a moving car."
+  },
+  {
+    "Question": "Where did Ponce de León search for the Fountain of Youth?",
+    "Option 1": "Mexico",
+    "Option 2": "California",
+    "Option 3": "Florida",
+    "Option 4": "Cuba",
+    "Correct Answer": "Florida",
+    "Interesting Fact": "Spanish explorers searched for these legendary waters believing they restored youth to anyone who drank them."
+  },
+  {
+    "Question": "According to folklore, why is the sea salty?",
+    "Option 1": "A giant tear",
+    "Option 2": "A magic mill",
+    "Option 3": "Dragon blood",
+    "Option 4": "Spilled potion",
+    "Correct Answer": "A magic mill",
+    "Interesting Fact": "Many legends say a magic salt grinder sitting at the bottom of the ocean causes it."
+  },
+  {
+    "Question": "What mythical creature frightens children into good behavior?",
+    "Option 1": "The Sandman",
+    "Option 2": "The Tooth Fairy",
+    "Option 3": "The Boogeyman",
+    "Option 4": "Jack Frost",
+    "Correct Answer": "The Boogeyman",
+    "Interesting Fact": "Parents in many cultures use stories of this creature to ensure their children behave."
+  },
+  {
+    "Question": "What is another name for Bigfoot?",
+    "Option 1": "Yeti",
+    "Option 2": "Sasquatch",
+    "Option 3": "Skunk Ape",
+    "Option 4": "Yowie",
+    "Correct Answer": "Sasquatch",
+    "Interesting Fact": "The name Sasquatch comes from the indigenous Halkomelem word sásq’ets, meaning \"wild man.\""
+  },
+  {
+    "Question": "What was the name of The Lone Ranger's horse?",
+    "Option 1": "Trigger",
+    "Option 2": "Scout",
+    "Option 3": "Silver",
+    "Option 4": "Tornado",
+    "Correct Answer": "Silver",
+    "Interesting Fact": "The masked hero would famously shout \"Hi-yo, Silver! Away!\" before riding off."
+  },
+  {
+    "Question": "Who did Pocahontas legendarily save from execution?",
+    "Option 1": "John Rolfe",
+    "Option 2": "John Smith",
+    "Option 3": "Christopher Columbus",
+    "Option 4": "William Penn",
+    "Correct Answer": "John Smith",
+    "Interesting Fact": "Historians debate whether she actually saved Captain John Smith’s life as the legend claims."
+  },
+  {
+    "Question": "What does the Headless Horseman throw at his victims?",
+    "Option 1": "His sword",
+    "Option 2": "A horseshoe",
+    "Option 3": "A pumpkin",
+    "Option 4": "A rock",
+    "Correct Answer": "A pumpkin",
+    "Interesting Fact": "The ghost is often depicted throwing a flaming pumpkin representing his detached head."
+  },
+  {
+    "Question": "Who is the Roman god of love often shown as a baby?",
+    "Option 1": "Mars",
+    "Option 2": "Jupiter",
+    "Option 3": "Cupid",
+    "Option 4": "Apollo",
+    "Correct Answer": "Cupid",
+    "Interesting Fact": "Cupid is often depicted as a winged infant carrying a bow and arrows."
+  },
+  {
+    "Question": "What is the name of the legendary lost Himalayan paradise?",
+    "Option 1": "Atlantis",
+    "Option 2": "El Dorado",
+    "Option 3": "Shangri-La",
+    "Option 4": "Avalon",
+    "Correct Answer": "Shangri-La",
+    "Interesting Fact": "This fictional utopian valley was described in the 1933 novel Lost Horizon."
+  },
+  {
+    "Question": "What is the giant sea monster of Norse legend?",
+    "Option 1": "Leviathan",
+    "Option 2": "Hydra",
+    "Option 3": "Kraken",
+    "Option 4": "Scylla",
+    "Correct Answer": "Kraken",
+    "Interesting Fact": "The Kraken was a legendary giant sea monster said to dwell off the coast of Norway."
+  },
+  {
+    "Question": "What must a Leprechaun grant if caught?",
+    "Option 1": "Three wishes",
+    "Option 2": "A pot of gold",
+    "Option 3": "Good luck",
+    "Option 4": "Eternal life",
+    "Correct Answer": "Three wishes",
+    "Interesting Fact": "According to Irish folklore, if a human catches a leprechaun, they can demand wishes."
+  },
+  {
+    "Question": "Where do ships and planes mysteriously disappear?",
+    "Option 1": "Dragon's Triangle",
+    "Option 2": "Bermuda Triangle",
+    "Option 3": "Sargasso Sea",
+    "Option 4": "Devil's Sea",
+    "Correct Answer": "Bermuda Triangle",
+    "Interesting Fact": "This legendary area is located in the western part of the North Atlantic Ocean."
+  },
+  {
+    "Question": "Which historical figure is Santa Claus based on?",
+    "Option 1": "St. Patrick",
+    "Option 2": "St. Valentine",
+    "Option 3": "St. Nicholas",
+    "Option 4": "King Wenceslas",
+    "Correct Answer": "St. Nicholas",
+    "Interesting Fact": "The modern Santa is based on the historical figure Saint Nicholas of Myra, a generous bishop."
+  },
+  {
+    "Question": "Who trades money for lost baby teeth?",
+    "Option 1": "The Sandman",
+    "Option 2": "The Easter Bunny",
+    "Option 3": "The Tooth Fairy",
+    "Option 4": "Jack Frost",
+    "Correct Answer": "The Tooth Fairy",
+    "Interesting Fact": "This fantasy figure of early childhood leaves a small payment under a child's pillow."
+  },
+  {
+    "Question": "Who brings good dreams by sprinkling magical sand?",
+    "Option 1": "The Boogeyman",
+    "Option 2": "The Sandman",
+    "Option 3": "Jack Frost",
+    "Option 4": "Mother Goose",
+    "Correct Answer": "The Sandman",
+    "Interesting Fact": "He is a mythical character in European folklore who puts people to sleep."
+  },
+  {
+    "Question": "Which animal delivers eggs on Easter?",
+    "Option 1": "A chicken",
+    "Option 2": "A stork",
+    "Option 3": "A bunny",
+    "Option 4": "A lamb",
+    "Correct Answer": "A bunny",
+    "Interesting Fact": "The character originated among German Lutherans as the \"Easter Hare\" who judged children's behavior."
+  },
+  {
+    "Question": "Who rode naked through Coventry to protest taxes?",
+    "Option 1": "Joan of Arc",
+    "Option 2": "Lady Godiva",
+    "Option 3": "Queen Elizabeth",
+    "Option 4": "Marie Antoinette",
+    "Correct Answer": "Lady Godiva",
+    "Interesting Fact": "Legend says she performed this ride to convince her husband to lower oppressive taxes."
+  },
+  {
+    "Question": "Who lured the rats away from Hamelin with music?",
+    "Option 1": "The Pied Piper",
+    "Option 2": "The Music Man",
+    "Option 3": "The Flute Player",
+    "Option 4": "The Bard",
+    "Correct Answer": "The Pied Piper",
+    "Interesting Fact": "When the town refused to pay him, he used his magic pipe to lure away their children."
+  },
+  {
+    "Question": "Who was the strongest man in the Bible?",
+    "Option 1": "David",
+    "Option 2": "Goliath",
+    "Option 3": "Samson",
+    "Option 4": "Solomon",
+    "Correct Answer": "Samson",
+    "Interesting Fact": "His incredible supernatural strength was granted to him by God, but his hair was his weakness."
+  },
+  {
+    "Question": "What hung over Damocles' head by a single hair?",
+    "Option 1": "A crown",
+    "Option 2": "A sword",
+    "Option 3": "An axe",
+    "Option 4": "A rock",
+    "Correct Answer": "A sword",
+    "Interesting Fact": "This story illustrates the constant danger and anxiety faced by those in positions of power."
+  },
+  {
+    "Question": "Who is the hero of the oldest Old English epic poem?",
+    "Option 1": "Arthur",
+    "Option 2": "Beowulf",
+    "Option 3": "Grendel",
+    "Option 4": "Hrothgar",
+    "Correct Answer": "Beowulf",
+    "Interesting Fact": "Beowulf is a legendary Geatish hero who battles three antagonists across the epic poem."
+  },
+  {
+    "Question": "What guarded the Golden Fleece?",
+    "Option 1": "A giant",
+    "Option 2": "A hydra",
+    "Option 3": "A dragon",
+    "Option 4": "A sphinx",
+    "Correct Answer": "A dragon",
+    "Interesting Fact": "Jason and the Argonauts had to steal the fleece from a sleepless dragon in Colchis."
+  },
+  {
+    "Question": "Who fell in love with his own reflection?",
+    "Option 1": "Zeus",
+    "Option 2": "Apollo",
+    "Option 3": "Narcissus",
+    "Option 4": "Adonis",
+    "Correct Answer": "Narcissus",
+    "Interesting Fact": "He was a hunter known for his beauty who became obsessed with his own image."
+  },
+  {
+    "Question": "How did Alexander the Great solve the Gordian Knot?",
+    "Option 1": "He untied it",
+    "Option 2": "He burned it",
+    "Option 3": "He cut it",
+    "Option 4": "He ignored it",
+    "Correct Answer": "He cut it",
+    "Interesting Fact": "He \"solved\" the impossibly complicated knot by simply slicing through it with his sword."
+  },
+  {
+    "Question": "What is the \"end of the world\" in Norse myth?",
+    "Option 1": "Armageddon",
+    "Option 2": "Apocalypse",
+    "Option 3": "Ragnarok",
+    "Option 4": "Doomsday",
+    "Correct Answer": "Ragnarok",
+    "Interesting Fact": "In Norse mythology, this is a series of future events leading to the world's destruction."
+  },
+  {
+    "Question": "Which figure represents the U.S. government?",
+    "Option 1": "John Bull",
+    "Option 2": "Uncle Sam",
+    "Option 3": "Brother Jonathan",
+    "Option 4": "Columbia",
+    "Correct Answer": "Uncle Sam",
+    "Interesting Fact": "The name is linked to Samuel Wilson, a meat packer who supplied army rations in 1812."
+  },
+  {
+    "Question": "What is the name of King Arthur's wizard advisor?",
+    "Option 1": "Gandalf",
+    "Option 2": "Dumbledore",
+    "Option 3": "Merlin",
+    "Option 4": "Saruman",
+    "Correct Answer": "Merlin",
+    "Interesting Fact": "Merlin is a powerful wizard featured in the Arthurian legend and medieval Welsh poetry."
+  }
+]

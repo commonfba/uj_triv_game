@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "What year did the U.S. declare independence?",
+    "Option A": "1776",
+    "Option B": "1783",
+    "Option C": "1812",
+    "Option D": "1607",
+    "Correct Answer": "1776",
+    "Interesting Fact": "The U.S. declared independence from Britain on July 4, 1776, marking the birth of the nation with the Declaration of Independence."
+  },
+  {
+    "Question": "Who was the first U.S. president?",
+    "Option A": "Thomas Jefferson",
+    "Option B": "George Washington",
+    "Option C": "John Adams",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "George Washington",
+    "Interesting Fact": "George Washington served as the first president from 1789 to 1797, setting many precedents, including the two-term limit."
+  },
+  {
+    "Question": "What is the U.S. national bird?",
+    "Option A": "Bald Eagle",
+    "Option B": "Falcon",
+    "Option C": "Cardinal",
+    "Option D": "Owl",
+    "Correct Answer": "Bald Eagle",
+    "Interesting Fact": "The Bald Eagle was chosen as the U.S. national bird in 1782 for its majestic appearance and as a symbol of freedom."
+  },
+  {
+    "Question": "Which U.S. state was the first to join?",
+    "Option A": "Virginia",
+    "Option B": "Delaware",
+    "Option C": "Pennsylvania",
+    "Option D": "Massachusetts",
+    "Correct Answer": "Delaware",
+    "Interesting Fact": "Delaware became the first state to ratify the Constitution on December 7, 1787, earning it the nickname 'The First State.'"
+  },
+  {
+    "Question": "What is the largest U.S. state by area?",
+    "Option A": "Alaska",
+    "Option B": "Texas",
+    "Option C": "California",
+    "Option D": "Montana",
+    "Correct Answer": "Alaska",
+    "Interesting Fact": "Alaska spans over 663,000 square miles, making it more than twice the size of Texas and the largest state in the United States."
+  },
+  {
+    "Question": "Who wrote the Star-Spangled Banner?",
+    "Option A": "Betsy Ross",
+    "Option B": "Francis Scott Key",
+    "Option C": "Thomas Paine",
+    "Option D": "Alexander Hamilton",
+    "Correct Answer": "Francis Scott Key",
+    "Interesting Fact": "Francis Scott Key wrote the Star-Spangled Banner during the War of 1812 after witnessing the British attack on Fort McHenry."
+  },
+  {
+    "Question": "Which U.S. city is nicknamed 'The Big Apple'?",
+    "Option A": "Chicago",
+    "Option B": "Los Angeles",
+    "Option C": "New York City",
+    "Option D": "Miami",
+    "Correct Answer": "New York City",
+    "Interesting Fact": "New York City’s nickname, 'The Big Apple,' became popular in the 1920s through jazz musicians and horse racing columnists."
+  },
+  {
+    "Question": "What is the smallest U.S. state?",
+    "Option A": "Rhode Island",
+    "Option B": "Connecticut",
+    "Option C": "Vermont",
+    "Option D": "New Hampshire",
+    "Correct Answer": "Rhode Island",
+    "Interesting Fact": "Covering just over 1,200 square miles, Rhode Island is the smallest U.S. state, but it boasts a rich history and beautiful coastlines."
+  },
+  {
+    "Question": "Who was president during the Civil War?",
+    "Option A": "Abraham Lincoln",
+    "Option B": "Andrew Jackson",
+    "Option C": "James Buchanan",
+    "Option D": "Ulysses S. Grant",
+    "Correct Answer": "Abraham Lincoln",
+    "Interesting Fact": "Abraham Lincoln, the 16th U.S. president, led the nation through the Civil War and issued the Emancipation Proclamation to abolish slavery."
+  },
+  {
+    "Question": "Which U.S. landmark has the faces of 4 presidents?",
+    "Option A": "Mount Rushmore",
+    "Option B": "Statue of Liberty",
+    "Option C": "Golden Gate Bridge",
+    "Option D": "Hoover Dam",
+    "Correct Answer": "Mount Rushmore",
+    "Interesting Fact": "Mount Rushmore in South Dakota features the faces of Washington, Jefferson, Roosevelt, and Lincoln, symbolizing U.S. history and ideals."
+  },
+  {
+    "Question": "What U.S. city is home to the Liberty Bell?",
+    "Option A": "Boston",
+    "Option B": "Philadelphia",
+    "Option C": "Washington, D.C.",
+    "Option D": "New York City",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "The Liberty Bell, a symbol of freedom, is located in Philadelphia and was rung during the first public reading of the Declaration of Independence."
+  },
+  {
+    "Question": "What is the longest river in the U.S.?",
+    "Option A": "Colorado",
+    "Option B": "Mississippi",
+    "Option C": "Missouri",
+    "Option D": "Rio Grande",
+    "Correct Answer": "Missouri",
+    "Interesting Fact": "The Missouri River stretches 2,341 miles, making it the longest river in the U.S., slightly longer than the Mississippi."
+  },
+  {
+    "Question": "Who wrote the famous speech 'I Have a Dream'?",
+    "Option A": "Frederick Douglass",
+    "Option B": "Martin Luther King Jr.",
+    "Option C": "Malcolm X",
+    "Option D": "Rosa Parks",
+    "Correct Answer": "Martin Luther King Jr.",
+    "Interesting Fact": "Dr. King delivered his iconic 'I Have a Dream' speech during the 1963 March on Washington, calling for civil rights and equality."
+  },
+  {
+    "Question": "Which state is known as the 'Sunshine State'?",
+    "Option A": "Florida",
+    "Option B": "California",
+    "Option C": "Texas",
+    "Option D": "Hawaii",
+    "Correct Answer": "Florida",
+    "Interesting Fact": "Florida earned its nickname due to its year-round sunny weather, attracting millions of tourists annually to its beaches and theme parks."
+  },
+  {
+    "Question": "What is the capital of the United States?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Washington, D.C.",
+    "Interesting Fact": "Washington, D.C., has been the U.S. capital since 1790, named after George Washington, the first president."
+  },
+  {
+    "Question": "Who was the first woman to fly solo across the Atlantic?",
+    "Option A": "Amelia Earhart",
+    "Option B": "Harriet Quimby",
+    "Option C": "Bessie Coleman",
+    "Option D": "Sally Ride",
+    "Correct Answer": "Amelia Earhart",
+    "Interesting Fact": "Amelia Earhart flew solo across the Atlantic Ocean in 1932, becoming a pioneer in aviation and a symbol of women’s achievement."
+  },
+  {
+    "Question": "What U.S. state is famous for its potatoes?",
+    "Option A": "Idaho",
+    "Option B": "Maine",
+    "Option C": "Nebraska",
+    "Option D": "Iowa",
+    "Correct Answer": "Idaho",
+    "Interesting Fact": "Idaho is renowned for producing about one-third of the potatoes in the U.S., thanks to its ideal soil and climate."
+  },
+  {
+    "Question": "Where is the Statue of Liberty located?",
+    "Option A": "Ellis Island",
+    "Option B": "Liberty Island",
+    "Option C": "Governors Island",
+    "Option D": "Manhattan",
+    "Correct Answer": "Liberty Island",
+    "Interesting Fact": "The Statue of Liberty was a gift from France in 1886, symbolizing friendship and freedom, and it stands on Liberty Island in New York Harbor."
+  },
+  {
+    "Question": "Which U.S. holiday honors military veterans?",
+    "Option A": "Memorial Day",
+    "Option B": "Veterans Day",
+    "Option C": "Labor Day",
+    "Option D": "Independence Day",
+    "Correct Answer": "Veterans Day",
+    "Interesting Fact": "Veterans Day, celebrated on November 11, honors all military veterans who have served the United States in peace and war."
+  },
+  {
+    "Question": "What is the U.S. national anthem?",
+    "Option A": "America the Beautiful",
+    "Option B": "My Country, 'Tis of Thee",
+    "Option C": "The Star-Spangled Banner",
+    "Option D": "God Bless America",
+    "Correct Answer": "The Star-Spangled Banner",
+    "Interesting Fact": "Written by Francis Scott Key in 1814, 'The Star-Spangled Banner' became the official U.S. national anthem in 1931."
+  },
+  {
+    "Question": "Who was the U.S. president during World War II?",
+    "Option A": "Herbert Hoover",
+    "Option B": "Franklin D. Roosevelt",
+    "Option C": "Harry S. Truman",
+    "Option D": "Dwight D. Eisenhower",
+    "Correct Answer": "Franklin D. Roosevelt",
+    "Interesting Fact": "Roosevelt served four terms and led the U.S. through the Great Depression and most of World War II."
+  },
+  {
+    "Question": "Which state is known for the Grand Canyon?",
+    "Option A": "Utah",
+    "Option B": "Arizona",
+    "Option C": "Nevada",
+    "Option D": "Colorado",
+    "Correct Answer": "Arizona",
+    "Interesting Fact": "The Grand Canyon, one of the Seven Natural Wonders of the World, is located in Arizona and attracts millions of visitors each year."
+  },
+  {
+    "Question": "What was the first U.S. state capital?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "Philadelphia served as the U.S. capital during the American Revolution and was home to the Continental Congress."
+  },
+  {
+    "Question": "Who was known as the 'Father of the Constitution'?",
+    "Option A": "George Washington",
+    "Option B": "Thomas Jefferson",
+    "Option C": "James Madison",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "James Madison",
+    "Interesting Fact": "James Madison earned the title for his pivotal role in drafting the U.S. Constitution and the Bill of Rights."
+  },
+  {
+    "Question": "What is the name of the U.S. space agency?",
+    "Option A": "NASA",
+    "Option B": "SpaceX",
+    "Option C": "Blue Origin",
+    "Option D": "ULA",
+    "Correct Answer": "NASA",
+    "Interesting Fact": "NASA (National Aeronautics and Space Administration) was established in 1958 and led the U.S. to the Moon in 1969."
+  },
+  {
+    "Question": "What year did the U.S. declare independence?",
+    "Option A": "1776",
+    "Option B": "1783",
+    "Option C": "1812",
+    "Option D": "1607",
+    "Correct Answer": "1776",
+    "Interesting Fact": "The U.S. declared independence from Britain on July 4, 1776, marking the birth of the nation with the Declaration of Independence."
+  },
+  {
+    "Question": "Who was the first U.S. president?",
+    "Option A": "Thomas Jefferson",
+    "Option B": "George Washington",
+    "Option C": "John Adams",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "George Washington",
+    "Interesting Fact": "George Washington served as the first president from 1789 to 1797, setting many precedents, including the two-term limit."
+  },
+  {
+    "Question": "What is the U.S. national bird?",
+    "Option A": "Bald Eagle",
+    "Option B": "Falcon",
+    "Option C": "Cardinal",
+    "Option D": "Owl",
+    "Correct Answer": "Bald Eagle",
+    "Interesting Fact": "The Bald Eagle was chosen as the U.S. national bird in 1782 for its majestic appearance and as a symbol of freedom."
+  },
+  {
+    "Question": "Which U.S. state was the first to join?",
+    "Option A": "Virginia",
+    "Option B": "Delaware",
+    "Option C": "Pennsylvania",
+    "Option D": "Massachusetts",
+    "Correct Answer": "Delaware",
+    "Interesting Fact": "Delaware became the first state to ratify the Constitution on December 7, 1787, earning it the nickname 'The First State.'"
+  },
+  {
+    "Question": "What is the largest U.S. state by area?",
+    "Option A": "Alaska",
+    "Option B": "Texas",
+    "Option C": "California",
+    "Option D": "Montana",
+    "Correct Answer": "Alaska",
+    "Interesting Fact": "Alaska spans over 663,000 square miles, making it more than twice the size of Texas and the largest state in the United States."
+  },
+  {
+    "Question": "Who wrote the Star-Spangled Banner?",
+    "Option A": "Betsy Ross",
+    "Option B": "Francis Scott Key",
+    "Option C": "Thomas Paine",
+    "Option D": "Alexander Hamilton",
+    "Correct Answer": "Francis Scott Key",
+    "Interesting Fact": "Francis Scott Key wrote the Star-Spangled Banner during the War of 1812 after witnessing the British attack on Fort McHenry."
+  },
+  {
+    "Question": "Which U.S. city is nicknamed 'The Big Apple'?",
+    "Option A": "Chicago",
+    "Option B": "Los Angeles",
+    "Option C": "New York City",
+    "Option D": "Miami",
+    "Correct Answer": "New York City",
+    "Interesting Fact": "New York City’s nickname, 'The Big Apple,' became popular in the 1920s through jazz musicians and horse racing columnists."
+  },
+  {
+    "Question": "What is the smallest U.S. state?",
+    "Option A": "Rhode Island",
+    "Option B": "Connecticut",
+    "Option C": "Vermont",
+    "Option D": "New Hampshire",
+    "Correct Answer": "Rhode Island",
+    "Interesting Fact": "Covering just over 1,200 square miles, Rhode Island is the smallest U.S. state, but it boasts a rich history and beautiful coastlines."
+  },
+  {
+    "Question": "Who was president during the Civil War?",
+    "Option A": "Abraham Lincoln",
+    "Option B": "Andrew Jackson",
+    "Option C": "James Buchanan",
+    "Option D": "Ulysses S. Grant",
+    "Correct Answer": "Abraham Lincoln",
+    "Interesting Fact": "Abraham Lincoln, the 16th U.S. president, led the nation through the Civil War and issued the Emancipation Proclamation to abolish slavery."
+  },
+  {
+    "Question": "Which U.S. landmark has the faces of 4 presidents?",
+    "Option A": "Mount Rushmore",
+    "Option B": "Statue of Liberty",
+    "Option C": "Golden Gate Bridge",
+    "Option D": "Hoover Dam",
+    "Correct Answer": "Mount Rushmore",
+    "Interesting Fact": "Mount Rushmore in South Dakota features the faces of Washington, Jefferson, Roosevelt, and Lincoln, symbolizing U.S. history and ideals."
+  },
+  {
+    "Question": "What U.S. city is home to the Liberty Bell?",
+    "Option A": "Boston",
+    "Option B": "Philadelphia",
+    "Option C": "Washington, D.C.",
+    "Option D": "New York City",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "The Liberty Bell, a symbol of freedom, is located in Philadelphia and was rung during the first public reading of the Declaration of Independence."
+  },
+  {
+    "Question": "What is the longest river in the U.S.?",
+    "Option A": "Colorado",
+    "Option B": "Mississippi",
+    "Option C": "Missouri",
+    "Option D": "Rio Grande",
+    "Correct Answer": "Missouri",
+    "Interesting Fact": "The Missouri River stretches 2,341 miles, making it the longest river in the U.S., slightly longer than the Mississippi."
+  },
+  {
+    "Question": "Who wrote the famous speech 'I Have a Dream'?",
+    "Option A": "Frederick Douglass",
+    "Option B": "Martin Luther King Jr.",
+    "Option C": "Malcolm X",
+    "Option D": "Rosa Parks",
+    "Correct Answer": "Martin Luther King Jr.",
+    "Interesting Fact": "Dr. King delivered his iconic 'I Have a Dream' speech during the 1963 March on Washington, calling for civil rights and equality."
+  },
+  {
+    "Question": "Which state is known as the 'Sunshine State'?",
+    "Option A": "Florida",
+    "Option B": "California",
+    "Option C": "Texas",
+    "Option D": "Hawaii",
+    "Correct Answer": "Florida",
+    "Interesting Fact": "Florida earned its nickname due to its year-round sunny weather, attracting millions of tourists annually to its beaches and theme parks."
+  },
+  {
+    "Question": "What is the capital of the United States?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Washington, D.C.",
+    "Interesting Fact": "Washington, D.C., has been the U.S. capital since 1790, named after George Washington, the first president."
+  },
+  {
+    "Question": "Who was the first woman to fly solo across the Atlantic?",
+    "Option A": "Amelia Earhart",
+    "Option B": "Harriet Quimby",
+    "Option C": "Bessie Coleman",
+    "Option D": "Sally Ride",
+    "Correct Answer": "Amelia Earhart",
+    "Interesting Fact": "Amelia Earhart flew solo across the Atlantic Ocean in 1932, becoming a pioneer in aviation and a symbol of women’s achievement."
+  },
+  {
+    "Question": "What U.S. state is famous for its potatoes?",
+    "Option A": "Idaho",
+    "Option B": "Maine",
+    "Option C": "Nebraska",
+    "Option D": "Iowa",
+    "Correct Answer": "Idaho",
+    "Interesting Fact": "Idaho is renowned for producing about one-third of the potatoes in the U.S., thanks to its ideal soil and climate."
+  },
+  {
+    "Question": "Where is the Statue of Liberty located?",
+    "Option A": "Ellis Island",
+    "Option B": "Liberty Island",
+    "Option C": "Governors Island",
+    "Option D": "Manhattan",
+    "Correct Answer": "Liberty Island",
+    "Interesting Fact": "The Statue of Liberty was a gift from France in 1886, symbolizing friendship and freedom, and it stands on Liberty Island in New York Harbor."
+  },
+  {
+    "Question": "Which U.S. holiday honors military veterans?",
+    "Option A": "Memorial Day",
+    "Option B": "Veterans Day",
+    "Option C": "Labor Day",
+    "Option D": "Independence Day",
+    "Correct Answer": "Veterans Day",
+    "Interesting Fact": "Veterans Day, celebrated on November 11, honors all military veterans who have served the United States in peace and war."
+  },
+  {
+    "Question": "What is the U.S. national anthem?",
+    "Option A": "America the Beautiful",
+    "Option B": "My Country, 'Tis of Thee",
+    "Option C": "The Star-Spangled Banner",
+    "Option D": "God Bless America",
+    "Correct Answer": "The Star-Spangled Banner",
+    "Interesting Fact": "Written by Francis Scott Key in 1814, 'The Star-Spangled Banner' became the official U.S. national anthem in 1931."
+  },
+  {
+    "Question": "Who was the U.S. president during World War II?",
+    "Option A": "Herbert Hoover",
+    "Option B": "Franklin D. Roosevelt",
+    "Option C": "Harry S. Truman",
+    "Option D": "Dwight D. Eisenhower",
+    "Correct Answer": "Franklin D. Roosevelt",
+    "Interesting Fact": "Roosevelt served four terms and led the U.S. through the Great Depression and most of World War II."
+  },
+  {
+    "Question": "Which state is known for the Grand Canyon?",
+    "Option A": "Utah",
+    "Option B": "Arizona",
+    "Option C": "Nevada",
+    "Option D": "Colorado",
+    "Correct Answer": "Arizona",
+    "Interesting Fact": "The Grand Canyon, one of the Seven Natural Wonders of the World, is located in Arizona and attracts millions of visitors each year."
+  },
+  {
+    "Question": "What was the first U.S. state capital?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "Philadelphia served as the U.S. capital during the American Revolution and was home to the Continental Congress."
+  },
+  {
+    "Question": "Who was known as the 'Father of the Constitution'?",
+    "Option A": "George Washington",
+    "Option B": "Thomas Jefferson",
+    "Option C": "James Madison",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "James Madison",
+    "Interesting Fact": "James Madison earned the title for his pivotal role in drafting the U.S. Constitution and the Bill of Rights."
+  },
+  {
+    "Question": "What is the name of the U.S. space agency?",
+    "Option A": "NASA",
+    "Option B": "SpaceX",
+    "Option C": "Blue Origin",
+    "Option D": "ULA",
+    "Correct Answer": "NASA",
+    "Interesting Fact": "NASA (National Aeronautics and Space Administration) was established in 1958 and led the U.S. to the Moon in 1969."
+  },
+  {
+    "Question": "What year did the U.S. declare independence?",
+    "Option A": "1776",
+    "Option B": "1783",
+    "Option C": "1812",
+    "Option D": "1607",
+    "Correct Answer": "1776",
+    "Interesting Fact": "The U.S. declared independence from Britain on July 4, 1776, marking the birth of the nation with the Declaration of Independence."
+  },
+  {
+    "Question": "Who was the first U.S. president?",
+    "Option A": "Thomas Jefferson",
+    "Option B": "George Washington",
+    "Option C": "John Adams",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "George Washington",
+    "Interesting Fact": "George Washington served as the first president from 1789 to 1797, setting many precedents, including the two-term limit."
+  },
+  {
+    "Question": "What is the U.S. national bird?",
+    "Option A": "Bald Eagle",
+    "Option B": "Falcon",
+    "Option C": "Cardinal",
+    "Option D": "Owl",
+    "Correct Answer": "Bald Eagle",
+    "Interesting Fact": "The Bald Eagle was chosen as the U.S. national bird in 1782 for its majestic appearance and as a symbol of freedom."
+  },
+  {
+    "Question": "Which U.S. state was the first to join?",
+    "Option A": "Virginia",
+    "Option B": "Delaware",
+    "Option C": "Pennsylvania",
+    "Option D": "Massachusetts",
+    "Correct Answer": "Delaware",
+    "Interesting Fact": "Delaware became the first state to ratify the Constitution on December 7, 1787, earning it the nickname 'The First State.'"
+  },
+  {
+    "Question": "What is the largest U.S. state by area?",
+    "Option A": "Alaska",
+    "Option B": "Texas",
+    "Option C": "California",
+    "Option D": "Montana",
+    "Correct Answer": "Alaska",
+    "Interesting Fact": "Alaska spans over 663,000 square miles, making it more than twice the size of Texas and the largest state in the United States."
+  },
+  {
+    "Question": "Who wrote the Star-Spangled Banner?",
+    "Option A": "Betsy Ross",
+    "Option B": "Francis Scott Key",
+    "Option C": "Thomas Paine",
+    "Option D": "Alexander Hamilton",
+    "Correct Answer": "Francis Scott Key",
+    "Interesting Fact": "Francis Scott Key wrote the Star-Spangled Banner during the War of 1812 after witnessing the British attack on Fort McHenry."
+  },
+  {
+    "Question": "Which U.S. city is nicknamed 'The Big Apple'?",
+    "Option A": "Chicago",
+    "Option B": "Los Angeles",
+    "Option C": "New York City",
+    "Option D": "Miami",
+    "Correct Answer": "New York City",
+    "Interesting Fact": "New York City’s nickname, 'The Big Apple,' became popular in the 1920s through jazz musicians and horse racing columnists."
+  },
+  {
+    "Question": "What is the smallest U.S. state?",
+    "Option A": "Rhode Island",
+    "Option B": "Connecticut",
+    "Option C": "Vermont",
+    "Option D": "New Hampshire",
+    "Correct Answer": "Rhode Island",
+    "Interesting Fact": "Covering just over 1,200 square miles, Rhode Island is the smallest U.S. state, but it boasts a rich history and beautiful coastlines."
+  },
+  {
+    "Question": "Who was president during the Civil War?",
+    "Option A": "Abraham Lincoln",
+    "Option B": "Andrew Jackson",
+    "Option C": "James Buchanan",
+    "Option D": "Ulysses S. Grant",
+    "Correct Answer": "Abraham Lincoln",
+    "Interesting Fact": "Abraham Lincoln, the 16th U.S. president, led the nation through the Civil War and issued the Emancipation Proclamation to abolish slavery."
+  },
+  {
+    "Question": "Which U.S. landmark has the faces of 4 presidents?",
+    "Option A": "Mount Rushmore",
+    "Option B": "Statue of Liberty",
+    "Option C": "Golden Gate Bridge",
+    "Option D": "Hoover Dam",
+    "Correct Answer": "Mount Rushmore",
+    "Interesting Fact": "Mount Rushmore in South Dakota features the faces of Washington, Jefferson, Roosevelt, and Lincoln, symbolizing U.S. history and ideals."
+  },
+  {
+    "Question": "What U.S. city is home to the Liberty Bell?",
+    "Option A": "Boston",
+    "Option B": "Philadelphia",
+    "Option C": "Washington, D.C.",
+    "Option D": "New York City",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "The Liberty Bell, a symbol of freedom, is located in Philadelphia and was rung during the first public reading of the Declaration of Independence."
+  },
+  {
+    "Question": "What is the longest river in the U.S.?",
+    "Option A": "Colorado",
+    "Option B": "Mississippi",
+    "Option C": "Missouri",
+    "Option D": "Rio Grande",
+    "Correct Answer": "Missouri",
+    "Interesting Fact": "The Missouri River stretches 2,341 miles, making it the longest river in the U.S., slightly longer than the Mississippi."
+  },
+  {
+    "Question": "Who wrote the famous speech 'I Have a Dream'?",
+    "Option A": "Frederick Douglass",
+    "Option B": "Martin Luther King Jr.",
+    "Option C": "Malcolm X",
+    "Option D": "Rosa Parks",
+    "Correct Answer": "Martin Luther King Jr.",
+    "Interesting Fact": "Dr. King delivered his iconic 'I Have a Dream' speech during the 1963 March on Washington, calling for civil rights and equality."
+  },
+  {
+    "Question": "Which state is known as the 'Sunshine State'?",
+    "Option A": "Florida",
+    "Option B": "California",
+    "Option C": "Texas",
+    "Option D": "Hawaii",
+    "Correct Answer": "Florida",
+    "Interesting Fact": "Florida earned its nickname due to its year-round sunny weather, attracting millions of tourists annually to its beaches and theme parks."
+  },
+  {
+    "Question": "What is the capital of the United States?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Washington, D.C.",
+    "Interesting Fact": "Washington, D.C., has been the U.S. capital since 1790, named after George Washington, the first president."
+  },
+  {
+    "Question": "Who was the first woman to fly solo across the Atlantic?",
+    "Option A": "Amelia Earhart",
+    "Option B": "Harriet Quimby",
+    "Option C": "Bessie Coleman",
+    "Option D": "Sally Ride",
+    "Correct Answer": "Amelia Earhart",
+    "Interesting Fact": "Amelia Earhart flew solo across the Atlantic Ocean in 1932, becoming a pioneer in aviation and a symbol of women’s achievement."
+  },
+  {
+    "Question": "What U.S. state is famous for its potatoes?",
+    "Option A": "Idaho",
+    "Option B": "Maine",
+    "Option C": "Nebraska",
+    "Option D": "Iowa",
+    "Correct Answer": "Idaho",
+    "Interesting Fact": "Idaho is renowned for producing about one-third of the potatoes in the U.S., thanks to its ideal soil and climate."
+  },
+  {
+    "Question": "Where is the Statue of Liberty located?",
+    "Option A": "Ellis Island",
+    "Option B": "Liberty Island",
+    "Option C": "Governors Island",
+    "Option D": "Manhattan",
+    "Correct Answer": "Liberty Island",
+    "Interesting Fact": "The Statue of Liberty was a gift from France in 1886, symbolizing friendship and freedom, and it stands on Liberty Island in New York Harbor."
+  },
+  {
+    "Question": "Which U.S. holiday honors military veterans?",
+    "Option A": "Memorial Day",
+    "Option B": "Veterans Day",
+    "Option C": "Labor Day",
+    "Option D": "Independence Day",
+    "Correct Answer": "Veterans Day",
+    "Interesting Fact": "Veterans Day, celebrated on November 11, honors all military veterans who have served the United States in peace and war."
+  },
+  {
+    "Question": "What is the U.S. national anthem?",
+    "Option A": "America the Beautiful",
+    "Option B": "My Country, 'Tis of Thee",
+    "Option C": "The Star-Spangled Banner",
+    "Option D": "God Bless America",
+    "Correct Answer": "The Star-Spangled Banner",
+    "Interesting Fact": "Written by Francis Scott Key in 1814, 'The Star-Spangled Banner' became the official U.S. national anthem in 1931."
+  },
+  {
+    "Question": "Who was the U.S. president during World War II?",
+    "Option A": "Herbert Hoover",
+    "Option B": "Franklin D. Roosevelt",
+    "Option C": "Harry S. Truman",
+    "Option D": "Dwight D. Eisenhower",
+    "Correct Answer": "Franklin D. Roosevelt",
+    "Interesting Fact": "Roosevelt served four terms and led the U.S. through the Great Depression and most of World War II."
+  },
+  {
+    "Question": "Which state is known for the Grand Canyon?",
+    "Option A": "Utah",
+    "Option B": "Arizona",
+    "Option C": "Nevada",
+    "Option D": "Colorado",
+    "Correct Answer": "Arizona",
+    "Interesting Fact": "The Grand Canyon, one of the Seven Natural Wonders of the World, is located in Arizona and attracts millions of visitors each year."
+  },
+  {
+    "Question": "What was the first U.S. state capital?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "Philadelphia served as the U.S. capital during the American Revolution and was home to the Continental Congress."
+  },
+  {
+    "Question": "Who was known as the 'Father of the Constitution'?",
+    "Option A": "George Washington",
+    "Option B": "Thomas Jefferson",
+    "Option C": "James Madison",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "James Madison",
+    "Interesting Fact": "James Madison earned the title for his pivotal role in drafting the U.S. Constitution and the Bill of Rights."
+  },
+  {
+    "Question": "What is the name of the U.S. space agency?",
+    "Option A": "NASA",
+    "Option B": "SpaceX",
+    "Option C": "Blue Origin",
+    "Option D": "ULA",
+    "Correct Answer": "NASA",
+    "Interesting Fact": "NASA (National Aeronautics and Space Administration) was established in 1958 and led the U.S. to the Moon in 1969."
+  },
+  {
+    "Question": "What year did the U.S. declare independence?",
+    "Option A": "1776",
+    "Option B": "1783",
+    "Option C": "1812",
+    "Option D": "1607",
+    "Correct Answer": "1776",
+    "Interesting Fact": "The U.S. declared independence from Britain on July 4, 1776, marking the birth of the nation with the Declaration of Independence."
+  },
+  {
+    "Question": "Who was the first U.S. president?",
+    "Option A": "Thomas Jefferson",
+    "Option B": "George Washington",
+    "Option C": "John Adams",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "George Washington",
+    "Interesting Fact": "George Washington served as the first president from 1789 to 1797, setting many precedents, including the two-term limit."
+  },
+  {
+    "Question": "What is the U.S. national bird?",
+    "Option A": "Bald Eagle",
+    "Option B": "Falcon",
+    "Option C": "Cardinal",
+    "Option D": "Owl",
+    "Correct Answer": "Bald Eagle",
+    "Interesting Fact": "The Bald Eagle was chosen as the U.S. national bird in 1782 for its majestic appearance and as a symbol of freedom."
+  },
+  {
+    "Question": "Which U.S. state was the first to join?",
+    "Option A": "Virginia",
+    "Option B": "Delaware",
+    "Option C": "Pennsylvania",
+    "Option D": "Massachusetts",
+    "Correct Answer": "Delaware",
+    "Interesting Fact": "Delaware became the first state to ratify the Constitution on December 7, 1787, earning it the nickname 'The First State.'"
+  },
+  {
+    "Question": "What is the largest U.S. state by area?",
+    "Option A": "Alaska",
+    "Option B": "Texas",
+    "Option C": "California",
+    "Option D": "Montana",
+    "Correct Answer": "Alaska",
+    "Interesting Fact": "Alaska spans over 663,000 square miles, making it more than twice the size of Texas and the largest state in the United States."
+  },
+  {
+    "Question": "Who wrote the Star-Spangled Banner?",
+    "Option A": "Betsy Ross",
+    "Option B": "Francis Scott Key",
+    "Option C": "Thomas Paine",
+    "Option D": "Alexander Hamilton",
+    "Correct Answer": "Francis Scott Key",
+    "Interesting Fact": "Francis Scott Key wrote the Star-Spangled Banner during the War of 1812 after witnessing the British attack on Fort McHenry."
+  },
+  {
+    "Question": "Which U.S. city is nicknamed 'The Big Apple'?",
+    "Option A": "Chicago",
+    "Option B": "Los Angeles",
+    "Option C": "New York City",
+    "Option D": "Miami",
+    "Correct Answer": "New York City",
+    "Interesting Fact": "New York City’s nickname, 'The Big Apple,' became popular in the 1920s through jazz musicians and horse racing columnists."
+  },
+  {
+    "Question": "What is the smallest U.S. state?",
+    "Option A": "Rhode Island",
+    "Option B": "Connecticut",
+    "Option C": "Vermont",
+    "Option D": "New Hampshire",
+    "Correct Answer": "Rhode Island",
+    "Interesting Fact": "Covering just over 1,200 square miles, Rhode Island is the smallest U.S. state, but it boasts a rich history and beautiful coastlines."
+  },
+  {
+    "Question": "Who was president during the Civil War?",
+    "Option A": "Abraham Lincoln",
+    "Option B": "Andrew Jackson",
+    "Option C": "James Buchanan",
+    "Option D": "Ulysses S. Grant",
+    "Correct Answer": "Abraham Lincoln",
+    "Interesting Fact": "Abraham Lincoln, the 16th U.S. president, led the nation through the Civil War and issued the Emancipation Proclamation to abolish slavery."
+  },
+  {
+    "Question": "Which U.S. landmark has the faces of 4 presidents?",
+    "Option A": "Mount Rushmore",
+    "Option B": "Statue of Liberty",
+    "Option C": "Golden Gate Bridge",
+    "Option D": "Hoover Dam",
+    "Correct Answer": "Mount Rushmore",
+    "Interesting Fact": "Mount Rushmore in South Dakota features the faces of Washington, Jefferson, Roosevelt, and Lincoln, symbolizing U.S. history and ideals."
+  },
+  {
+    "Question": "What U.S. city is home to the Liberty Bell?",
+    "Option A": "Boston",
+    "Option B": "Philadelphia",
+    "Option C": "Washington, D.C.",
+    "Option D": "New York City",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "The Liberty Bell, a symbol of freedom, is located in Philadelphia and was rung during the first public reading of the Declaration of Independence."
+  },
+  {
+    "Question": "What is the longest river in the U.S.?",
+    "Option A": "Colorado",
+    "Option B": "Mississippi",
+    "Option C": "Missouri",
+    "Option D": "Rio Grande",
+    "Correct Answer": "Missouri",
+    "Interesting Fact": "The Missouri River stretches 2,341 miles, making it the longest river in the U.S., slightly longer than the Mississippi."
+  },
+  {
+    "Question": "Who wrote the famous speech 'I Have a Dream'?",
+    "Option A": "Frederick Douglass",
+    "Option B": "Martin Luther King Jr.",
+    "Option C": "Malcolm X",
+    "Option D": "Rosa Parks",
+    "Correct Answer": "Martin Luther King Jr.",
+    "Interesting Fact": "Dr. King delivered his iconic 'I Have a Dream' speech during the 1963 March on Washington, calling for civil rights and equality."
+  },
+  {
+    "Question": "Which state is known as the 'Sunshine State'?",
+    "Option A": "Florida",
+    "Option B": "California",
+    "Option C": "Texas",
+    "Option D": "Hawaii",
+    "Correct Answer": "Florida",
+    "Interesting Fact": "Florida earned its nickname due to its year-round sunny weather, attracting millions of tourists annually to its beaches and theme parks."
+  },
+  {
+    "Question": "What is the capital of the United States?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Washington, D.C.",
+    "Interesting Fact": "Washington, D.C., has been the U.S. capital since 1790, named after George Washington, the first president."
+  },
+  {
+    "Question": "Who was the first woman to fly solo across the Atlantic?",
+    "Option A": "Amelia Earhart",
+    "Option B": "Harriet Quimby",
+    "Option C": "Bessie Coleman",
+    "Option D": "Sally Ride",
+    "Correct Answer": "Amelia Earhart",
+    "Interesting Fact": "Amelia Earhart flew solo across the Atlantic Ocean in 1932, becoming a pioneer in aviation and a symbol of women’s achievement."
+  },
+  {
+    "Question": "What U.S. state is famous for its potatoes?",
+    "Option A": "Idaho",
+    "Option B": "Maine",
+    "Option C": "Nebraska",
+    "Option D": "Iowa",
+    "Correct Answer": "Idaho",
+    "Interesting Fact": "Idaho is renowned for producing about one-third of the potatoes in the U.S., thanks to its ideal soil and climate."
+  },
+  {
+    "Question": "Where is the Statue of Liberty located?",
+    "Option A": "Ellis Island",
+    "Option B": "Liberty Island",
+    "Option C": "Governors Island",
+    "Option D": "Manhattan",
+    "Correct Answer": "Liberty Island",
+    "Interesting Fact": "The Statue of Liberty was a gift from France in 1886, symbolizing friendship and freedom, and it stands on Liberty Island in New York Harbor."
+  },
+  {
+    "Question": "Which U.S. holiday honors military veterans?",
+    "Option A": "Memorial Day",
+    "Option B": "Veterans Day",
+    "Option C": "Labor Day",
+    "Option D": "Independence Day",
+    "Correct Answer": "Veterans Day",
+    "Interesting Fact": "Veterans Day, celebrated on November 11, honors all military veterans who have served the United States in peace and war."
+  },
+  {
+    "Question": "What is the U.S. national anthem?",
+    "Option A": "America the Beautiful",
+    "Option B": "My Country, 'Tis of Thee",
+    "Option C": "The Star-Spangled Banner",
+    "Option D": "God Bless America",
+    "Correct Answer": "The Star-Spangled Banner",
+    "Interesting Fact": "Written by Francis Scott Key in 1814, 'The Star-Spangled Banner' became the official U.S. national anthem in 1931."
+  },
+  {
+    "Question": "Who was the U.S. president during World War II?",
+    "Option A": "Herbert Hoover",
+    "Option B": "Franklin D. Roosevelt",
+    "Option C": "Harry S. Truman",
+    "Option D": "Dwight D. Eisenhower",
+    "Correct Answer": "Franklin D. Roosevelt",
+    "Interesting Fact": "Roosevelt served four terms and led the U.S. through the Great Depression and most of World War II."
+  },
+  {
+    "Question": "Which state is known for the Grand Canyon?",
+    "Option A": "Utah",
+    "Option B": "Arizona",
+    "Option C": "Nevada",
+    "Option D": "Colorado",
+    "Correct Answer": "Arizona",
+    "Interesting Fact": "The Grand Canyon, one of the Seven Natural Wonders of the World, is located in Arizona and attracts millions of visitors each year."
+  },
+  {
+    "Question": "What was the first U.S. state capital?",
+    "Option A": "Philadelphia",
+    "Option B": "New York City",
+    "Option C": "Washington, D.C.",
+    "Option D": "Boston",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "Philadelphia served as the U.S. capital during the American Revolution and was home to the Continental Congress."
+  },
+  {
+    "Question": "Who was known as the 'Father of the Constitution'?",
+    "Option A": "George Washington",
+    "Option B": "Thomas Jefferson",
+    "Option C": "James Madison",
+    "Option D": "Benjamin Franklin",
+    "Correct Answer": "James Madison",
+    "Interesting Fact": "James Madison earned the title for his pivotal role in drafting the U.S. Constitution and the Bill of Rights."
+  },
+  {
+    "Question": "What is the name of the U.S. space agency?",
+    "Option A": "NASA",
+    "Option B": "SpaceX",
+    "Option C": "Blue Origin",
+    "Option D": "ULA",
+    "Correct Answer": "NASA",
+    "Interesting Fact": "NASA (National Aeronautics and Space Administration) was established in 1958 and led the U.S. to the Moon in 1969."
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "Question": "Which NFL quarterback has won the most Super Bowls?",
+    "Option 1": "Peyton Manning",
+    "Option 2": "Tom Brady",
+    "Option 3": "Joe Montana",
+    "Option 4": "Patrick Mahomes",
+    "Correct Answer": "Tom Brady",
+    "Interesting Fact": "Tom Brady won seven Super Bowl titles, more than any single NFL franchise has."
+  },
+  {
+    "Question": "Who holds the record for most points in NBA history?",
+    "Option 1": "Michael Jordan",
+    "Option 2": "Kobe Bryant",
+    "Option 3": "LeBron James",
+    "Option 4": "Kareem Abdul-Jabbar",
+    "Correct Answer": "LeBron James",
+    "Interesting Fact": "LeBron James passed Kareem Abdul-Jabbar's long-standing scoring record in the year twenty-twenty-three."
+  },
+  {
+    "Question": "What is the distance of a standard marathon?",
+    "Option 1": "13.1 miles",
+    "Option 2": "26.2 miles",
+    "Option 3": "30 miles",
+    "Option 4": "20 miles",
+    "Correct Answer": "26.2 miles",
+    "Interesting Fact": "The specific distance was finalized during the nineteen-oh-eight Olympic Games held in London."
+  },
+  {
+    "Question": "Which MLB player was nicknamed \"The Sultan of Swat\"?",
+    "Option 1": "Ty Cobb",
+    "Option 2": "Hank Aaron",
+    "Option 3": "Babe Ruth",
+    "Option 4": "Ted Williams",
+    "Correct Answer": "Babe Ruth",
+    "Interesting Fact": "Babe Ruth began his legendary career as a very talented pitcher for the Red Sox."
+  },
+  {
+    "Question": "How many holes are played in a standard round of golf?",
+    "Option 1": 9,
+    "Option 2": 12,
+    "Option 3": 18,
+    "Option 4": 21,
+    "Correct Answer": 18,
+    "Interesting Fact": "St Andrews in Scotland established the eighteen-hole standard for the sport of golf."
+  },
+  {
+    "Question": "Who is the all-time leader in NHL goals?",
+    "Option 1": "Mario Lemieux",
+    "Option 2": "Wayne Gretzky",
+    "Option 3": "Alex Ovechkin",
+    "Option 4": "Bobby Orr",
+    "Correct Answer": "Wayne Gretzky",
+    "Interesting Fact": "Gretzky is the only player to total over two hundred points in one season."
+  },
+  {
+    "Question": "Which team won the first-ever Super Bowl?",
+    "Option 1": "Dallas Cowboys",
+    "Option 2": "Green Bay Packers",
+    "Option 3": "NY Jets",
+    "Option 4": "Kansas City Chiefs",
+    "Correct Answer": "Green Bay Packers",
+    "Interesting Fact": "They were led by legendary coach Vince Lombardi, for whom the trophy is named."
+  },
+  {
+    "Question": "How many points is a touchdown worth in football?",
+    "Option 1": 3,
+    "Option 2": 6,
+    "Option 3": 7,
+    "Option 4": 2,
+    "Correct Answer": 6,
+    "Interesting Fact": "After scoring a touchdown, teams can try for an extra point or two-point conversion."
+  },
+  {
+    "Question": "Who was the first African American MLB player?",
+    "Option 1": "Satchel Paige",
+    "Option 2": "Jackie Robinson",
+    "Option 3": "Willie Mays",
+    "Option 4": "Ernie Banks",
+    "Correct Answer": "Jackie Robinson",
+    "Interesting Fact": "Jackie Robinson broke the baseball color barrier when he joined the Dodgers in nineteen-forty-seven."
+  },
+  {
+    "Question": "Which city is home to the \"Monsters of the Midway\"?",
+    "Option 1": "Detroit",
+    "Option 2": "Chicago",
+    "Option 3": "Cleveland",
+    "Option 4": "Pittsburgh",
+    "Correct Answer": "Chicago",
+    "Interesting Fact": "This nickname specifically refers to the tough defensive line of the Chicago Bears team."
+  },
+  {
+    "Question": "In tennis, what term is used for a score of zero?",
+    "Option 1": "Nil",
+    "Option 2": "Naught",
+    "Option 3": "Love",
+    "Option 4": "Zip",
+    "Correct Answer": "Love",
+    "Interesting Fact": "The term \"love\" likely comes from the French word \"l'oeuf,\" which means an egg."
+  },
+  {
+    "Question": "Who has won the most Olympic gold medals ever?",
+    "Option 1": "Usain Bolt",
+    "Option 2": "Michael Phelps",
+    "Option 3": "Carl Lewis",
+    "Option 4": "Simone Biles",
+    "Correct Answer": "Michael Phelps",
+    "Interesting Fact": "Michael Phelps won twenty-three gold medals throughout his incredible career as an Olympic swimmer."
+  },
+  {
+    "Question": "What is the name of the NHL championship trophy?",
+    "Option 1": "The Vince Lombardi",
+    "Option 2": "The Stanley Cup",
+    "Option 3": "The Commissioner's",
+    "Option 4": "The Larry O'Brien",
+    "Correct Answer": "The Stanley Cup",
+    "Interesting Fact": "The Stanley Cup is the oldest professional sports trophy in all of North America."
+  },
+  {
+    "Question": "Which NBA team has the \"Splash Brothers\"?",
+    "Option 1": "LA Lakers",
+    "Option 2": "Golden State Warriors",
+    "Option 3": "Boston Celtics",
+    "Option 4": "Phoenix Suns",
+    "Correct Answer": "Golden State Warriors",
+    "Interesting Fact": "Steph Curry and Klay Thompson earned this nickname for their elite three-point shooting skills."
+  },
+  {
+    "Question": "What do you call it when a bowler gets three strikes?",
+    "Option 1": "A Hat-trick",
+    "Option 2": "A Triple Play",
+    "Option 3": "A Turkey",
+    "Option 4": "A Slam",
+    "Correct Answer": "A Turkey",
+    "Interesting Fact": "This term dates back to times when real turkeys were given as holiday prizes."
+  },
+  {
+    "Question": "Which golfer is nicknamed \"The Big Cat\"?",
+    "Option 1": "Jack Nicklaus",
+    "Option 2": "Tiger Woods",
+    "Option 3": "Arnold Palmer",
+    "Option 4": "Phil Mickelson",
+    "Correct Answer": "Tiger Woods",
+    "Interesting Fact": "Tiger Woods is tied for the most PGA Tour wins in the history of golf."
+  },
+  {
+    "Question": "How many players are on the field for one NFL team?",
+    "Option 1": 9,
+    "Option 2": 10,
+    "Option 3": 11,
+    "Option 4": 12,
+    "Correct Answer": 11,
+    "Interesting Fact": "Each side has eleven players, including the offensive, defensive, and special teams units."
+  },
+  {
+    "Question": "Which baseball team plays at Fenway Park?",
+    "Option 1": "NY Yankees",
+    "Option 2": "Boston Red Sox",
+    "Option 3": "Chicago Cubs",
+    "Option 4": "LA Dodgers",
+    "Correct Answer": "Boston Red Sox",
+    "Interesting Fact": "Fenway Park is famous for the \"Green Monster,\" a very tall left-field wall."
+  },
+  {
+    "Question": "Who is known as \"The Greatest\" in boxing?",
+    "Option 1": "Mike Tyson",
+    "Option 2": "Floyd Mayweather",
+    "Option 3": "Muhammad Ali",
+    "Option 4": "Joe Louis",
+    "Correct Answer": "Muhammad Ali",
+    "Interesting Fact": "Ali was the first fighter to win the world heavyweight championship title three times."
+  },
+  {
+    "Question": "In basketball, how many seconds is the shot clock?",
+    "Option 1": 12,
+    "Option 2": 24,
+    "Option 3": 30,
+    "Option 4": 35,
+    "Correct Answer": 24,
+    "Interesting Fact": "The introduction of the shot clock in nineteen-fifty-four saved the NBA from low-scoring games."
+  },
+  {
+    "Question": "Which NFL team is the only one with a star on their helmet?",
+    "Option 1": "Houston Texans",
+    "Option 2": "Dallas Cowboys",
+    "Option 3": "New England Patriots",
+    "Option 4": "Indianapolis Colts",
+    "Correct Answer": "Dallas Cowboys",
+    "Interesting Fact": "The Cowboys are often called \"America's Team\" due to their massive and loyal fanbase."
+  },
+  {
+    "Question": "Who was the first gymnast to score a perfect 10?",
+    "Option 1": "Mary Lou Retton",
+    "Option 2": "Nadia Comaneci",
+    "Option 3": "Simone Biles",
+    "Option 4": "Gabby Douglas",
+    "Correct Answer": "Nadia Comaneci",
+    "Interesting Fact": "At the nineteen-seventy-six Olympics, the scoreboard wasn't even built to display four digits."
+  },
+  {
+    "Question": "What is the maximum score possible in a game of bowling?",
+    "Option 1": 100,
+    "Option 2": 200,
+    "Option 3": 300,
+    "Option 4": 500,
+    "Correct Answer": 300,
+    "Interesting Fact": "A perfect game requires twelve consecutive strikes from the first frame to the last."
+  },
+  {
+    "Question": "Which MLB team has won the most World Series titles?",
+    "Option 1": "St. Louis Cardinals",
+    "Option 2": "NY Yankees",
+    "Option 3": "SF Giants",
+    "Option 4": "Boston Red Sox",
+    "Correct Answer": "NY Yankees",
+    "Interesting Fact": "The Yankees have won twenty-seven championships, the most in any major North American sport."
+  },
+  {
+    "Question": "What color jersey does the leader of the Tour de France wear?",
+    "Option 1": "Red",
+    "Option 2": "Yellow",
+    "Option 3": "Green",
+    "Option 4": "Blue",
+    "Correct Answer": "Yellow",
+    "Interesting Fact": "The yellow jersey allows spectators to easily identify the overall leader of the race."
+  },
+  {
+    "Question": "How many bases are on a baseball field?",
+    "Option 1": 3,
+    "Option 2": 4,
+    "Option 3": 5,
+    "Option 4": 2,
+    "Correct Answer": 4,
+    "Interesting Fact": "A player must touch first, second, third, and home plate to score a run."
+  },
+  {
+    "Question": "Who is the youngest player to ever win the Masters?",
+    "Option 1": "Jack Nicklaus",
+    "Option 2": "Tiger Woods",
+    "Option 3": "Jordan Spieth",
+    "Option 4": "Rory McIlroy",
+    "Correct Answer": "Tiger Woods",
+    "Interesting Fact": "Tiger was just twenty-one years old when he won his first green jacket in nineteen-ninety-seven."
+  },
+  {
+    "Question": "What is the nickname for the NHL team in Las Vegas?",
+    "Option 1": "Golden Knights",
+    "Option 2": "Raiders",
+    "Option 3": "Kings",
+    "Option 4": "Silver Stars",
+    "Correct Answer": "Golden Knights",
+    "Interesting Fact": "They reached the Stanley Cup Finals in their very first year as an expansion team."
+  },
+  {
+    "Question": "Which woman has won the most Grand Slam tennis titles?",
+    "Option 1": "Serena Williams",
+    "Option 2": "Venus Williams",
+    "Option 3": "Steffi Graf",
+    "Option 4": "Maria Sharapova",
+    "Correct Answer": "Serena Williams",
+    "Interesting Fact": "Serena Williams has won twenty-three Grand Slam titles during the modern Open Era of tennis."
+  },
+  {
+    "Question": "In football, what is it called when a player loses the ball?",
+    "Option 1": "Interception",
+    "Option 2": "Fumble",
+    "Option 3": "Sack",
+    "Option 4": "Incomplete",
+    "Correct Answer": "Fumble",
+    "Interesting Fact": "A fumble occurs when a player drops the ball before they are ruled down."
+  },
+  {
+    "Question": "Which NBA player was the inspiration for the logo?",
+    "Option 1": "Michael Jordan",
+    "Option 2": "Jerry West",
+    "Option 3": "Wilt Chamberlain",
+    "Option 4": "Magic Johnson",
+    "Correct Answer": "Jerry West",
+    "Interesting Fact": "The silhouette on the NBA logo is based on a photo of Jerry West dribbling."
+  },
+  {
+    "Question": "How long is a standard swimming pool in the Olympics?",
+    "Option 1": "25 meters",
+    "Option 2": "50 meters",
+    "Option 3": "100 meters",
+    "Option 4": "75 meters",
+    "Correct Answer": "50 meters",
+    "Interesting Fact": "An Olympic-size pool contains about six hundred and sixty thousand gallons of fresh water."
+  },
+  {
+    "Question": "Which NFL team is known for the \"Steel Curtain\" defense?",
+    "Option 1": "Cleveland Browns",
+    "Option 2": "Pittsburgh Steelers",
+    "Option 3": "Baltimore Ravens",
+    "Option 4": "Chicago Bears",
+    "Correct Answer": "Pittsburgh Steelers",
+    "Interesting Fact": "This famous defensive line helped the team win four Super Bowls in the nineteen-seventies."
+  },
+  {
+    "Question": "What do you call a home run with bases loaded?",
+    "Option 1": "Power Slam",
+    "Option 2": "Grand Slam",
+    "Option 3": "Triple Crown",
+    "Option 4": "Home Run XL",
+    "Correct Answer": "Grand Slam",
+    "Interesting Fact": "A grand slam results in four runs being scored for the team at bat."
+  },
+  {
+    "Question": "Who was nicknamed \"Black Mamba\" in the NBA?",
+    "Option 1": "Shaquille O'Neal",
+    "Option 2": "Kobe Bryant",
+    "Option 3": "Kevin Durant",
+    "Option 4": "Allen Iverson",
+    "Correct Answer": "Kobe Bryant",
+    "Interesting Fact": "Kobe Bryant chose the nickname to represent his agility and his deadly accuracy on court."
+  },
+  {
+    "Question": "Which city hosts the oldest marathon in the United States?",
+    "Option 1": "New York",
+    "Option 2": "Chicago",
+    "Option 3": "Boston",
+    "Option 4": "Los Angeles",
+    "Correct Answer": "Boston",
+    "Interesting Fact": "The Boston Marathon has been held annually since eighteen-ninety-seven on Patriots' Day."
+  },
+  {
+    "Question": "In what sport would you use a \"puck\"?",
+    "Option 1": "Field Hockey",
+    "Option 2": "Ice Hockey",
+    "Option 3": "Lacrosse",
+    "Option 4": "Water Polo",
+    "Correct Answer": "Ice Hockey",
+    "Interesting Fact": "Standard hockey pucks are made of vulcanized rubber and are frozen before the game starts."
+  },
+  {
+    "Question": "Who famously wore the number 23 for the Chicago Bulls?",
+    "Option 1": "Scottie Pippen",
+    "Option 2": "Michael Jordan",
+    "Option 3": "Dennis Rodman",
+    "Option 4": "Steve Kerr",
+    "Correct Answer": "Michael Jordan",
+    "Interesting Fact": "Michael Jordan led the Bulls to six NBA championships and won five MVP awards."
+  },
+  {
+    "Question": "Which horse race is known as \"The Run for the Roses\"?",
+    "Option 1": "Preakness Stakes",
+    "Option 2": "Belmont Stakes",
+    "Option 3": "Kentucky Derby",
+    "Option 4": "Breeders' Cup",
+    "Correct Answer": "Kentucky Derby",
+    "Interesting Fact": "The winner is traditionally draped in a large blanket of over four hundred red roses."
+  },
+  {
+    "Question": "How many minutes are in a single quarter of an NFL game?",
+    "Option 1": 10,
+    "Option 2": 12,
+    "Option 3": 15,
+    "Option 4": 20,
+    "Correct Answer": 15,
+    "Interesting Fact": "A full game consists of four quarters totaling sixty minutes of official game time."
+  },
+  {
+    "Question": "Which MLB pitcher was known as \"The Ryan Express\"?",
+    "Option 1": "Roger Clemens",
+    "Option 2": "Nolan Ryan",
+    "Option 3": "Randy Johnson",
+    "Option 4": "Cy Young",
+    "Correct Answer": "Nolan Ryan",
+    "Interesting Fact": "Nolan Ryan holds the record for the most career strikeouts and seven career no-hitters."
+  },
+  {
+    "Question": "What is the name of the soccer team in Miami?",
+    "Option 1": "Inter Miami CF",
+    "Option 2": "Miami United",
+    "Option 3": "South Beach FC",
+    "Option 4": "Real Miami",
+    "Correct Answer": "Inter Miami CF",
+    "Interesting Fact": "The team gained global attention when they signed world superstar Lionel Messi in twenty-twenty-three."
+  },
+  {
+    "Question": "Who is the only player to score 100 points in one NBA game?",
+    "Option 1": "Michael Jordan",
+    "Option 2": "Wilt Chamberlain",
+    "Option 3": "Kobe Bryant",
+    "Option 4": "Larry Bird",
+    "Correct Answer": "Wilt Chamberlain",
+    "Interesting Fact": "Wilt achieved this incredible feat in nineteen-sixty-two while playing for the Philadelphia Warriors."
+  },
+  {
+    "Question": "Which city's MLB team is nicknamed the \"Bronx Bombers\"?",
+    "Option 1": "Boston",
+    "Option 2": "New York",
+    "Option 3": "Philadelphia",
+    "Option 4": "Chicago",
+    "Correct Answer": "New York",
+    "Interesting Fact": "This nickname refers to the New York Yankees and their stadium's location in the Bronx."
+  },
+  {
+    "Question": "What is the standard number of players on an NBA court?",
+    "Option 1": 4,
+    "Option 2": 5,
+    "Option 3": 6,
+    "Option 4": 10,
+    "Correct Answer": 5,
+    "Interesting Fact": "Each team plays five players at a time, usually including a center and two guards."
+  },
+  {
+    "Question": "Which quarterback was the first to win a Super Bowl with two different teams?",
+    "Option 1": "Tom Brady",
+    "Option 2": "Peyton Manning",
+    "Option 3": "Kurt Warner",
+    "Option 4": "Brett Favre",
+    "Correct Answer": "Peyton Manning",
+    "Interesting Fact": "Manning won championships with both the Indianapolis Colts and the Denver Broncos during his career."
+  },
+  {
+    "Question": "In baseball, what is the distance between the bases?",
+    "Option 1": "60 feet",
+    "Option 2": "75 feet",
+    "Option 3": "90 feet",
+    "Option 4": "100 feet",
+    "Correct Answer": "90 feet",
+    "Interesting Fact": "The ninety-foot distance creates a perfect balance between the runner and the defensive throw."
+  },
+  {
+    "Question": "Which country wins the most medals in the Winter Olympics?",
+    "Option 1": "USA",
+    "Option 2": "Norway",
+    "Option 3": "Canada",
+    "Option 4": "Germany",
+    "Correct Answer": "Norway",
+    "Interesting Fact": "Despite its small population, Norway dominates winter sports like cross-country skiing and speed skating."
+  },
+  {
+    "Question": "Who is the \"Greatest of All Time\" (GOAT) in women's gymnastics?",
+    "Option 1": "Mary Lou Retton",
+    "Option 2": "Simone Biles",
+    "Option 3": "Suni Lee",
+    "Option 4": "Nastia Liukin",
+    "Correct Answer": "Simone Biles",
+    "Interesting Fact": "Simone Biles has won more world championship medals than any other gymnast in history."
+  },
+  {
+    "Question": "What is the name of the stadium where the Dallas Cowboys play?",
+    "Option 1": "AT&T Stadium",
+    "Option 2": "NRG Stadium",
+    "Option 3": "Ford Field",
+    "Option 4": "MetLife Stadium",
+    "Correct Answer": "AT&T Stadium",
+    "Interesting Fact": "The stadium is famous for its massive high-definition video screen hanging over the field."
+  },
+  {
+    "Question": "Which NBA player has the most championship rings?",
+    "Option 1": "Michael Jordan",
+    "Option 2": "Bill Russell",
+    "Option 3": "LeBron James",
+    "Option 4": "Magic Johnson",
+    "Correct Answer": "Bill Russell",
+    "Interesting Fact": "Bill Russell won eleven NBA titles during his thirteen seasons with the Boston Celtics."
+  },
+  {
+    "Question": "Who is the NFL's all-time leading rusher?",
+    "Option 1": "Barry Sanders",
+    "Option 2": "Walter Payton",
+    "Option 3": "Emmitt Smith",
+    "Option 4": "Adrian Peterson",
+    "Correct Answer": "Emmitt Smith",
+    "Interesting Fact": "Smith finished his incredible career with eighteen thousand three hundred and fifty-five rushing yards."
+  },
+  {
+    "Question": "Which MLB player hit 714 career home runs?",
+    "Option 1": "Hank Aaron",
+    "Option 2": "Babe Ruth",
+    "Option 3": "Willie Mays",
+    "Option 4": "Barry Bonds",
+    "Correct Answer": "Babe Ruth",
+    "Interesting Fact": "Ruth held the all-time home run record for thirty-nine years before being passed."
+  },
+  {
+    "Question": "In which city do the \"Broad Street Bullies\" play?",
+    "Option 1": "Boston",
+    "Option 2": "New York",
+    "Option 3": "Philadelphia",
+    "Option 4": "Chicago",
+    "Correct Answer": "Philadelphia",
+    "Interesting Fact": "This nickname refers to the aggressive style of the Philadelphia Flyers in the seventies."
+  },
+  {
+    "Question": "Who is the only coach to win a Super Bowl and a NCAA title?",
+    "Option 1": "Jimmy Johnson",
+    "Option 2": "Barry Switzer",
+    "Option 3": "Pete Carroll",
+    "Option 4": "All of these",
+    "Correct Answer": "All of these",
+    "Interesting Fact": "Achieving success at both college and professional levels is a very rare coaching feat."
+  },
+  {
+    "Question": "Which NBA star is known as \"The Greek Freak\"?",
+    "Option 1": "Luka Doncic",
+    "Option 2": "Giannis Antetokounmpo",
+    "Option 3": "Nikola Jokic",
+    "Option 4": "Joel Embiid",
+    "Correct Answer": "Giannis Antetokounmpo",
+    "Interesting Fact": "Giannis rose from the second division in Greece to become a two-time NBA MVP."
+  },
+  {
+    "Question": "What is the highest score a gymnast can get today?",
+    "Option 1": 10,
+    "Option 2": 15,
+    "Option 3": "Open-ended",
+    "Option 4": 20,
+    "Correct Answer": "Open-ended",
+    "Interesting Fact": "The \"Perfect 10\" system was replaced by an open-ended scoring system in two-thousand-six."
+  },
+  {
+    "Question": "Which MLB team is famous for the \"Curse of the Bambino\"?",
+    "Option 1": "Chicago Cubs",
+    "Option 2": "Boston Red Sox",
+    "Option 3": "NY Mets",
+    "Option 4": "Cleveland Guardians",
+    "Correct Answer": "Boston Red Sox",
+    "Interesting Fact": "The curse supposedly began when the team sold Babe Ruth to the rival Yankees."
+  },
+  {
+    "Question": "Who holds the record for most touchdowns in a single NFL season?",
+    "Option 1": "Randy Moss",
+    "Option 2": "LaDainian Tomlinson",
+    "Option 3": "Jerry Rice",
+    "Option 4": "Shaun Alexander",
+    "Correct Answer": "LaDainian Tomlinson",
+    "Interesting Fact": "Tomlinson scored thirty-one total touchdowns during his historic two-thousand-six season with the Chargers."
+  },
+  {
+    "Question": "In golf, what do you call scoring two under par on a hole?",
+    "Option 1": "Birdie",
+    "Option 2": "Eagle",
+    "Option 3": "Albatross",
+    "Option 4": "Bogey",
+    "Correct Answer": "Eagle",
+    "Interesting Fact": "An eagle is a great achievement that helps a golfer lower their overall score."
+  },
+  {
+    "Question": "Which tennis tournament is played on red clay courts?",
+    "Option 1": "Wimbledon",
+    "Option 2": "US Open",
+    "Option 3": "French Open",
+    "Option 4": "Australian Open",
+    "Correct Answer": "French Open",
+    "Interesting Fact": "Playing on clay requires great sliding skills and changes how the tennis ball bounces."
+  },
+  {
+    "Question": "Who was the first pick in the 2023 NBA Draft?",
+    "Option 1": "Chet Holmgren",
+    "Option 2": "Victor Wembanyama",
+    "Option 3": "Paolo Banchero",
+    "Option 4": "Scoot Henderson",
+    "Correct Answer": "Victor Wembanyama",
+    "Interesting Fact": "Standing over seven feet tall, he is considered a once-in-a-generation basketball talent from France."
+  },
+  {
+    "Question": "Which NFL team has a \"Cheesehead\" fanbase?",
+    "Option 1": "Minnesota Vikings",
+    "Option 2": "Green Bay Packers",
+    "Option 3": "Detroit Lions",
+    "Option 4": "Chicago Bears",
+    "Correct Answer": "Green Bay Packers",
+    "Interesting Fact": "Fans wear foam cheese hats to show pride for Wisconsin's famous dairy production industry."
+  },
+  {
+    "Question": "What is the name of the MLB championship trophy?",
+    "Option 1": "The Stanley Cup",
+    "Option 2": "The Lombardi Trophy",
+    "Option 3": "The Commissioner's Trophy",
+    "Option 4": "The Heisman",
+    "Correct Answer": "The Commissioner's Trophy",
+    "Interesting Fact": "It is the only championship trophy in the four major sports not named after someone."
+  },
+  {
+    "Question": "Who is the all-time leader in Olympic medals?",
+    "Option 1": "Michael Phelps",
+    "Option 2": "Larisa Latynina",
+    "Option 3": "Usain Bolt",
+    "Option 4": "Katie Ledecky",
+    "Correct Answer": "Michael Phelps",
+    "Interesting Fact": "Phelps won a total of twenty-eight medals across five different Olympic Games appearances."
+  },
+  {
+    "Question": "In boxing, what does \"TKO\" stand for?",
+    "Option 1": "Total Knock Out",
+    "Option 2": "Technical Knock Out",
+    "Option 3": "Timed Knock Out",
+    "Option 4": "Tough Knock Out",
+    "Correct Answer": "Technical Knock Out",
+    "Interesting Fact": "A TKO occurs when the referee stops the fight because a boxer cannot continue."
+  },
+  {
+    "Question": "Which city is home to the \"Cameron Crazies\" fans?",
+    "Option 1": "Kentucky",
+    "Option 2": "Duke",
+    "Option 3": "Kansas",
+    "Option 4": "North Carolina",
+    "Correct Answer": "Duke",
+    "Interesting Fact": "These energetic students are famous for making Duke's home games very difficult for opponents."
+  },
+  {
+    "Question": "What is the distance from the pitcher's mound to home plate?",
+    "Option 1": "50 feet",
+    "Option 2": "60 feet 6 inches",
+    "Option 3": "70 feet",
+    "Option 4": "90 feet",
+    "Correct Answer": "60 feet 6 inches",
+    "Interesting Fact": "This precise distance has remained the same in Major League Baseball since eighteen-ninety-three."
+  },
+  {
+    "Question": "Who is the only player to win Heisman and Super Bowl MVP?",
+    "Option 1": "Marcus Mariota",
+    "Option 2": "Desmond Howard",
+    "Option 3": "Cam Newton",
+    "Option 4": "Charles Woodson",
+    "Correct Answer": "Desmond Howard",
+    "Interesting Fact": "Howard won the Heisman at Michigan and later earned Super Bowl MVP with Green Bay."
+  },
+  {
+    "Question": "Which NBA team plays at Madison Square Garden?",
+    "Option 1": "Brooklyn Nets",
+    "Option 2": "New York Knicks",
+    "Option 3": "Philadelphia 76ers",
+    "Option 4": "Boston Celtics",
+    "Correct Answer": "New York Knicks",
+    "Interesting Fact": "Madison Square Garden is often called \"The World's Most Famous Arena\" by sports fans."
+  },
+  {
+    "Question": "What is the name of the annual college football championship game?",
+    "Option 1": "The Pro Bowl",
+    "Option 2": "The Rose Bowl",
+    "Option 3": "The CFP National Championship",
+    "Option 4": "The Orange Bowl",
+    "Correct Answer": "The CFP National Championship",
+    "Interesting Fact": "Four teams compete in a playoff system to determine the best college football team."
+  },
+  {
+    "Question": "Who was the first woman to drive in the Indy 500?",
+    "Option 1": "Danica Patrick",
+    "Option 2": "Janet Guthrie",
+    "Option 3": "Lyn St. James",
+    "Option 4": "Sarah Fisher",
+    "Correct Answer": "Janet Guthrie",
+    "Interesting Fact": "Janet Guthrie broke barriers for women in motorsports when she qualified in nineteen-seventy-seven."
+  },
+  {
+    "Question": "Which NFL stadium is known as \"The Frozen Tundra\"?",
+    "Option 1": "Soldier Field",
+    "Option 2": "Lambeau Field",
+    "Option 3": "Heinz Field",
+    "Option 4": "Arrowhead Stadium",
+    "Correct Answer": "Lambeau Field",
+    "Interesting Fact": "The nickname comes from a famously cold NFL championship game played in nineteen-sixty-seven."
+  },
+  {
+    "Question": "How many minutes are in an NBA quarter?",
+    "Option 1": 10,
+    "Option 2": 12,
+    "Option 3": 15,
+    "Option 4": 20,
+    "Correct Answer": 12,
+    "Interesting Fact": "A standard NBA game consists of four twelve-minute quarters for a forty-eight-minute total."
+  },
+  {
+    "Question": "Which MLB player hit the most career home runs?",
+    "Option 1": "Babe Ruth",
+    "Option 2": "Hank Aaron",
+    "Option 3": "Barry Bonds",
+    "Option 4": "Alex Rodriguez",
+    "Correct Answer": "Barry Bonds",
+    "Interesting Fact": "Barry Bonds finished his career with a record-breaking seven hundred and sixty-two home runs."
+  },
+  {
+    "Question": "Who is the mascot for the Philadelphia Phillies?",
+    "Option 1": "The Oriole Bird",
+    "Option 2": "Phillie Phanatic",
+    "Option 3": "Mr. Met",
+    "Option 4": "Bernie Brewer",
+    "Correct Answer": "Phillie Phanatic",
+    "Interesting Fact": "This large green creature is one of the most recognizable mascots in all of sports."
+  },
+  {
+    "Question": "In what year were the first modern Olympic Games held?",
+    "Option 1": 1776,
+    "Option 2": 1896,
+    "Option 3": 1920,
+    "Option 4": 1950,
+    "Correct Answer": 1896,
+    "Interesting Fact": "The first modern games were held in Athens, Greece, to honor the ancient traditions."
+  },
+  {
+    "Question": "Which NHL player is known as \"The Great One\"?",
+    "Option 1": "Mario Lemieux",
+    "Option 2": "Sidney Crosby",
+    "Option 3": "Wayne Gretzky",
+    "Option 4": "Connor McDavid",
+    "Correct Answer": "Wayne Gretzky",
+    "Interesting Fact": "Gretzky's number ninety-nine is the only jersey number retired by every team in the NHL."
+  },
+  {
+    "Question": "What is the term for three goals scored by one player?",
+    "Option 1": "Turkey",
+    "Option 2": "Hat-trick",
+    "Option 3": "Triple Play",
+    "Option 4": "Grand Slam",
+    "Correct Answer": "Hat-trick",
+    "Interesting Fact": "This term is used in soccer and hockey when a player scores three times."
+  },
+  {
+    "Question": "Which NBA team has won the most championships?",
+    "Option 1": "LA Lakers",
+    "Option 2": "Boston Celtics",
+    "Option 3": "Golden State Warriors",
+    "Option 4": "Chicago Bulls",
+    "Correct Answer": "Boston Celtics",
+    "Interesting Fact": "The Celtics have won eighteen titles, the most in NBA history as of twenty-twenty-four."
+  },
+  {
+    "Question": "Who was the first pick in the 2024 NFL Draft?",
+    "Option 1": "Jayden Daniels",
+    "Option 2": "Caleb Williams",
+    "Option 3": "Drake Maye",
+    "Option 4": "Marvin Harrison Jr.",
+    "Correct Answer": "Caleb Williams",
+    "Interesting Fact": "The Chicago Bears selected this talented quarterback from USC with the first overall pick."
+  },
+  {
+    "Question": "Which golf tournament gives the winner a \"Green Jacket\"?",
+    "Option 1": "US Open",
+    "Option 2": "The Open",
+    "Option 3": "The Masters",
+    "Option 4": "PGA Championship",
+    "Correct Answer": "The Masters",
+    "Interesting Fact": "Every year, the previous winner helps the new champion put on the iconic green jacket."
+  },
+  {
+    "Question": "How many players are on a baseball defense?",
+    "Option 1": 8,
+    "Option 2": 9,
+    "Option 3": 10,
+    "Option 4": 11,
+    "Correct Answer": 9,
+    "Interesting Fact": "There are nine defensive positions, including the pitcher, catcher, and three outfielders on field."
+  },
+  {
+    "Question": "Who is the all-time leader in three-pointers made?",
+    "Option 1": "Ray Allen",
+    "Option 2": "Reggie Miller",
+    "Option 3": "Stephen Curry",
+    "Option 4": "James Harden",
+    "Correct Answer": "Stephen Curry",
+    "Interesting Fact": "Curry changed the game of basketball with his incredible long-distance shooting range and accuracy."
+  },
+  {
+    "Question": "Which NFL team went undefeated for an entire season?",
+    "Option 1": "1972 Miami Dolphins",
+    "Option 2": "1985 Chicago Bears",
+    "Option 3": "2007 NE Patriots",
+    "Option 4": "1990 SF 49ers",
+    "Correct Answer": "1972 Miami Dolphins",
+    "Interesting Fact": "The nineteen-seventy-two Dolphins are the only team to finish a season perfectly with no losses."
+  },
+  {
+    "Question": "What is the \"triple crown\" in horse racing?",
+    "Option 1": "3 wins",
+    "Option 2": "3 races",
+    "Option 3": "Kentucky, Preakness, Belmont",
+    "Option 4": "Derby, Cup, Stakes",
+    "Correct Answer": "Kentucky, Preakness, Belmont",
+    "Interesting Fact": "Winning all three races in one season is considered the greatest achievement in horse racing."
+  },
+  {
+    "Question": "Who played the most consecutive games in MLB history?",
+    "Option 1": "Lou Gehrig",
+    "Option 2": "Cal Ripken Jr.",
+    "Option 3": "Derek Jeter",
+    "Option 4": "Pete Rose",
+    "Correct Answer": "Cal Ripken Jr.",
+    "Interesting Fact": "Known as \"The Iron Man,\" he played in two thousand six hundred thirty-two straight games."
+  },
+  {
+    "Question": "In the NFL, what is the length of a football field?",
+    "Option 1": "50 yards",
+    "Option 2": "100 yards",
+    "Option 3": "120 yards",
+    "Option 4": "150 yards",
+    "Correct Answer": "120 yards",
+    "Interesting Fact": "The field is one hundred yards long with two ten-yard end zones at each end."
+  },
+  {
+    "Question": "Which country has won the most FIFA World Cups?",
+    "Option 1": "Germany",
+    "Option 2": "Argentina",
+    "Option 3": "Brazil",
+    "Option 4": "Italy",
+    "Correct Answer": "Brazil",
+    "Interesting Fact": "Brazil has won five World Cup titles, more than any other nation in the world."
+  },
+  {
+    "Question": "Who is the current face of the Kansas City Chiefs?",
+    "Option 1": "Tyreek Hill",
+    "Option 2": "Travis Kelce",
+    "Option 3": "Patrick Mahomes",
+    "Option 4": "Chris Jones",
+    "Correct Answer": "Patrick Mahomes",
+    "Interesting Fact": "Mahomes won three Super Bowls and two MVP awards before turning twenty-nine years old."
+  },
+  {
+    "Question": "What is the term for a zero-zero tie in soccer?",
+    "Option 1": "Nil-Nil",
+    "Option 2": "Clean Sheet",
+    "Option 3": "Draw",
+    "Option 4": "Scoreless",
+    "Correct Answer": "Nil-Nil",
+    "Interesting Fact": "Soccer fans use the word \"nil\" to represent a score of zero during a match."
+  },
+  {
+    "Question": "Which tennis surface is used at Wimbledon?",
+    "Option 1": "Clay",
+    "Option 2": "Hard Court",
+    "Option 3": "Grass",
+    "Option 4": "Carpet",
+    "Correct Answer": "Grass",
+    "Interesting Fact": "Wimbledon is the only Grand Slam tournament still played on traditional natural grass courts."
+  },
+  {
+    "Question": "Who was the first overall pick in the 2024 WNBA Draft?",
+    "Option 1": "Cameron Brink",
+    "Option 2": "Caitlin Clark",
+    "Option 3": "Kamilla Cardoso",
+    "Option 4": "Angel Reese",
+    "Correct Answer": "Caitlin Clark",
+    "Interesting Fact": "Caitlin Clark broke many scoring records in college before being drafted by the Indiana Fever."
+  },
+  {
+    "Question": "Which MLB team plays at Wrigley Field?",
+    "Option 1": "Chicago White Sox",
+    "Option 2": "Chicago Cubs",
+    "Option 3": "Detroit Tigers",
+    "Option 4": "St. Louis Cardinals",
+    "Correct Answer": "Chicago Cubs",
+    "Interesting Fact": "Wrigley Field is famous for its ivy-covered outfield walls and its manual scoreboard system."
+  },
+  {
+    "Question": "In the NBA, how many fouls does it take to \"foul out\"?",
+    "Option 1": 4,
+    "Option 2": 5,
+    "Option 3": 6,
+    "Option 4": 7,
+    "Correct Answer": 6,
+    "Interesting Fact": "Once a player reaches six personal fouls, they must leave the game for good."
+  },
+  {
+    "Question": "Who is the leader in all-time interceptions in the NFL?",
+    "Option 1": "Deion Sanders",
+    "Option 2": "Paul Krause",
+    "Option 3": "Ed Reed",
+    "Option 4": "Rod Woodson",
+    "Correct Answer": "Paul Krause",
+    "Interesting Fact": "Paul Krause recorded eighty-one interceptions during his sixteen-year career in the National Football League."
+  },
+  {
+    "Question": "Which city hosted the 1996 Summer Olympics?",
+    "Option 1": "Los Angeles",
+    "Option 2": "Atlanta",
+    "Option 3": "Chicago",
+    "Option 4": "New York",
+    "Correct Answer": "Atlanta",
+    "Interesting Fact": "The Atlanta Games celebrated the centennial anniversary of the modern Olympic movement in style."
+  },
+  {
+    "Question": "What is the name of the trophy for the NHL's best player?",
+    "Option 1": "The Hart Trophy",
+    "Option 2": "The Norris Trophy",
+    "Option 3": "The Vezina Trophy",
+    "Option 4": "The Calder Trophy",
+    "Correct Answer": "The Hart Trophy",
+    "Interesting Fact": "The Hart Memorial Trophy is awarded annually to the most valuable player in the league."
+  },
+  {
+    "Question": "Who is the only athlete to play in a Super Bowl and World Series?",
+    "Option 1": "Bo Jackson",
+    "Option 2": "Deion Sanders",
+    "Option 3": "Tim Tebow",
+    "Option 4": "Russell Wilson",
+    "Correct Answer": "Deion Sanders",
+    "Interesting Fact": "Deion \"Prime Time\" Sanders is the only person to hit a homer and score a touchdown."
+  },
+  {
+    "Question": "What is the maximum number of clubs a golfer can carry?",
+    "Option 1": 10,
+    "Option 2": 12,
+    "Option 3": 14,
+    "Option 4": 16,
+    "Correct Answer": 14,
+    "Interesting Fact": "Professional golfers must carefully select their fourteen clubs to handle every possible shot on course."
+  }
+]
