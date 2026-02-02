@@ -23,6 +23,7 @@
         "productTitle": "American Adventure Pack",
         "productCode": "american_adventure_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/american_adventure.json"
     },
     {
@@ -36,6 +37,7 @@
         "productTitle": "5th Grader Genius Pack",
         "productCode": "5th_grader_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/5th_grader_genius.json"
     },
     {
@@ -49,6 +51,7 @@
         "productTitle": "Brainy Basics Science & Nature",
         "productCode": "science_nature_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/brainy_basics.json"
     },
     {
@@ -62,6 +65,7 @@
         "productTitle": "The Great Outdoors Pack",
         "productCode": "great_outdoors_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/great_outdoors.json"
     },
     {
@@ -75,6 +79,7 @@
         "productTitle": "Sports & Super Stars Pack",
         "productCode": "sports_stars_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/sports_super_star.json"
     },
     {
@@ -88,6 +93,7 @@
         "productTitle": "Kid's Curiosity Corner Pack",
         "productCode": "kids_curiosity_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/kids_corner.json"
     },
     {
@@ -101,6 +107,7 @@
         "productTitle": "Pop Culture Power-Up Pack",
         "productCode": "pop_culture_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/pop_culture.json"
     },
     {
@@ -114,6 +121,7 @@
         "productTitle": "Riddle Me This Pack",
         "productCode": "riddle_me_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/riddle_me_this.json"
     },
     {
@@ -127,6 +135,7 @@
         "productTitle": "Legends & Stories Pack",
         "productCode": "legends_stories_pack",
         "productPrice": "2.99",
+        "productPriceDis": "0.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/legend_stories.json"
     }
 ]
