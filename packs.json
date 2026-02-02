@@ -2,7 +2,7 @@
     {
         "id": "trivia_tester_pack",
         "name": "Trivia Taster",
-        "levels": 10,
+        "levels": 20,
         "image": "pkg:/images/MenuScreen/packs/UnFocus/trivia_tester_pack.png",
         "imageFocus": "pkg:/images/MenuScreen/packs/Focus/trivia_tester_pack.png",
         "bgImage": "pkg:/images/MenuScreen/packs/Bg/trivia_tester_pack.png",
@@ -22,7 +22,7 @@
         "isPaid": true,
         "productTitle": "American Adventure Pack",
         "productCode": "american_adventure_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/american_adventure.json"
     },
     {
@@ -35,7 +35,7 @@
         "isPaid": true,
         "productTitle": "5th Grader Genius Pack",
         "productCode": "5th_grader_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/5th_grader_genius.json"
     },
     {
@@ -48,7 +48,7 @@
         "isPaid": true,
         "productTitle": "Brainy Basics Science & Nature",
         "productCode": "science_nature_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/brainy_basics.json"
     },
     {
@@ -61,7 +61,7 @@
         "isPaid": true,
         "productTitle": "The Great Outdoors Pack",
         "productCode": "great_outdoors_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/great_outdoors.json"
     },
     {
@@ -74,7 +74,7 @@
         "isPaid": true,
         "productTitle": "Sports & Super Stars Pack",
         "productCode": "sports_stars_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/sports_super_star.json"
     },
     {
@@ -87,7 +87,7 @@
         "isPaid": true,
         "productTitle": "Kid's Curiosity Corner Pack",
         "productCode": "kids_curiosity_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/kids_corner.json"
     },
     {
@@ -100,7 +100,7 @@
         "isPaid": true,
         "productTitle": "Pop Culture Power-Up Pack",
         "productCode": "pop_culture_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/pop_culture.json"
     },
     {
@@ -113,7 +113,7 @@
         "isPaid": true,
         "productTitle": "Riddle Me This Pack",
         "productCode": "riddle_me_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/riddle_me_this.json"
     },
     {
@@ -126,7 +126,7 @@
         "isPaid": true,
         "productTitle": "Legends & Stories Pack",
         "productCode": "legends_stories_pack",
-        "productPrice": "1.99",
+        "productPrice": "2.99",
         "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/legend_stories.json"
     }
 ]
