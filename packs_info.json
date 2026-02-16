@@ -1,0 +1,214 @@
+[
+    {
+        "id": "trivia_tester_pack",
+        "name": "Trivia Taster",
+        "levels": 20,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/trivia_tester_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/trivia_tester_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/trivia_tester_pack.png",
+        "isPaid": false,
+        "productTitle": "",
+        "productCode": "",
+        "productCodeDis": "",
+        "productPrice": "FREE",
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/trivia_taster.json"
+    },
+    {
+        "id": "american_adventure_pack",
+        "name": "American Adventure",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/american_adventure_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/american_adventure_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/american_adventure_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "American Adventure",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "AmericanAdventure"
+        },
+        "discounted": {
+            "name": "American Adventure Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "AmericanAdventureDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/american_adventure.json"
+    },
+    {
+        "id": "5th_grader_pack",
+        "name": "5th Grader Genius",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/5th_grader_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/5th_grader_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/5th_grader_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "5th Grader Genius",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "5thGraderGenius"
+        },
+        "discounted": {
+            "name": "5th Grader Genius Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "5thGraderGeniusDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/5th_grader_genius.json"
+    },
+    {
+        "id": "science_nature_pack",
+        "name": "Brainy Basics: Science & Nature",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/science_nature_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/science_nature_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/science_nature_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "Brainy Basics",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "BrainyBasics"
+        },
+        "discounted": {
+            "name": "Brainy Basics Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "BrainyBasicsDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/brainy_basics.json"
+    },
+    {
+        "id": "great_outdoors_pack",
+        "name": "The Great Outdoors",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/great_outdoors_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/great_outdoors_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/great_outdoors_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "Great Outdoors",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "GreatOutdoors"
+        },
+        "discounted": {
+            "name": "Great Outdoors Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "GreatOutdoorsDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/great_outdoors.json"
+    },
+    {
+        "id": "sports_stars_pack",
+        "name": "Sports & Super Stars",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/sports_stars_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/sports_stars_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/sports_stars_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "Sports SuperStars",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "SportsSuperStars"
+        },
+        "discounted": {
+            "name": "Sports Super Star Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "SportsSuperStarDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/sports_super_star.json"
+    },
+    {
+        "id": "kids_curiosity_pack",
+        "name": "Kid's Curiosity Corner",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/kids_curiosity_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/kids_curiosity_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/kids_curiosity_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "Kids Corner",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "KidsCorner"
+        },
+        "discounted": {
+            "name": "Kids Corner Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "KidsCornerDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/kids_corner.json"
+    },
+    {
+        "id": "pop_culture_pack",
+        "name": "Pop Culture Power-Up",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/pop_culture_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/pop_culture_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/pop_culture_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "Pop Culture",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "PopCulture"
+        },
+        "discounted": {
+            "name": "Pop Culture Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "PopCultureDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/pop_culture.json"
+    },
+    {
+        "id": "riddle_me_pack",
+        "name": "Riddle Me This!",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/riddle_me_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/riddle_me_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/riddle_me_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "Riddle Me This",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "RiddleMeThis"
+        },
+        "discounted": {
+            "name": "Riddle Me This Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "RiddleMeThisDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/riddle_me_this.json"
+    },
+    {
+        "id": "legends_stories_pack",
+        "name": "Legends & Stories",
+        "levels": 100,
+        "image": "pkg:/images/MenuScreen/packs/UnFocus/legends_stories_pack.png",
+        "imageFocus": "pkg:/images/MenuScreen/packs/Focus/legends_stories_pack.png",
+        "bgImage": "pkg:/images/MenuScreen/packs/Bg/legends_stories_pack.png",
+        "isPaid": true,
+        "base": {
+            "name": "Legend & Stories",
+            "price": "Price tier 3",
+            "tier": 3,
+            "sku": "LegendStories"
+        },
+        "discounted": {
+            "name": "Legend & Stories Discounted",
+            "price": "Price tier 1",
+            "tier": 1,
+            "sku": "LegendStoriesDiscounted"
+        },
+        "levelJson": "https://raw.githubusercontent.com/commonfba/uj_triv_game/refs/heads/main/legend_stories.json"
+    }
+]
