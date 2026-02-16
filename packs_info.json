@@ -23,13 +23,13 @@
         "isPaid": true,
         "base": {
             "name": "American Adventure",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "AmericanAdventure"
         },
         "discounted": {
             "name": "American Adventure Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "AmericanAdventureDiscounted"
         },
@@ -45,13 +45,13 @@
         "isPaid": true,
         "base": {
             "name": "5th Grader Genius",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "5thGraderGenius"
         },
         "discounted": {
             "name": "5th Grader Genius Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "5thGraderGeniusDiscounted"
         },
@@ -67,13 +67,13 @@
         "isPaid": true,
         "base": {
             "name": "Brainy Basics",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "BrainyBasics"
         },
         "discounted": {
             "name": "Brainy Basics Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "BrainyBasicsDiscounted"
         },
@@ -89,13 +89,13 @@
         "isPaid": true,
         "base": {
             "name": "Great Outdoors",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "GreatOutdoors"
         },
         "discounted": {
             "name": "Great Outdoors Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "GreatOutdoorsDiscounted"
         },
@@ -111,13 +111,13 @@
         "isPaid": true,
         "base": {
             "name": "Sports SuperStars",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "SportsSuperStars"
         },
         "discounted": {
             "name": "Sports Super Star Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "SportsSuperStarDiscounted"
         },
@@ -133,13 +133,13 @@
         "isPaid": true,
         "base": {
             "name": "Kids Corner",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "KidsCorner"
         },
         "discounted": {
             "name": "Kids Corner Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "KidsCornerDiscounted"
         },
@@ -155,13 +155,13 @@
         "isPaid": true,
         "base": {
             "name": "Pop Culture",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "PopCulture"
         },
         "discounted": {
             "name": "Pop Culture Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "PopCultureDiscounted"
         },
@@ -177,13 +177,13 @@
         "isPaid": true,
         "base": {
             "name": "Riddle Me This",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "RiddleMeThis"
         },
         "discounted": {
             "name": "Riddle Me This Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "RiddleMeThisDiscounted"
         },
@@ -199,13 +199,13 @@
         "isPaid": true,
         "base": {
             "name": "Legend & Stories",
-            "price": "Price tier 3",
+            "price": "2.99",
             "tier": 3,
             "sku": "LegendStories"
         },
         "discounted": {
             "name": "Legend & Stories Discounted",
-            "price": "Price tier 1",
+            "price": "0.99",
             "tier": 1,
             "sku": "LegendStoriesDiscounted"
         },
